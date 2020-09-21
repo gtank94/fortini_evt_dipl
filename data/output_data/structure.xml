@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<xml xmlns="http://www.w3.org/1999/xhtml">
+   <msDesc active="1"/>
+   <headerInfo active="1"/>
+   <bibliography active="1"/>
+   <front active="1"/>
+   <regesto active="1"/>
+   <translation active="1"/>
+   <liste>
+      <listPerson active="1" lang="def">LIST_PERSON</listPerson>
+   </liste>
+   <editions>
+      <edition data-key="dipl">Diplomatic</edition>
+   </editions>
+   <textpage>
+      <text n="Fmsrosso_text" label="Ms rosso (1)">
+         <pb n="1">msr_fol_1r</pb>
+         <pb n="2">msr_fol_2r</pb>
+         <pb n="3">msr_fol_3r</pb>
+      </text>
+      <text n="Fmsblu_text" label="Ms blu (2)">
+         <pb n="1">msb_fol_1r</pb>
+         <pb n="2">msb_fol_2r</pb>
+         <pb n="3r">msb_fol_3r</pb>
+         <pb n="3v">msb_fol_3v</pb>
+      </text>
+      <text n="Fms3_text" label="Ms 3 ter (3)">
+         <pb n="1">ms3_fol_1r</pb>
+         <pb n="2">ms3_fol_2r</pb>
+         <pb n="3">ms3_fol_3r</pb>
+      </text>
+   </textpage>
+   <pages>
+      <pair>
+         <pb n="1">msr_fol_1r</pb>
+      </pair>
+      <pair>
+         <pb n="2">msr_fol_2r</pb>
+      </pair>
+      <pair>
+         <pb n="3">msr_fol_3r</pb>
+      </pair>
+      <pair>
+         <pb n="1">msb_fol_1r</pb>
+      </pair>
+      <pair>
+         <pb n="2">msb_fol_2r</pb>
+      </pair>
+      <pair>
+         <pb n="3r">msb_fol_3r</pb>
+      </pair>
+      <pair>
+         <pb n="3v">msb_fol_3v</pb>
+      </pair>
+      <pair>
+         <pb n="1">ms3_fol_1r</pb>
+      </pair>
+      <pair>
+         <pb n="2">ms3_fol_2r</pb>
+      </pair>
+      <pair>
+         <pb n="3">ms3_fol_3r</pb>
+      </pair>
+   </pages>
+   <idno>VB</idno>
+</xml>

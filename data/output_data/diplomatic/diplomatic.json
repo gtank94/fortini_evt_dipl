@@ -1,0 +1,2501 @@
+
+				{"pages": [
+				
+					
+									{
+									"line" : "|",
+									"text" : "Manoscritto di tre carte scritte solo nel fronte con la stessa penna di colore rosso. Le strofe sono la 4 e la 5 del componimento, seguite dalla 12, cioè la sezione 4 del poemetto, seguite dalla sezione 5 e dalla 6.",
+									"tags" : "Fmsrosso_text|Ms rosso (1)",
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "true"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "Le correzioni dovrebbero risalire ad una fase appena successiva alla stesura del testo a differenza degli altri manoscritti della Risposta, i quali presentano la maggior parte delle correzioni con penna diversa. Rispetto alle altre carte, il manoscritto risulterebbe essere la prima stesura, seguito poi dal ms. blu, con riscrittura di alcune strofe qui già presenti e l'aggiunta di altre, e dal ms. blu ter, versione probabilmente appena precedente alla poesia pubblicata su &quotes;Officina&quotes;.",
+									"tags" : "Fmsrosso_text|Ms rosso (1)",
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "true"
+									},
+								
+									{
+									"line" : "|",
+									"text" : "Da una certa scansione della stesura, già è evidente ",
+									"tags" : "Fmsrosso_text|Ms rosso (1)",
+									"loc" : "no_page_info|no_page_info",
+									"inFront": "true"
+									},
+								
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 E anch'io ho veduto in una sera oscura ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 [di] come [quella che tu] la tua, a Bologna, una festa ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 di confuse bandiere [:][;] e disfarsi come [restanti][resti] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 di  canti, i gruppi [della gente]  ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "[e nella luce dura] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "05 del neon per i viali... [Era] [Dalla mesta]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "[Il[ sociali] socialismo] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "00 [e putrida] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "[per un sapere, per essere] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "06 era un passato, un'altra morta età.   ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "00 e fu soldati e contadini, noi,",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "fu i giovani ciclisti e i bar, le donne ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "01 come la vecchia inascoltata e nera ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "02 che usciva dalla [straziante][livida] novena ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "03 di una chiesa di incenso dove la pena ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "04 dell'agonia [ha] s'accorda con la sera ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "05 dei sensi e tutto [è una] è vano ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "06 (strazio)(gelo)(freddo) d'infanzia, cieca verità...  ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "00 Veramente si fu servi di stolti",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "veramente [confusa ][tradit[a][o il nostro tempo sano]][ fu la][ si fu servi delle ore]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "veramente contrito di nostri [ver] volti",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "veramente dedito il nostro amore",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "veri e tradito il nostro vero amore ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "01 Veramente si fu servi delle ore ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "02 veramente si fu servi di stolti ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "03 veramente contrit[o][i] il nostr[o][i] volt[o][i] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "04 veri [e][,] tradito il nostro vero amore ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "05 e l'ultima parola che ora ascolti, ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "06 compagno, (non fu detta)(non si disse mai) per viltà.  ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "01 o non fu detta perché era più libera",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "01 e più felice degli altri e di noi",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "01 pianto e m p perché ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 o non fu detta perché era più libera ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 e più felice [e si voleva] della nostra esistenza ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 perché non si doveva [nomi] mai nominarla senza ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 nominare anche il no, anche la vita ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 dei nemici, degli altri, della immensa ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 [turba ][che applaude ogni nostra ansietà][congiura che gode ogni nostra ansietà]    ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "01 &quotes;L'obbietto obbietta&quotes; dice[, amaro viso][l'amico] e cade",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "02 l'idolo dell'essenza. Troppo tardi!&quotes;",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "03 già l'esistenza [mentre trem][insieme guardi]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "00 [insanguina le selci delle strade]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "[titoli neri nelle nere strade]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "03 [di Milano,] [inse] [in]sanguina le strade",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "04 come una volta    ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "00 Ma più forte [degli idoli] dei    ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "era amore, era      ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "[[l][L]a canaglia che aspetta]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "01 E chi aspetta di leggere domani ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "02 una consolazione dalle righe ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "03 di piombo del giornale; e chi le scrive ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "04 nell'afa delle redazioni[,][con] mani ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "05 di devoti assassini; e chi le nemiche ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "06 parole spia per farne scusa a sé. ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "00 Combray",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "'Partito di coscienza'",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "01 [e chi] sono i nostri compagni, [che in altri tempi][che non credono] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "00 abbiamo amati e [che] ora ci fanno paura ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "02 [più a nulla][ a nulla più] se non alle parole [che hanno] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "00 [insegnate] agli operai insegnate, [e che][all'inganno][e che vanno] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "03 che hanno insegnato agli operai, parole ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "04 che ritornano a loro come fede ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "00 [a conferma di chi non può] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "05 o rabbia [come][o rancore o] grido di chi vuole ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "06 quel che non ha, non quello che sa. ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "01 Ma più forte dei loro brusii, più sottile",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "02 dei nostri ragionamenti, più astuta",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "03 del destino, [ritesse la][ritessono la].......",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "00 [i rapporti di produzione, la caduta]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "03 [del tasso dei titoli]e forze produttive si tramutano",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "00 la bianca fedeltà senza vergogna, amore o uomini",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "04 in rapporti (di)(e) produzione, [la][e] [] [sta]",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "01 questa, in ultima analisi, in rapporto ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "02 con il verso che scrivo... Nelle [fabbriche][officine] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "03 di Varsavia [s'accosta amari labbri][i consig][Goznik][alle][altri uomini i destini][oltre le rigide mattine] ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "00 stringono come ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "04 di ferraglia e di ruggine, fra smorti ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "05 cortili, [odono][siano] la fine ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "06 dei nostri tempi nell [a voce] [e cifre] che ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "01 [lui][Goznizk pronuncia al][Goznizk] legge al microfono [alle] sue folle  ",
+											"tags" : "Fmsrosso_text Fmsblu_text|Ms rosso (1) Ms blu (2)",
+											"loc" : "msr_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 Sì, non paura di tornare quali ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 siamo stati, tremanti dentro l'anima, ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 non ritegno di errore ci trattiene ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 come tu credi. E [a]i nostri ultimi mali ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 nuovo sangue, non gelo, hanno le vene: ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 non orgoglio, ma irta carità.   ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "01 Era dei falsi asceti il falso ardore ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "02 che repugnava. [Era][a noi] l'unione infame ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "03 di disprezzo dei moti [umili][chiusi] in cuore ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "04 [a][e] tutti - la spontaneità! - [, la fame] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "05 [di storia!) con] [e di][l']elogio dei semplici. [Era o][O]nore ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "06 della ragione, il nostro, non virtù ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "01 astratta, non orgoglio...   ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "*  ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "01 La storia nostra, vedi, non è finita. ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "02 Quando tu ne hai parlato, io scrissi in odio ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "03 alla pietà che ti vinceva, in odio ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "04 a chi plaudiva nel verso la vita ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "05 miele dei morti e del peccato, vischio ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "06 che fa dolce la nausea e la pietà[.][:]  ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 E anch'io ho veduto in una sera oscura ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 come la tua, [ma] a Bologna, una festa ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 di [confuse][contratte] bandiere; [e sfarsi, resti][poi disfarsi con i resti] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 di cori, i [gruppi][morti][vecchi infanti] nella [luce] dura ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 [luce] del neon, [per i][sui] viali... Il socialismo ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 era un passato, un'altra [morta][chiusa] età ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "01 Come la vecchia inascoltata e nera ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "02 che usciva da[ una][lla] livida novena ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "03 di incenso e di cera, [nel][e] buio, dove la pena ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "04 dell'agonia si culla nella sera ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "05 dei sensi e tutto è un vano ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "06 strazio d'infanzia, cieca verità... ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "01 Anch'io so, più di te so, che sia questo ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "02 orrore della [musica che] povera speranza ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "03 dei poveri, degli ingannati senza ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "04 [riscatto] possibile riscatto [mentre//mente]; di chi presto ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "05 sarà vissuto, [con la sua esperienza,][misera sapienza] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "06 spoglia di verità.  ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "Ma non chiedo per me sorte diversa ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "non domando il sorriso triste della ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "tua saggezza. Tu mostri",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "Ma tu [mos] chi sei che mostri come fossero",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "tuoi fratelli  ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "01 Ma tu chi sei che di pietà impietosa ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "02 colori [l] i versi dove tutti [sono][ciechi] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "03 fuor di te, [ciechi][sono]? [Dove tutti sono] [Dove rechi] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "04 larve d'uomini, dove non c'è cosa",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "05 che non [arda][arda] insensata? Con un suono",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "06 di crepitante vanità? ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "03 [Questo ci divide sono] [Nei vicoli biechi] ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "04 e teneri ti sciogli nell'afosa ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "05 notte romana e poi torni e ti rechi ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "33|line 33",
+											"text" : "06 intatto al verso. Quale libertà ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "ti concedi che agli altri non è data, ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "quale sapienza che gli altri non rendono",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "non sia d'orgoglio ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "Quella libertà",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "07 che ti perdoni, ad altri la [cambi][togli]",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "e il privilegio della poesia ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "è corona a celare la ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "e del [male][sonno][più][sei] complice e del [sonno][male]",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "09 [più colpevole] del tuo popolo. A corte poi,[ ti vale]",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "10 leggere [le tue carte] come l'animo disfogli",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "11 nei tuoi poemi, [soavemente.] [il pianto. Agli altri il male] [in limpide querele] ...",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "000 [che la Passione fornisce]",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "12 [a chi, come te, sa//ha]",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3r|3r",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 No, non paura di tornare quali ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 siamo stati, cristiani nella cenere, ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 né ritegno di essere ci trattiene ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 come tu dici. [I][Dai] nostri ultimi mali ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 nuovo sangue, non gelo, hanno le vene, ",
+											"tags" : "Fmsblu_text|Ms blu (2)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 non orgoglio, ma irta carità.   ",
+											"tags" : "Fmsblu_text Fms3_text|Ms blu (2) Ms 3 ter (3)",
+											"loc" : "msb_fol_3v|3v",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "  Risposta a Pasolini   1",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 No, non paura di tornare quali ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 siamo stati, cristiane anime in cenere, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 né ritegno di errore ci trattiene, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 come dici. Dai nostri ultimi mali ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 nuovo sangue, non gelo, hanno le vene, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 non orgoglio ma irta carità.   ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "01 Era dei falsi asceti il falso ardore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "02 che repugnava a noi [;][:] l'unione infame ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "03 di disprezzo [dei][pei] moti chiusi in cuore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "04  [di][a] tutti (la spontaneità, la 'fame ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "05 di storia'!) con l'elogio dei semplici. Onore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "06 della ragione, il nostro, non virtù ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "01 astratta, non orgoglio [comunista][moralista] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "02 questo almeno nei voti. [Non il pianto]  ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "che lunghi anni [inghiottito in me][ho in me [nascosto][chiuso]], [ma] il canto",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "03 [dei] che [mi ha] si faceva grido era la ''   ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "02  [E ora se canto] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "03 a me il mio cuore antico, se mi chiedi ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "04 chi sono, smorto letterato ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "05 io ti rispondo: [non] (che il mio pianto vedi)(più che tu non credi) ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "06 non si vergogna più.    2",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "01 E anch'io ho [veduto][saputa] in una turba oscura ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "02 come la tua, ma a Bologna, una festa ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "03 di bandiere rapprese; e poi fra i resti ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "04 di cori, i vecchi-infanti nella dura ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "05 luce del neon, [sui viali]... Il socialismo[, [questi]][tristi] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "06 [morti,] [corpi,] era [era] [era dunque] ( [mi parve,])([era un passato]) : un'altra chiusa età   ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "01 Come la vecchia inascoltata e nera ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "02 che usciva dalla livida novena ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "03 di incenso e cera e buio, dove la pena ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "33|line 33",
+											"text" : "04 dell'agonia si culla nella sera ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "34|line 34",
+											"text" : "05 dei sensi e tutto è un vano ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "35|line 35",
+											"text" : "06 strazio d'infanzia, cieca verità...   ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "36|line 36",
+											"text" : "01 Anch'io so, più di te so, che sia questo ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "37|line 37",
+											"text" : "02 orrore della povera speranza ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "38|line 38",
+											"text" : "03 dei poveri, degli ingannati, senza ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "39|line 39",
+											"text" : "04 possibile riscatto; di chi presto ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "40|line 40",
+											"text" : "05 sarà vissuto, misera sapienza ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41|line 41",
+											"text" : "06 [spo] orba di verità. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41bis|line 41bis",
+											"text" : "(  ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "42|line 42",
+											"text" : "Ma tu chi sei che di pietà impietosa ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "43|line 43",
+											"text" : "08 dài grazia ai versi dove [tutti][sono] ciechi, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "44|line 44",
+											"text" : "09 fuor di te, [sono][tutti]? Nei vicoli biechi ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "45|line 45",
+											"text" : "10 e teneri ti sciogli dell'afosa ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "46|line 46",
+											"text" : "11 notte di Roma e poi torni e ti rechi ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "47|line 47",
+											"text" : "12  intatto al verso. Quella libertà ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "48|line 48",
+											"text" : "13  che ti perdoni, ad altri tu la togli ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "14  e del sonno sei complice e del male ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "15  del tuo popolo. A corte, poi, ti vale ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "16 leggere come l'animo disfogli ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "17 nei tuoi poemi in limpide querele ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "18 [a][fra] chi, come te, sa...  3.",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "01 Mi provo ad un non mio discorso, vedi, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "02 credendo che anche a me la rima e il verso ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "03 (fingano forza ad)(diano la forza) d'esser diverso ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "04 dai miei vizi. Non credo a quel che credi, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "05 altre vie dalle tue m'hanno converso ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "06 a questa [sillabata][faticata] povertà ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "01 La nostra storia[, vedi,] non è [mai] finita. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "02 Quando tu ne hai parlato, io scrissi in odio ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "03 alla pietà che ti vinceva, in odio ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "04 a chi plaudiva nel verso la vita ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "05 miele dei morti e del peccato, vischio ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "06 che fa dolce la nausea e la pietà: ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "01 Non la Speranza dico, la cagna ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "02 affamata che non si sazia mai ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "03 e vagabonda ai confini. Tu sai ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "04 quanta con lei si celebra vergogna ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "05 quanta con lei viltà. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "06 Una volta sperare era sperare ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "07 aria (d'amore)(d'ozio) o di campagna, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "08 o d'infanzia risorta o un pianto o un mare ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "09 dove spunti una vela, una montagna ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "10 bruna per la distanza, una città ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "11 dove perdersi in pace. Piano, un passo ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "12 dopo l'altro, è mutata, [si sono] spenti i simboli ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "13 ridicoli, quei [dolci][miti] blandi limbi. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "14 E la speranza ora è convulso passo ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "15 di bestia, dentro di noi, che viene e va. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "33|line 33",
+											"text" : "[.....] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "34|line 34",
+											"text" : "01 [Passi] [Vaghi] [Sogni] fra i corpi e credi al loro sangue ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "35|line 35",
+											"text" : "02 buono a bere, al calore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "36|line 36",
+											"text" : "03 vile e dolce. Cammini giudicando, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "37|line 37",
+											"text" : "04 non giudicando, intriso ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "38|line 38",
+											"text" : "05 d'altri, per umiliarti e, in fondo, vincere. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "39|line 39",
+											"text" : "06 Non è la colpa che insapora questo ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "40|line 40",
+											"text" : "07 [vagabondare][tuo vagare] fra [voluttuose ombre][ombre voluttuose] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41|line 41",
+											"text" : "08 di parchi, di balconi, d'archivolti, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "42|line 42",
+											"text" : "09 le notti aride; non è più che un ansito ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "43|line 43",
+											"text" : "10 per ricordare. Sei solo, ed è quello ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "44|line 44",
+											"text" : "11 che vuoi... ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_2r|2",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "no line info|no line info",
+											"text" : "[4] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "01 (Veramente si fu servi [di stolti] delle ore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "2|line 2",
+											"text" : "02 veramente si fu servi di stolti ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "3|line 3",
+											"text" : "03 veramente contriti i nostri volti ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "4|line 4",
+											"text" : "04 veri, [e ]tradito il nostro vero amore. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "5|line 5",
+											"text" : "05 E l'ultima parola che ora ascolti ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "6|line 6",
+											"text" : "06 non [fu][la] detta, compagno, per viltà, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "7|line 7",
+											"text" : "07 e non (fu)(l'ho mai) detta perché era più libera ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "8|line 8",
+											"text" : "08 e più felice di questa esistenza, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "9|line 9",
+											"text" : "09 [perché] [comune] [perché] non si poteva dirla senza ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "10|line 10",
+											"text" : "10 (nostra, né) dire anche il no...)  ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "07 [l'amore non lo dissi perché]",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "08 troppo e più [immensa][grande ] della [mia esistenza][delle mie][ a questa esistenza]",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "13|line 13",
+											"text" : "09 nostra ed era menzogna dirla senza",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "14|line 14",
+											"text" : "10 dire anche l'altro, dire anche di no...   [3][5] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "15|line 15",
+											"text" : "01 Ma chi aspetta di leggere domani ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "16|line 16",
+											"text" : "02 una consolazione dalle righe ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "17|line 17",
+											"text" : "03 di piombo del giornale; e chi le scrive ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "04 nell'afa delle redazioni, con mani ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "19|line 19",
+											"text" : "05 di assassini devoti; e chi le nemiche ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "20|line 20",
+											"text" : "06 parole spia per farne scusa a sé, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "21|line 21",
+											"text" : "01 sono i nostri compagni! Che non credono ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "22|line 22",
+											"text" : "02 a nulla più se non alle parole ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "23|line 23",
+											"text" : "03 che hanno insegnate agli operai; parole ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "24|line 24",
+											"text" : "04 che ritornano a loro come fede ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "25|line 25",
+											"text" : "05 stravolta o rabbia o grido di chi vuole ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26|line 26",
+											"text" : "06 quel che non ha non [più] quel[lo] che non sa ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "26bis|line 26bis",
+											"text" : "[4.][6.]",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "27|line 27",
+											"text" : "01 [Ma][Pure] più forti dei loro brusii, più sottil[e][i] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "28|line 28",
+											"text" : "02 dei nostri ragionamenti, più astut[i][e] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "29|line 29",
+											"text" : "03 [del destino][della passione], ritessono [la muta] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "30|line 30",
+											"text" : "04 [realtà con le sue tenaci file] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "05 le forze produtti[ve][ve] e si tramutano ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "31|line 31",
+											"text" : "06 in rapporti di produzione, e sta ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "32|line 32",
+											"text" : "01 questa, in ultima analisi, in rapporto ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "33|line 33",
+											"text" : "02 (con [la ansia][ritm] che ti scrivo...)(con [il verso][la parola][quest'ansia] che scrivo... ) Nelle officine ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "34|line 34",
+											"text" : "03 di Varsavia, le [rigide][disperate] mattine ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "35|line 35",
+											"text" : "04 ([gr] di gelo, abrasivi, binari)(di [ferraglia][di amianto][abrasivi][binari]) e di ruggine, fra smorti ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "36|line 36",
+											"text" : "05 cortili, odono [forse ora] la fine ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "37|line 37",
+											"text" : "06 dei nostri tempi, nelle cifre che ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "38|line 38",
+											"text" : "01 Grodzizk (legge)(infigge) il microfono su folle ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "39|line 39",
+											"text" : "02 grige e decise come [quelle ][altre,]allora , ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "40|line 40",
+											"text" : "03 sui graniti di Pietrogrado; e chi ora ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "41|line 41",
+											"text" : "04 va nei parchi di Buda[pest] e le [quieto] zolle ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "42|line 42",
+											"text" : "05 [fissa][guarda][ peste][lerce] di [foglie e cingoli][cingoli e passi], lavora ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "43|line 43",
+											"text" : "06 [anche per] in [suo] cuore[,] poeta,anche per te.  [5.][7]",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "44|line 44",
+											"text" : "01 Non ti dico speranza. Ma è speranza. ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "45|line 45",
+											"text" : "02 Questa parola che ti porgo è niente, ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "46|line 46",
+											"text" : "03 la sperde il giorno e me con essa. E niente ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "47|line 47",
+											"text" : "04 ci consola di essere sostanza ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "48|line 48",
+											"text" : "05 delle cose sperate. Su queste [lente][spente][lente] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "49|line 49",
+											"text" : "06 sere di [pioggia][bruma] e calce la città ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "49|line 49",
+											"text" : "01 che mi porta (si assonna)(inturbata) nei viali ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "50|line 50",
+											"text" : "02 [da][fra] autotreni di [fango][buio] [e buio,][e sempre] muore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "50|line 50",
+											"text" : "03 fra ponti di bitume, fari, scorie... ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "51|line 51",
+											"text" : "04 Qui sarò stato[. Dentro i generali] [io e vivo. Ai generali] ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "1|line 1",
+											"text" : "05 destini che mi struggono, [l'][il mio]errore ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "52|line 52",
+											"text" : "(06 sempre [il][col] vero, che mi[ei][o] fu[rono], sarà )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "53|line 53",
+											"text" : "( [mio col mio vero per sempre sarà.] )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "54|line 54",
+											"text" : "([mio per sempre col vero mio sarà] )( )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "55|line 55",
+											"text" : "(mio, e per sempre, [ma] e più il vero mio, sarà )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "56|line 56",
+											"text" : "(mio e più il mio vero, per sempre, sarà. )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "57|line 57",
+											"text" : "(per sempre e più il mio vero resterà )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "58|line 58",
+											"text" : "([sempre e][ma] più il mio vero, [sempre] [che fu mio] resterà )",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "59|line 59",
+											"text" : "(che fu mio, e il [più] il mio vero, resterà ) ",
+											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_3r|3",
+											"inFront": "false"
+										},
+									 { "line" : "", "text" : "", "tags" : "", "loc" : "" }]}
+			

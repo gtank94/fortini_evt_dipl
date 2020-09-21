@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="./schema/tei_0304.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+
+
+                <title type="main">Risposta a Pasolini</title>
+                <title type="sub">Edizione digitale</title>
+                <respStmt>
+                    <resp>Edizione critica e codifica di:</resp>
+                    <name xml:id="GT">Giulia Tancredi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Siena, Archivio Franco Fortini</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <altIdentifier>
+                            <repository>Fondo Franco Fortini dell'Università di Siena</repository>
+                            <idno>Scatola Poesie (3a), Carta 31</idno>
+                        </altIdentifier>
+
+                        <msName>Manoscritto blu</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <colophon/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+
+                                <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
+                                    l'ordine cronologico e sono state rese con colori differenti e
+                                    cioè:</p>
+                                <p>
+                                    <hi rend="#0083bb">prima variante</hi></p>
+                                <p><hi rend="#1ec0b1">seconda variante</hi></p>
+                                <p><hi rend="#83bf3b">terza variante</hi></p>
+                                <p><hi rend="#f8a700">quarta variante</hi>.</p>
+                                <p>L'ultima e definitiva è quella non cassata.</p>
+                                <p>In <hi rend="#d74643">rosso</hi> invece le <hi rend="bold"
+                                        >varianti immediate</hi>, cioè quelle apportate durante la
+                                    stesura. Per le <hi rend="bold">varianti alternative</hi>,
+                                    lasciate a margine o comunque non scelte dall'autore, si è
+                                    pensato di inserirle tra parentesi tonde. Questo tipo di
+                                    varianti sono state marcate con "rdg"; se una delle varianti è
+                                    stata accolta in una successiva stesura si è preferito marcarla
+                                    con "lem"; nel lettore sarà individuabile attraverso il <hi
+                                        rend="#edbf5a">giallo</hi>. </p>
+                                <p>Tra parentesi e quadre in corsivo sono rappresentate delle
+                                    possibili letture di parole illeggibili.</p>
+                            </supportDesc>
+                        </objectDesc>
+
+
+                    </physDesc>
+
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <!--<facsimile xml:id="msb_fac_blu">
+        <surface xml:id="msb_surf_1r" corresp="#msb_fol_1r">
+            <graphic url="../images/single/msb_fol_1r.jpg" width="577.4px" height="813.4px"/>
+            <zone corresp="#v_1_1r" ulx="77" uly="39" rend="visible" rendition="Line" lrx="300"
+                lry="64" xml:id="v1_1r"/>
+            <zone corresp="#v_2_1r" ulx="79" uly="72" rend="visible" rendition="Line" lrx="360"
+                lry="91" xml:id="v2_1r"/>
+            <zone corresp="#v_3_1r" ulx="75" uly="95" rend="visible" rendition="Line" lrx="295"
+                lry="107" xml:id="v3_1r"/>
+            <zone corresp="#v_4_1r" ulx="78" uly="115" rend="visible" rendition="Line" lrx="348"
+                lry="131" xml:id="v4_1r"/>
+            <zone corresp="#v_5_1r" ulx="77" uly="142" rend="visible" rendition="Line" lrx="359"
+                lry="159" xml:id="v5_1r"/>
+            <zone corresp="#v_6_1r" ulx="75" uly="159" rend="visible" rendition="Line" lrx="295"
+                lry="185" xml:id="v6_1r"/>
+            <zone corresp="#v_7_1r" ulx="81" uly="203" rend="visible" rendition="Line" lrx="349"
+                lry="228" xml:id="v7_1r"/>
+            <zone corresp="#v_8_1r" ulx="77" uly="233" rend="visible" rendition="Line" lrx="356"
+                lry="254" xml:id="v8_1r"/>
+            <zone corresp="#v_9_1r" ulx="83" uly="258" rend="visible" rendition="Line" lrx="361"
+                lry="279" xml:id="v9_1r"/>
+            <zone corresp="#v_10_1r" ulx="82" uly="282" rend="visible" rendition="Line" lrx="357"
+                lry="303" xml:id="v10_1r"/>
+            <zone corresp="#v_11_1r" ulx="9" uly="306" rend="visible" rendition="Line" lrx="345"
+                lry="334" xml:id="v11_1r"/>
+            <zone corresp="#v_12_1r" ulx="87" uly="339" rend="visible" rendition="Line" lrx="318"
+                lry="360" xml:id="v12_1r"/>
+            <zone corresp="#v_13_1r" ulx="77" uly="389" rend="visible" rendition="Line" lrx="253"
+                lry="417" xml:id="v13_1r"/>
+            <zone corresp="#v_14_1r" ulx="77" uly="472" rend="visible" rendition="Line" lrx="337"
+                lry="499" xml:id="v14_1r"/>
+            <zone corresp="#v_15_1r" ulx="80" uly="503" rend="visible" rendition="Line" lrx="390"
+                lry="526" xml:id="v15_1r"/>
+            <zone corresp="#v_16_1r" ulx="82" uly="536" rend="visible" rendition="Line" lrx="309"
+                lry="556" xml:id="v16_1r"/>
+            <zone corresp="#v_17_1r" ulx="84" uly="561" rend="visible" rendition="Line" lrx="332"
+                lry="585" xml:id="v17_1r"/>
+            <zone corresp="#v_18_1r" ulx="85" uly="590" rend="visible" rendition="Line" lrx="382"
+                lry="611" xml:id="v18_1r"/>
+            <zone corresp="#v_19_1r" ulx="85" uly="617" rend="visible" rendition="Line" lrx="349"
+                lry="638" xml:id="v19_1r"/>
+
+        </surface>
+
+        <surface xml:id="msb_surf_2r" corresp="#msb_fol_2r">
+            <graphic url="../images/single/msb_fol_2r.jpg"/>
+        </surface>
+
+        <surface xml:id="msb_surf_3r" corresp="#msb_fol_3r">
+            <graphic url="../images/single/msb_fol_3r.jpg" width="541.4px" height="779.4px"/>
+            <zone corresp="#v_1_3r" ulx="48" uly="42" rend="visible" rendition="Line" lrx="393"
+                lry="69" xml:id="v1_3r"/>
+            <zone corresp="#v_2_3r" ulx="57" uly="77" rend="visible" rendition="Line" lrx="445"
+                lry="92" xml:id="v2_3r"/>
+            <zone corresp="#v_3_3r" ulx="229" uly="100" rend="visible" rendition="Line" lrx="422"
+                lry="124" xml:id="v3_3r"/>
+
+            <zone corresp="#v_4_3r" ulx="115" uly="130" rend="visible" rendition="Line" lrx="275"
+                lry="166" xml:id="v4_3r"/>
+            <zone corresp="#v_5_3r" ulx="44" uly="180" rend="visible" rendition="Line" lrx="411"
+                lry="218" xml:id="v5_3r"/>
+            <zone corresp="#v_6_3r" ulx="41" uly="229" rend="visible" rendition="Line" lrx="355"
+                lry="258" xml:id="v6_3r"/>
+            <zone corresp="#v_7_3r" ulx="43" uly="260" rend="visible" rendition="Line" lrx="289"
+                lry="284" xml:id="v7_3r"/>
+            <zone corresp="#v_8_3r" ulx="60" uly="288" rend="visible" rendition="Line" lrx="491"
+                lry="312" xml:id="v8_3r"/>
+            <zone corresp="#v_9_3r" ulx="63" uly="334" rend="visible" rendition="Line" lrx="529"
+                lry="363" xml:id="v9_3r"/>
+            <zone corresp="#v_10_3r" ulx="69" uly="371" rend="visible" rendition="Line" lrx="417"
+                lry="404" xml:id="v10_3r"/>
+            <zone corresp="#v_11_3r" ulx="57" uly="419" rend="visible" rendition="Line" lrx="534"
+                lry="495" xml:id="v11_3r"/>
+            <zone corresp="#v_12_3r" ulx="58" uly="503" rend="visible" rendition="Line" lrx="346"
+                lry="531" xml:id="v12_3r"/>
+            <zone corresp="#v_13_3r" ulx="61" uly="539" rend="visible" rendition="Line" lrx="293"
+                lry="567" xml:id="v13_3r"/>
+
+
+
+
+
+        </surface>
+        <surface xml:id="msb_surf_3v" corresp="#msb_fol_3v">
+            <graphic url="../images/single/msb_fol_3v.jpg" width="541.4px" height="779.4px"/>
+            <zone corresp="#v_1_3b" ulx="37" uly="42" rend="visible" rendition="Line" lrx="277"
+                lry="63" xml:id="v1_3b"/>
+            <zone corresp="#v_2_3b" ulx="36" uly="74" rend="visible" rendition="Line" lrx="319"
+                lry="92" xml:id="v2_3b"/>
+            <zone corresp="#v_3_3b" ulx="36" uly="96" rend="visible" rendition="Line" lrx="285"
+                lry="111" xml:id="v3_3b"/>
+            <zone corresp="#v_4_3b" ulx="41" uly="122" rend="visible" rendition="Line" lrx="305"
+                lry="138" xml:id="v4_3b"/>
+            <zone corresp="#v_5_3b" ulx="41" uly="152" rend="visible" rendition="Line" lrx="344"
+                lry="168" xml:id="v5_3b"/>
+            <zone corresp="#v_6_3b" ulx="38" uly="182" rend="visible" rendition="Line" lrx="277"
+                lry="200" xml:id="v6_3b"/>
+        </surface>
+    </facsimile>-->
+
+    <text xml:id="Fmsblu_text" n="Ms blu (2)">
+        <front>
+            <p>Seconda stesura pervenutaci della poesia, il manoscritto blu consta di tre carte di
+                cui le prime due sono scritte solo sul fronte e l'ultima, un cartoncino di 10 cm x
+                15 cm, fronte e retro.</p>
+            <p> Le penne usate sono due blu, una più scura usata per prima, e una più chiara usata
+                per correggere la penna scura e poi per ricopiare la seconda strofa del foglio 2 dal
+                ms. rosso e per continuare a stendere le nuove strofe. Possiamo dunque individuare
+                due momenti della scrittura (o comunque la volontà dell'autore di mantenerli
+                distinti).</p>
+            <p>Il <hi rend="bold">foglio 1</hi> presenta ordinatamente le strofe 1 e 2 del
+                componimento finale in penna blu scuro; probabilmente anche il foglio 1, come il 2
+                lo è del ms. rosso, è una riscrittura di uno scartafaccio precedente (si vedano i
+                versi ordinati e perfettamente in riga). Dopo l'asterisco la strofa di accusa e
+                domanda a Pasolini. </p>
+            <p>Nel <hi rend="bold">foglio 2</hi> Fortini ricopia le prime due strofe del ms. rosso,
+                poi strofe 4 e 5 del componimento su Officina ("E anch'io ho veduto.." e "come la
+                vecchia inascoltata..."), procedendo con la prima stesura delle strofe 6, 7 e 8,
+                quest'ultima scritta nel recto del cartoncino (<hi rend="bold">foglio 3r</hi>).</p>
+            <p>Il <hi rend="bold">foglio 3v</hi> è la seconda stesura della prima strofa del
+                componimento, evidente dalla correzione del primo verso, da "Sì, non paura..." a
+                "No, non paura...", accettata nel ms. blu ter.</p>
+        </front>
+
+        <body>
+
+            <pb n="1" xml:id="msb_fol_1r"/>
+
+
+            <lg n="1">
+                <lb n="1" facs="#v1_1r" xml:id="v_1_1r"/>
+                <l n="1">Sì, non paura di tornare quali </l>
+                <lb n="2" facs="#v2_1r" xml:id="v_2_1r"/>
+                <l n="2">siamo stati, tremanti dentro l'anima,</l>
+                <lb n="3" facs="#v3_1r" xml:id="v_3_1r"/>
+                <l n="3">non ritegno di errore ci trattiene</l>
+                <lb n="4" facs="#v4_1r" xml:id="v_4_1r"/>
+                <l n="4">come tu credi. E <del seq="1">a</del>i nostri ultimi mali</l>
+                <lb n="5" facs="#v5_1r" xml:id="v_5_1r"/>
+                <l n="5">nuovo sangue, non gelo, hanno le vene:</l>
+                <lb n="6" facs="#v6_1r" xml:id="v_6_1r"/>
+                <l n="6">non orgoglio, ma irta carità.</l>
+            </lg>
+            <lb/>
+
+            <lg n="2">
+                <lb n="7" facs="#v7_1r" xml:id="v_7_1r"/>
+                <l n="1">Era dei falsi asceti il falso ardore</l>
+                <lb n="8" facs="#v8_1r" xml:id="v_8_1r"/>
+                <l n="2">che repugnava. <subst>
+                        <del seq="1">Era</del>
+                        <add seq="2">a noi</add>
+                    </subst> l'unione infame</l>
+                <lb n="9" facs="#v9_1r" xml:id="v_9_1r"/>
+                <l n="3">di disprezzo dei moti <subst>
+                        <del seq="1">umili</del>
+                        <add seq="2">chiusi</add>
+                    </subst> in cuore</l>
+                <lb n="10" facs="#v10_1r" xml:id="v_10_1r"/>
+                <l n="4"><subst>
+                        <del seq="1">a</del>
+                        <add seq="2">e</add>
+                    </subst> tutti - la spontaneità! - <add seq="2">, la fame</add></l>
+                <lb n="11" facs="#v11_1r" xml:id="v_11_1r"/>
+                <l n="5"><add seq="2">di storia!) con</add>
+                    <subst>
+                        <del seq="1">e di</del>
+                        <add seq="2">l'</add>
+                    </subst>elogio dei semplici. <del seq="1">Era o</del><add seq="2"
+                    >O</add>nore</l>
+                <lb n="12" facs="#v12_1r" xml:id="v_12_1r"/>
+                <l n="6">della ragione, il nostro, non virtù</l>
+            </lg>
+
+            <lg n="3">
+                <lb n="13" facs="#v13_1r" xml:id="v_13_1r"/>
+                <l n="1">astratta, non orgoglio...</l>
+            </lg>
+            <lb/>
+
+            <lb n="14"/>
+            <l>*</l>
+
+            <lb/>
+
+
+            <lg n="3">
+                <lb n="15" facs="#v14_1r" xml:id="v_14_1r"/>
+                <l n="1">La storia nostra, vedi, non è finita.<note type="critical" resp="#GT">Scrive Fortini in <hi
+                                rend="italic">Attraverso Pasolini</hi>, cit., p. 65: «La
+                        lettura di <hi rend="italic">Una polemica in versi</hi> mi aveva fatto
+                        riprendere un frammento che avevo scritto, non rammento bene, ma forse
+                        l’anno prima, pensando a <hi rend="italic">Le ceneri di Gramsci</hi> e al
+                        suo interrogativo verso di chiusura: “se so che la nostra storia è finita?”.
+                        Quel frammento lo inserii in corsivo in una più ampia e nuova composizione
+                        (…)». Letteralmente la risposta è in questa strofa, ma Fortini si riferisce
+                        a quei versi inseriti leggermente spostati a destra e in corsivo (strofe 11
+                        e 12). </note></l>
+                <lb n="16" facs="#v15_1r" xml:id="v_15_1r"/>
+                <l n="2">Quando tu ne hai parlato, io scrissi in odio</l>
+                <lb n="17" facs="#v16_1r" xml:id="v_16_1r"/>
+                <l n="3">alla pietà che ti vinceva, in odio</l>
+                <lb n="18" facs="#v17_1r" xml:id="v_17_1r"/>
+                <l n="4">a chi plaudiva nel verso la vita</l>
+                <lb n="19" facs="#v18_1r" xml:id="v_18_1r"/>
+                <l n="5">miele dei morti e del peccato, vischio</l>
+                <lb n="20" facs="#v19_1r" xml:id="v_19_1r"/>
+                <l n="6">che fa dolce la nausea e la pietà<subst>
+                        <del seq="1">.</del>
+                        <add seq="2">:</add>
+                    </subst>
+                    <note type="critical" resp="#GT">La sostituzione del punto con i due punti fa presupporre che qui Fortini
+                        pensava già di inserire quei versi in corsivo in «Officina» e ricopiati in
+                        penna rossa e in bella sul ms. blu ter. Non si esclude che nel manoscritto
+                        di prima stesura delle strofe in rosso/corsivo, non pervenutoci, ci fosse
+                        anche questa strofa: si spiegherebbe perché Fortini le ricorda insieme,
+                        mentre tutti i testimoni che possediamo le danno sempre distinte. Più
+                        probabilmente, però, appartengono a momenti differenti che solo ora, come
+                        dimostra l'aggiunta dei due punti, vengono ripresi insieme nel respiro di un
+                        vero e proprio poemetto: infatti la strofa è una sestina, molto più simile
+                        nel ritmo alle altre della <hi rend="italic">Risposta</hi> che ai versi in
+                        rosso/corsivo.</note></l>
+            </lg>
+
+
+
+
+
+
+            <pb n="2" xml:id="msb_fol_2r"/>
+            
+
+            <lg n="4">
+                <lb n="1"/>
+                <l n="1">E anch'io ho veduto in una sera oscura</l>
+                <lb n="2"/>
+                <l n="2">come la tua, <add seq="1" place="above">ma</add> a Bologna, una festa</l>
+                <lb n="3"/>
+                <l n="3">di <subst>
+                        <del seq="1">confuse</del>
+                        <add seq="2" place="margin">contratte</add>
+                    </subst> bandiere; <subst>
+                        <del seq="1">e sfarsi, resti</del>
+                        <add seq="2">poi disfarsi con i resti</add>
+                    </subst></l>
+                <lb n="4"/>
+                <l n="4">di cori, i <subst>
+                        <del seq="1">gruppi</del>
+                        <del seq="2">morti</del>
+                        <add seq="3">vecchi infanti</add>
+                    </subst> nella <del seq="1">luce</del> dura</l>
+                <lb n="5"/>
+                <l n="5"><add seq="1" place="margin">luce</add> del neon, <subst>
+                        <del seq="1">per i</del>
+                        <add seq="2">sui</add>
+                    </subst> viali... Il socialismo</l>
+                <lb n="6"/>
+                <l n="6">era un passato, un'altra <subst>
+                        <del seq="1">morta</del>
+                        <add seq="2">chiusa</add>
+                    </subst> età</l>
+            </lg>
+
+            <lg n="5">
+                <lb n="7"/>
+                <l n="1">Come la vecchia inascoltata e nera</l>
+                <lb n="8"/>
+                <l n="2">che usciva da<subst>
+                        <del seq="1"> una</del>
+                        <add seq="2">lla</add>
+                    </subst> livida novena</l>
+                <lb n="9"/>
+                <l n="3">di incenso e di cera, <subst>
+                        <del seq="1">nel</del>
+                        <add seq="2">e</add>
+                </subst> buio,<note type="critical" resp="#GT">Ms. rosso riportava "di una chiesa di incenso" al posto di
+                        "di incenso e cera, e nel buio".</note> dove la pena</l>
+                <lb n="10"/>
+                <l n="4">dell'agonia si culla nella<note type="critical" resp="#GT">Ms. rosso: si accorda nella</note> sera</l>
+                <lb n="11"/>
+                <l n="5">dei sensi e tutto è un vano</l>
+                <lb n="12"/>
+                <l n="6">strazio d'infanzia, cieca verità...</l>
+            </lg>
+
+            <lg n="6">
+                <lb n="13"/>
+                <l n="1">Anch'io so, più di te so, che sia questo</l>
+                <lb n="14"/>
+                <l n="2">orrore della <del seq="0">musica che</del> povera speranza</l>
+                <lb n="15"/>
+                <l n="3">dei poveri, degli ingannati senza</l>
+                <lb n="16"/>
+                <l n="4"><del seq="0">riscatto</del> possibile riscatto <supplied reason="illegible"
+                            ><del seq="0">mentre/mente</del></supplied>; di chi presto</l>
+                <lb n="17"/>
+                <l n="5">sarà vissuto, <subst>
+                        <del seq="1">con la sua esperienza,</del>
+                        <add seq="2">misera sapienza</add>
+                    </subst></l>
+                <lb n="18"/>
+                <l n="6"><del>spoglia</del> di verità.</l>
+            </lg>
+
+            <p>
+                <lb n="19"/><l>Ma non chiedo per me sorte diversa</l>
+                <lb n="20"/><l>non domando il sorriso triste della</l>
+                <lb n="21"/><l>tua saggezza. <del>Tu mostri</del></l>
+                <lb n="22"/><l>Ma tu <del seq="0">mos</del> chi sei che mostri come fossero</l>
+                <lb n="23"/><l>tuoi fratelli</l><note type="critical" resp="#GT">La strofa, in questa sua prima stesura, ha un
+                    tono molto più fraterno con Pasolini, trasformato poi in una cascata di domande
+                    retoriche acerrime e sardoniche.</note>
+            </p>
+
+            <lg n="7">
+                <lb n="24"/>
+                <l n="1">Ma tu chi sei che di pietà impietosa</l>
+                <lb n="25"/>
+                <l n="2">colori <del seq="0">l</del> i versi dove tutti <subst>
+                        <del seq="1">sono</del>
+                        <add seq="2">ciechi</add>
+                    </subst></l>
+                <lb n="26"/>
+                <l n="3">fuor di te, <subst>
+                        <del seq="1">ciechi</del>
+                        <add seq="2">sono</add>
+                    </subst>? <del seq="1">Dove tutti sono</del>
+                    <del seq="3">Dove rechi</del><note>Il verso, momentaneamente lasciato in
+                        sospeso, verrà ripreso alla riga 30: "Nei vicoli biechi". </note>
+                </l>
+            </lg>
+
+
+
+
+
+
+
+
+            <p><lb n="27"/><l n="4">larve d'uomini, dove non c'è cosa</l>
+                <lb n="28"/><l n="5">che non <subst>
+                        <del seq="1">arda</del>
+                        <add seq="2">arda</add>
+                    </subst> insensata? Con un suono</l>
+                <lb n="29"/><l n="6">di crepitante vanità?</l></p>
+
+
+
+
+            <lg n="7">
+                <lb n="30"/>
+                <l n="3"><del seq="1">Questo ci divide sono</del>
+                    <add seq="3">Nei vicoli biechi</add><note type="critical" resp="#GT">Si noti come il verso sia spostato a
+                        destra per portarlo in linea con il verso modificato in emistichio "fuor di
+                        te, sono?". I tre versi precedenti, qui in grigio, sono lasciati in sospeso
+                        ma probabilmente intesi come cancellati: "biechi" rima con "ciechi" nella
+                        sestina. Fortini, pur camuffando il ritmo della sestina nella macrostrofa di
+                        12 versi, lo riavvolge e riprende. Qui - oltre alla
+                        sintassi che esonda il metro - ad offuscare il ritmo della sestina è anche la verve invettiva, che si vuole 
+                        ancora più travolgente nel continuum di versi. Come succede altrove in
+                        Fortini, il metro (e le sue variazioni) stempera o promuove contenuti accesi del discorso (cfr.
+                        Mengaldo, ...). </note></l>
+
+
+
+                <lb n="31"/>
+                <l n="4">e teneri ti sciogli nell'afosa</l>
+                <lb n="32"/>
+                <l n="5">notte romana e poi torni e ti rechi</l>
+                <lb n="33"/>
+                <l n="6">intatto al verso. Quale libertà</l>
+            </lg>
+
+
+            <pb n="3r" xml:id="msb_fol_3r"/>
+
+            <!--problema: come numerare questi versi? sono pensati come un'unica strofa? nella scrittura successiva si perde la sestina per strofa di 12 versi, 
+                poi nel componimento originale di nuovo sestina. Probabilmente sono versi che avrebbero potuto essere una lunga strofa come successivamente (e cfr. ll linea che unisce 
+            le strofe poi in ms3 -->
+
+
+            <p><lb n="1" facs="#v1_3r" xml:id="v_1_3r"/><l>ti concedi che agli altri non è data,</l>
+                <lb n="2" facs="#v2_3r" xml:id="v_2_3r"/><l>quale sapienza che gli altri non
+                        <supplied reason="illegible" corresp="#GT">rendono</supplied></l>
+                <lb n="3" facs="#v3_3r" xml:id="v_3_3r"/><l>non sia d'orgoglio</l></p>
+
+
+
+
+
+            <l n="6"><lb n="4" facs="#v4_3r" xml:id="v_4_3r"/> Quella libertà<note type="critical" resp="#GT">Fortini riscrive
+                    il secondo emistichio dell'ultimo verso del foglio precedente (modificandolo da
+                    "Quale libertà" a "Quella libertà" probabilmente per ribadire la continuità
+                    grafica delle sestine in un'unica strofa da 12; infatti nella stesura
+                    successiva, nel ms. blu ter, saranno contigue e unite addirittura alla sestina
+                    precedente con un segno a penna successivo. Solo nella pubblicazione su Officina
+                    verranno separate.</note></l>
+
+
+            <lb n="5" facs="#v5_3r" xml:id="v_5_3r"/>
+            <l n="7">che ti perdoni, ad altri la <subst>
+                    <del seq="1"><supplied reason="illegible" corresp="#GT">cambi</supplied></del>
+                    <add seq="2">togli</add>
+                </subst>
+            </l>
+
+
+            <p><lb n="6" facs="#v6_3r" xml:id="v_6_3r"/><l><!--<del seq="0">-->e il privilegio<!--</del>-->
+                    <!--<del seq="0">-->della poesia<!--</del>--></l>
+                <lb n="7" facs="#v7_3r" xml:id="v_7_3r"/><l><!--<del seq="0">-->è corona a celare
+                    la<!--</del>--></l></p>
+
+
+
+
+
+
+            <lb n="8" facs="#v8_3r" xml:id="v_8_3r"/>
+            <l n="8">e del <subst>
+                    <del seq="1">male</del>
+                    <add seq="2">sonno</add>
+                </subst><subst>
+                    <del seq="0">più</del>
+                    <add seq="0">sei</add>
+                </subst> complice e del <subst>
+                    <del seq="1">sonno</del>
+                    <add seq="2">male</add>
+                </subst></l>
+
+            <lb n="9" facs="#v9_3r" xml:id="v_9_3r"/>
+            <l n="9"><del seq="1">più colpevole</del> del tuo popolo. A corte poi,<add seq="1"> ti
+                    vale</add></l>
+
+            <lb n="10" facs="#v10_3r" xml:id="v_10_3r"/>
+            <l n="10">leggere <del seq="0">le tue carte</del> come l'animo disfogli</l>
+            <lb n="11" facs="#v11_3r" xml:id="v_11_3r"/>
+
+            <l n="11">nei tuoi poemi, <del seq="1">soavemente.</del>
+                <del seq="2">il pianto. Agli altri il male</del>
+                <add seq="3">in limpide querele</add>
+                <del>...</del></l>
+            <lb n="12" facs="#v12_3r" xml:id="v_12_3r"/>
+            <l n="00"><del seq="1">che la Passione <supplied reason="illegible" corresp="#GT"
+                    >fornisce</supplied></del></l>
+            <lb n="13" facs="#v13_3r" xml:id="v_13_3r"/>
+            <l n="12"><add seq="2">a chi, come te, <supplied reason="illegible" corresp="#GT"
+                >sa/ha</supplied></add></l>
+
+
+
+
+            <pb n="3v" xml:id="msb_fol_3v"/>
+
+
+            <lg n="8">
+                <lb n="1" facs="#v1_3b" xml:id="v_1_3b"/>
+                <l n="1">No<note type="critical" resp="#GT">Prima stesura nel foglio 1 aveva "Sì".</note>, non paura di tornare
+                    quali</l>
+                <lb n="2" facs="#v2_3b" xml:id="v_2_3b"/>
+                <l n="2">siamo stati, cristiani nella cenere<note type="critical" resp="#GT">Prima stesura nel primo foglio:
+                        tremanti dentro l'anima.</note>,</l>
+                <lb n="3" facs="#v3_3b" xml:id="v_3_3b"/>
+                <l n="3">né ritegno di essere ci trattiene</l>
+                <lb n="4" facs="#v4_3b" xml:id="v_4_3b"/>
+                <l n="4">come <del>tu</del> dici. <subst>
+
+                        <del seq="1">I</del>
+                        <add seq="2">Dai</add>
+                    </subst> nostri ultimi mali</l>
+                <lb n="5" facs="#v5_3b" xml:id="v_5_3b"/>
+                <l n="5">nuovo sangue, non gelo, hanno le vene,</l>
+                <lb n="6" facs="#v6_3b" xml:id="v_6_3b"/>
+                <l n="6">non orgoglio, ma irta carità.</l>
+            </lg>
+
+
+
+
+
+
+
+
+        </body>
+
+    </text>
+</TEI>

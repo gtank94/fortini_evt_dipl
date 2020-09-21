@@ -1,0 +1,208 @@
+/*
+ * EN: This file has been prepared for you to add your personal CSS styles
+ * IT: Questo file è stato predisposto per accogliere regole CSS personalizzate
+ */
+
+.option[data-value="seg"][data-type="kenning"] .filter_color {
+    color: #00ff00;
+}
+
+.doc.current span.seg[data-type="kenning"].list_active,
+.doc.current span.seg[data-type="kenning"].list_active span.trigger,
+.doc.current span.seg[data-type="kenning"].over>span.trigger,
+.doc.current span.seg[data-type="kenning"].opened>span.trigger {
+    background: #00ff00;
+}
+/* The following css rules are provided as an example to style the <titlePage> element */
+.byline {
+    display: block;
+    text-align: center;
+}
+
+.docAuthor {
+    display: block;
+    text-align: center;
+    font-size: 110%;
+}
+
+.docEdition {
+    display: block;
+    text-align: center;
+}
+
+.docImprint {
+    display: block;
+    text-align: center;
+    font-size: 80%;
+}
+/*CSS per le varianti (GT)*/
+
+/*span[data-seq='1'] {
+    background-color: #93117e !important;
+    color: white;
+    padding: 0.05px;
+    
+}
+span[data-seq='2'] {
+    background-color: #006bb3 !important;
+    color: white;
+    
+}
+span[data-seq='3'] {
+    background-color: #009790 !important;
+    color: white;
+    
+}
+span[data-seq='0'] {
+    background-color: #d74643 !important;
+    color: white;
+    
+}
+span[data-seq='4'] {
+    background-color: #009136 !important;
+    color: white;
+    
+}
+span[data-seq='5'] {
+    background-color: #97c00e !important;
+    color: white;
+    
+}
+span[data-seq='6'] {
+    background-color: #f29400 !important;
+    color: white;
+    
+}*/
+
+span[data-seq] {
+    background-color: #edd698 !important;
+   
+    
+}
+
+
+span[data-tagname='lem'] {
+    background-color: #edbf5a  !important;}
+
+/*CSS per i versi cancellati (GT)*/
+
+p {
+    color: darkgrey;
+    
+}
+
+lg{
+   padding: 150px; 
+}
+
+/*colori varianti nella legenda (GT)*/
+[data-rend*='#93117e'] {
+   color: #93117e !important;
+    font-weight: bold !important;
+}
+[data-rend*='#006bb3'] {
+   color: #006bb3 !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#009790'] {
+   color:  #009790 !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#83bf3b'] {
+   color: #83bf3b !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#97c00e'] {
+   color: #97c00e !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#f29400'] {
+   color: #f29400 !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#edbf5a'] {
+   color: #edbf5a !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#d74643'] {
+   color: #d74643 !important;
+    font-weight: bold !important;
+   
+}
+[data-rend*='#009136'] {
+   color: #009136 !important;
+    font-weight: bold !important;
+   
+}
+
+
+
+
+
+/*punto interrogativo per le interpretazioni (GT)*/
+
+
+
+
+/* <supplied> @reason="illegible" */
+span.interp-supplied, span.dipl-supplied[data-reason='illegible']::before {
+    content: "{"
+    
+}
+
+span.interp-supplied, span.dipl-supplied[data-reason='illegible']::after {
+    content: "?}";
+}
+span.interp-supplied, span.dipl-supplied[data-reason='illegible']{
+      font-style: italic; 
+    
+}
+
+div.div[data-rend="centro-quasi"]{padding-left: 100px;}
+
+
+
+
+
+
+    
+    
+  /*icona quadrata per i numeri di strofa (GT)*/
+
+.quadrato {
+    width: 16px;
+    height: 16px;
+   
+    border: 1px solid black;
+    background: green;
+    padding: 1px;
+    text-align: center;
+    font-size: 17px;
+    color: white;
+    margin-top: 70px;
+}
+
+span.dipl-add[data-seq='1']::before{content:" "}
+span.dipl-add[data-seq='2']::before{content:"→"; background-color: white; color: black;}
+span.dipl-add[data-seq='3']::before{content:"→"; background-color: white; color: black; }
+span.dipl-add[data-seq='4']::before{content:"→"; background-color: white; color: black;}
+span.dipl-add[data-seq='5']::before{content:"→"; background-color: white; color: black;}
+span.dipl-add[data-seq='6']::before{content:"→"; background-color: white; color: black;}
+
+
+span.dipl-del[data-seq='1']::before{content: " "}
+span.dipl-del[data-seq='2']::before{content:"→"; background-color: white; color: black;}
+span.dipl-del[data-seq='3']::before{content:"→"; background-color: white; color: black; }
+span.dipl-del[data-seq='4']::before{content:"→"; background-color: white; color: black;}
+span.dipl-del[data-seq='5']::before{content:"→"; background-color: white; color: black;}
+span.dipl-del[data-seq='6']::before{content:"→"; background-color: white; color: black;}
+
+
+
+

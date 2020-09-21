@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="./schema/tei_0304.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+
+        <fileDesc>
+            <titleStmt>
+
+
+                <title type="main">Risposta a Pasolini</title>
+                <title type="sub">Edizione digitale</title>
+                <respStmt>
+                    <resp>Edizione critica e codifica di:</resp>
+                    <name xml:id="GT">Giulia Tancredi</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Università di Siena, Archivio Franco Fortini</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <altIdentifier>
+                            <repository>Fondo Franco Fortini dell'Università di Siena</repository>
+                            <idno>Scatola Poesie (3a), Carta 31</idno>
+                        </altIdentifier>
+
+                        <msName>Manoscritto blu</msName>
+                    </msIdentifier>
+                    <msContents>
+                        <msItem>
+                            <colophon/>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+
+                                <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
+                                    l'ordine cronologico e sono state rese con colori differenti e
+                                    cioè:</p>
+                                <p>
+                                    <hi rend="#93117e">prima variante</hi></p>
+                                <p><hi rend="#006bb3">seconda variante</hi></p>
+                                <p><hi rend="#009790">terza variante</hi></p>
+                                <p><hi rend="#009136">quarta variante</hi></p>
+                                <p><hi rend="#97c00e">quinta variante</hi></p>
+                                <p><hi rend="#f29400">sesta variante</hi>.</p>
+                                <p>L'ultima e definitiva è quella non cassata.</p>
+                                <p>In <hi rend="#d74643">rosso</hi> invece le <hi rend="bold"
+                                        >varianti immediate</hi>, cioè quelle apportate durante la
+                                    stesura. Per le <hi rend="bold">varianti alternative</hi>,
+                                    lasciate a margine o comunque non scelte dall'autore, si è
+                                    pensato di inserirle tra parentesi tonde. Questo tipo di
+                                    varianti sono state marcate con "rdg"; se una delle varianti è
+                                    stata accolta in una successiva stesura si è preferito marcarla
+                                    con "lem"; nel lettore sarà individuabile attraverso il <hi
+                                        rend="#edbf5a">giallo</hi>. </p>
+                                <p>Tra parentesi e quadre in corsivo, seguite da un punto interrogativo, sono rappresentate delle
+                                    congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied").</p>
+                                <p>Alcuni versi sono rappresentati con un colore più chiaro nel
+                                    reader: sono quelle strofe cassate nella stesura o quei versi che
+                                    sono stati lasciati intatti, senza cancellature, ma considerati come eliminati
+                                    dall'autore, che ha ripreso la scrittura della sestina
+                                    ignorandoli. In entrambi i casi questi versi sono stati marcati con "p".</p>
+                                
+
+                            </supportDesc>
+                        </objectDesc>
+
+
+                    </physDesc>
+
+
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <facsimile xml:id="msr_fac_fort">
+        <surface xml:id="msr_surf_1r" corresp="#msr_fol_1r">
+            <graphic  url="../images/single/msrosso_fol_1r.jpg" width="578px" height="818px"/>
+            <zone corresp="#v_1" ulx="93" uly="48" rend="visible" rendition="Line" lrx="383"
+                lry="70" xml:id="v1"/>
+            <zone corresp="#v_2" ulx="92" uly="72" rend="visible" rendition="Line" lrx="453"
+                lry="86" xml:id="v2"/>
+            <zone corresp="#v_3" ulx="93" uly="90" rend="visible" rendition="Line" lrx="456"
+                lry="106" xml:id="v3"/>
+            <zone corresp="#v_4" ulx="99" uly="111" rend="visible" rendition="Line" lrx="374"
+                lry="122" xml:id="v4"/>
+            <zone corresp="#v_5" ulx="309" uly="121" rend="visible" rendition="Line" lrx="449"
+                lry="138" xml:id="v5"/>
+            <zone corresp="#v_6" ulx="105" uly="140" rend="visible" rendition="Line" lrx="438"
+                lry="157" xml:id="v6"/>
+            <zone ulx="111" uly="174" lrx="413" lry="186"/>
+            
+            
+            
+            <zone corresp="#v_8" ulx="108" uly="171" rend="visible" rendition="Line" lrx="189"
+                lry="187" xml:id="v8"/>
+            <zone corresp="#v_10" ulx="113" uly="210" rend="visible" rendition="Line" lrx="430"
+                lry="227" xml:id="v10"/>
+            <zone points=" 98,284 97,266 389,242 389,254 "/>
+            
+            
+            
+        </surface>
+        <surface xml:id="msr_surf_2r" corresp="#msr_fol_2r">
+            <graphic url="../images/single/msr_fol_2r.jpg" width="568.4px" height="819.4px"/>
+            <zone corresp="#v_1d" ulx="149" uly="30" rend="visible" rendition="Line" lrx="494"
+                lry="45" xml:id="v1d"/>
+            <zone corresp="#v_2d" ulx="157" uly="55" rend="visible" rendition="Line" lrx="531"
+                lry="70" xml:id="v2d"/>
+            <zone corresp="#v_3d" ulx="160" uly="78" rend="visible" rendition="Line" lrx="497"
+                lry="103" xml:id="v3d"/>
+            <zone corresp="#v_4d" ulx="161" uly="118" rend="visible" rendition="Line" lrx="503"
+                lry="138" xml:id="v4d"/>
+            <zone corresp="#v_5d" ulx="148" uly="146" rend="visible" rendition="Line" lrx="441"
+                lry="178" xml:id="v5d"/>
+            <zone corresp="#v_6d" ulx="87" uly="178" rend="visible" rendition="Line" lrx="473"
+                lry="215" xml:id="v6d"/>
+            
+            
+        </surface>
+        <surface xml:id="msr_surf_3r" corresp="#msr_fol_3r">
+            <graphic url="../images/single/msr_fol_3r.jpg" width="576.4px" height="820.4px"/>
+            
+            <zone corresp="#v_51" ulx="190" uly="1" rend="visible" rendition="Line" lrx="300"
+                lry="20" xml:id="v51"/>
+            <zone corresp="#v_52" ulx="96" uly="37" rend="visible" rendition="Line" lrx="237"
+                lry="53" xml:id="v52"/>
+            <zone corresp="#v_53" ulx="68" uly="58" rend="visible" rendition="Line" lrx="446"
+                lry="147" xml:id="v53"/>
+            <zone corresp="#v_54" ulx="141" uly="87" rend="visible" rendition="Line" lrx="417"
+                lry="101" xml:id="v54"/>
+            <zone corresp="#v_55" ulx="140" uly="158" rend="visible" rendition="Line" lrx="450"
+                lry="171" xml:id="v55"/>
+            <zone corresp="#v_56" ulx="149" uly="185" rend="visible" rendition="Line" lrx="484"
+                lry="227" xml:id="v56"/>
+            <zone corresp="#v_57" ulx="117" uly="223" rend="visible" rendition="Line" lrx="389"
+                lry="256" xml:id="v57"/>
+            <zone corresp="#v_58" ulx="116" uly="249" rend="visible" rendition="Line" lrx="369"
+                lry="272" xml:id="v58"/>
+            <zone corresp="#v_59" ulx="114" uly="271" rend="visible" rendition="Line" lrx="331"
+                lry="300" xml:id="v59"/>
+            <zone corresp="#v_60" ulx="112" uly="302" rend="visible" rendition="Line" lrx="356"
+                lry="333" xml:id="v60"/>
+            <zone corresp="#v_61" ulx="109" uly="335" rend="visible" rendition="Line" lrx="465"
+                lry="362" xml:id="v61"/>
+            <zone corresp="#v_69" ulx="210" uly="593" rend="visible" rendition="Line" lrx="482"
+                lry="604" xml:id="v69"/>
+            <zone corresp="#v_70" ulx="214" uly="613" rend="visible" rendition="Line" lrx="564"
+                lry="628" xml:id="v70"/>
+            <zone corresp="#v_71" ulx="214" uly="635" rend="visible" rendition="Line" lrx="555"
+                lry="710" xml:id="v71"/>
+            <zone corresp="#v_73" ulx="211" uly="719" rend="visible" rendition="Line" lrx="469"
+                lry="740" xml:id="v73"/>
+            <zone corresp="#v_74" ulx="212" uly="741" rend="visible" rendition="Line" lrx="369"
+                lry="760" xml:id="v74"/>
+            <zone corresp="#v_72" ulx="206" uly="691" lrx="328" rend="visible" rendition="Line"
+                lry="714" xml:id="v72"/>
+            <zone corresp="#v_76" ulx="209" uly="756" rend="visible" rendition="Line" lrx="432"
+                lry="784" xml:id="v76"/>
+            <zone corresp="#v_77" ulx="51" uly="777" rend="visible" rendition="Line" lrx="546"
+                lry="808" xml:id="v77"/>
+            
+        </surface>
+        
+        
+    </facsimile>
+    
+    <facsimile xml:id="ms3_fac_fort">
+        <surface xml:id="ms3_surf_1r" corresp="#ms3_fol_1r">
+            <graphic url="../images/single/ms3_fol_1r.jpg" width="797.4px" height="1140.4px"/>
+            
+            <zone corresp="#v_1_ms3_1" ulx="189" uly="114" rend="visible" rendition="Line" lrx="398"
+                lry="131" xml:id="v1_ms3_1"/>
+            <zone corresp="#v_2_ms3_1" ulx="190" uly="139" rend="visible" rendition="Line" lrx="442"
+                lry="151" xml:id="v2_ms3_1"/>
+            <zone corresp="#v_3_ms3_1" ulx="193" uly="160" rend="visible" rendition="Line" lrx="399"
+                lry="173" xml:id="v3_ms3_1"/>
+            <zone corresp="#v_4_ms3_1" ulx="191" uly="183" rend="visible" rendition="Line" lrx="416"
+                lry="195" xml:id="v4_ms3_1"/>
+            <zone corresp="#v_5_ms3_1" ulx="195" uly="202" rend="visible" rendition="Line" lrx="433"
+                lry="211" xml:id="v5_ms3_1"/>
+            <zone corresp="#v_6_ms3_1" ulx="195" uly="220" rend="visible"   rendition="Line" lrx="382"
+                lry="237" xml:id="v6_ms3_1"/>
+            
+            <zone corresp="#v_9_ms3_1" ulx="190" uly="255" rend="visible" rendition="Line" lrx="423"
+                lry="267" xml:id="v9_ms3_1" />
+            <zone corresp="#v_10_ms3_1" ulx="191" uly="278" rend="visible" rendition="Line"
+                lrx="449" lry="289" xml:id="v10_ms3_1"/>
+            <zone corresp="#v_11_ms3_1" ulx="195" uly="297" rend="visible" rendition="Line"
+                lrx="451" lry="311" xml:id="v11_ms3_1"/>
+            <zone corresp="#v_12_ms3_1" ulx="189" uly="315" rend="visible" rendition="Line"
+                lrx="431" lry="331" xml:id="v12_ms3_1"/>
+            <zone corresp="#v_13_ms3_1" ulx="196" uly="342" rend="visible" rendition="Line"
+                lrx="497" lry="351" xml:id="v13_ms3_1"/>
+            <zone corresp="#v_14_ms3_1" ulx="197" uly="363" rend="visible" rendition="Line"
+                lrx="413" lry="377" xml:id="v14_ms3_1"/>
+            <zone corresp="#v_15_ms3_1" ulx="188" uly="392" rend="visible" rendition="Line"
+                lrx="426" lry="422" xml:id="v15_ms3_1"/>
+            <zone corresp="#v_16_ms3_1" ulx="432" uly="362" rend="visible" rendition="Line"
+                lrx="687" lry="379" xml:id="v16_ms3_1"/>
+            <zone corresp="#v_17_ms3_1" ulx="431" uly="395" rend="visible" rendition="Line"
+                lrx="716" lry="422" xml:id="v17_ms3_1"/>
+            <zone corresp="#v_18_ms3_1" ulx="433" uly="428" rend="visible" rendition="Line"
+                lrx="715" lry="450" xml:id="v18_ms3_1"/>
+            
+        </surface>
+        <surface xml:id="ms3_surf_2r" corresp="#ms3_fol_2r">
+            <graphic url="../images/single/ms3_fol_2r.jpg" width='3911.4px' height='5516.4px'/>
+            <!--prima strofa-->
+            <zone corresp="#v_19_1ms3r" ulx="664" uly="187" rend="visible" rendition="Line" lrx="1902" lry="275" xml:id="v19_ms3_1"/>
+            <zone corresp="#v_20_1r" ulx="684" uly="323" rend="visible" rendition="Line" lrx="1922" lry="401" xml:id="v20_ms3_1"/>
+            <zone corresp="#v_21_1r" ulx="668" uly="447" rend="visible" rendition="Line" lrx="1691" lry="507" xml:id="v21_ms3_1"/>
+            <zone corresp="#v_22_1r" ulx="659" uly="559" rend="visible" rendition="Line" lrx="1895" lry="634" xml:id="v22_ms3_1"/>
+            <zone corresp="#v_23_1r" ulx="588" uly="649" rend="visible" rendition="Line" lrx="1471" lry="803" xml:id="v23_ms3_1"/>
+            
+            <!--seconda strofa-->
+            <zone corresp="#v_24_1r" ulx="643" uly="975" rend="visible" rendition="Line" lrx="1969" lry="1072" xml:id="v24_ms3_1"/>
+            <zone corresp="#v_25_1r" ulx="669" uly="1118" rend="visible" rendition="Line" lrx="2051" lry="1177" xml:id="v25_ms3_1"/>
+            <zone corresp="#v_26_1r" ulx="663" uly="1206" rend="visible" rendition="Line" lrx="1658" lry="1272" xml:id="v26_ms3_1"/>
+            <zone corresp="#v_27_1r" ulx="661" uly="1330" rend="visible" rendition="Line" lrx="2135" lry="1389" xml:id="v27_ms3_1"/>
+            <zone corresp="#v_28_1r" ulx="649" uly="1427" rend="visible" rendition="Line" lrx="1941" lry="1499" xml:id="v28_ms3_1"/>
+            <zone corresp="#v_29_1r" ulx="659" uly="1532" rend="visible" rendition="Line" lrx="1652" lry="1606" xml:id="v29_ms3_1"/>
+            
+            <!--terza strofa-->
+            <zone corresp="#v_30_1r" ulx="666" uly="1688" rend="visible" rendition="Line" lrx="1914" lry="1755" xml:id="v30_ms3_1"/>
+            <zone corresp="#v_31_1r" ulx="663" uly="1822" rend="visible" rendition="Line" lrx="2111" lry="1896" xml:id="v31_ms3_1"/>
+            <zone corresp="#v_32_1r" ulx="674" uly="1934" rend="visible" rendition="Line" lrx="1836" lry="1990" xml:id="v32_ms3_1"/>
+            <zone corresp="#v_33_1r" ulx="665" uly="2054" rend="visible" rendition="Line" lrx="1902" lry="2081" xml:id="v33_ms3_1"/>
+            <zone corresp="#v_34_1r" ulx="676" uly="2153" rend="visible" rendition="Line" lrx="2076" lry="2193" xml:id="v34_ms3_1"/>
+            <zone corresp="#v_35_1r" ulx="674" uly="2250" rend="visible" rendition="Line" lrx="1978" lry="2329" xml:id="v35_ms3_1"/>
+            
+            
+            
+            
+        </surface>
+        
+        <surface xml:id="ms3_surf_3r" corresp="#ms3_fol_3r">
+            <graphic url="../images/single/ms3_fol_3r.jpg" width="796px" height="1142px"/>
+            
+            <zone corresp="#v_1_ms3_3" ulx="66" uly="33" rend="visible" rendition="Line" 
+                lrx="333" lry="57" xml:id="v1_ms3_3"/>
+            <zone corresp="#v_2_ms3_3" ulx="75" uly="59" rend="visible" rendition="Line" 
+                lrx="294" lry="74" xml:id="v2_ms3_3"/>
+            <zone corresp="#v_3_ms3_3" ulx="83" uly="74" rend="visible" rendition="Line" lrx="291" lry="89" xml:id="v3_ms3_3"/>
+            <zone corresp="#v_4_ms3_3" ulx="85" uly="89" rend="visible" rendition="Line" lrx="298" lry="105" xml:id="v4_ms3_3"/>
+            <zone corresp="#v_5_ms3_3" ulx="84" uly="109" rend="visible" rendition="Line" lrx="309" lry="130" xml:id="v5_ms3_3"/>
+            <zone corresp="#v_6_ms3_3" ulx="81" uly="134" rend="visible" rendition="Line" lrx="302" lry="158" xml:id="v6_ms3_3"/>
+            <zone corresp="#v_7_ms3_3" ulx="77" uly="161" rend="visible" rendition="Line" lrx="317" lry="192" xml:id="v7_ms3_3"/>
+            <zone corresp="#v_8_ms3_3" ulx="71" uly="194" rend="visible" rendition="Line" lrx="283" lry="216" xml:id="v8_ms3_3"/>
+            <zone corresp="#v_9_ms3_3" ulx="1" uly="214" rend="visible" rendition="Line" lrx="297" lry="247" xml:id="v9_ms3_3"/>
+            <zone corresp="#v_10_ms3_3" ulx="6" uly="249" rend="visible" rendition="Line" lrx="261" lry="284" xml:id="v10_ms3_3"/>
+            
+            <!--seconda strofa-->
+            
+            <zone  corresp="#v_11_ms3_3" ulx="63" uly="332"  rend="visible" rendition="Line" xml:id="v11_ms3_3" lrx="297" lry="357"/>
+            <zone corresp="#v_12_ms3_3" ulx="81" uly="362"  rend="visible" rendition="Line" xml:id="v12_ms3_3" lrx="265" lry="373"/>
+            <zone corresp="#v_13_ms3_3" ulx="79" uly="378"  rend="visible" rendition="Line" xml:id="v13_ms3_3" lrx="326" lry="395"/>
+            <zone corresp="#v_14_ms3_3" ulx="85" uly="401"  rend="visible" rendition="Line" xml:id="v14_ms3_3" lrx="305" lry="419"/>
+            <zone corresp="#v_15_ms3_3" ulx="86" uly="429"  rend="visible" rendition="Line" xml:id="v15_ms3_3" lrx="348" lry="443"/>
+            <zone corresp="#v_16_ms3_3" ulx="86" uly="450"  rend="visible" rendition="Line" xml:id="v16_ms3_3" lrx="321" lry="471"/>
+            
+            <!-- terza strofa-->
+            
+            <zone corresp="#v_17_ms3_3" ulx="89" uly="493"  rend="visible" rendition="Line" xml:id="v17_ms3_3" lrx="369" lry="517"/>
+            <zone corresp="#v_18_ms3_3" ulx="89" uly="525"  rend="visible" rendition="Line" xml:id="v18_ms3_3" lrx="305" lry="542"/>
+            <zone corresp="#v_19_ms3_3" ulx="93" uly="549"  rend="visible" rendition="Line" xml:id="v19_ms3_3" lrx="376" lry="569"/>
+            <zone corresp="#v_20_ms3_3" ulx="97" uly="574" rend="visible" rendition="Line"  xml:id="v20_ms3_3" lrx="298" lry="594"/>
+            <zone corresp="#v_21_ms3_3" ulx="94" uly="599" rend="visible" rendition="Line"  xml:id="v21_ms3_3" lrx="360" lry="618"/>
+            <zone corresp="#v_22_ms3_3" ulx="101" uly="623"  rend="visible" rendition="Line" xml:id="v22_ms3_3" lrx="364" lry="644"/>
+            
+            
+            
+            
+            
+            
+            
+        </surface>
+    </facsimile>
+    <facsimile xml:id="msb_fac_blu">
+        <surface xml:id="msb_surf_1r" corresp="#msb_fol_1r">
+            <graphic url="../images/single/msb_fol_1r.jpg" width="577.4px" height="813.4px"/>
+            <zone corresp="#v_1_1r" ulx="77" uly="39" rend="visible" rendition="Line" lrx="300"
+                lry="64" xml:id="v1_1r"/>
+            <zone corresp="#v_2_1r" ulx="79" uly="72" rend="visible" rendition="Line" lrx="360"
+                lry="91" xml:id="v2_1r"/>
+            <zone corresp="#v_3_1r" ulx="75" uly="95" rend="visible" rendition="Line" lrx="295"
+                lry="107" xml:id="v3_1r"/>
+            <zone corresp="#v_4_1r" ulx="78" uly="115" rend="visible" rendition="Line" lrx="348"
+                lry="131" xml:id="v4_1r"/>
+            <zone corresp="#v_5_1r" ulx="77" uly="142" rend="visible" rendition="Line" lrx="359"
+                lry="159" xml:id="v5_1r"/>
+            <zone corresp="#v_6_1r" ulx="75" uly="159" rend="visible" rendition="Line" lrx="295"
+                lry="185" xml:id="v6_1r"/>
+            <zone corresp="#v_7_1r" ulx="81" uly="203" rend="visible" rendition="Line" lrx="349"
+                lry="228" xml:id="v7_1r"/>
+            <zone corresp="#v_8_1r" ulx="77" uly="233" rend="visible" rendition="Line" lrx="356"
+                lry="254" xml:id="v8_1r"/>
+            <zone corresp="#v_9_1r" ulx="83" uly="258" rend="visible" rendition="Line" lrx="361"
+                lry="279" xml:id="v9_1r"/>
+            <zone corresp="#v_10_1r" ulx="82" uly="282" rend="visible" rendition="Line" lrx="357"
+                lry="303" xml:id="v10_1r"/>
+            <zone corresp="#v_11_1r" ulx="9" uly="306" rend="visible" rendition="Line" lrx="345"
+                lry="334" xml:id="v11_1r"/>
+            <zone corresp="#v_12_1r" ulx="87" uly="339" rend="visible" rendition="Line" lrx="318"
+                lry="360" xml:id="v12_1r"/>
+            <zone corresp="#v_13_1r" ulx="77" uly="389" rend="visible" rendition="Line" lrx="253"
+                lry="417" xml:id="v13_1r"/>
+            <zone corresp="#v_14_1r" ulx="77" uly="472" rend="visible" rendition="Line" lrx="337"
+                lry="499" xml:id="v14_1r"/>
+            <zone corresp="#v_15_1r" ulx="80" uly="503" rend="visible" rendition="Line" lrx="390"
+                lry="526" xml:id="v15_1r"/>
+            <zone corresp="#v_16_1r" ulx="82" uly="536" rend="visible" rendition="Line" lrx="309"
+                lry="556" xml:id="v16_1r"/>
+            <zone corresp="#v_17_1r" ulx="84" uly="561" rend="visible" rendition="Line" lrx="332"
+                lry="585" xml:id="v17_1r"/>
+            <zone corresp="#v_18_1r" ulx="85" uly="590" rend="visible" rendition="Line" lrx="382"
+                lry="611" xml:id="v18_1r"/>
+            <zone corresp="#v_19_1r" ulx="85" uly="617" rend="visible" rendition="Line" lrx="349"
+                lry="638" xml:id="v19_1r"/>
+            
+        </surface>
+        
+        <surface xml:id="msb_surf_2r" corresp="#msb_fol_2r">
+            <graphic url="../images/single/msb_fol_2r.jpg"/>
+           
+            
+            
+            
+            
+            
+        </surface>
+        
+        <surface xml:id="msb_surf_3r" corresp="#msb_fol_3r">
+            <graphic url="../images/single/msb_fol_3r.jpg" width="541.4px" height="779.4px"/>
+            <zone corresp="#v_1_3r" ulx="48" uly="42" rend="visible" rendition="Line" lrx="393"
+                lry="69" xml:id="v1_3r"/>
+            <zone corresp="#v_2_3r" ulx="57" uly="77" rend="visible" rendition="Line" lrx="445"
+                lry="92" xml:id="v2_3r"/>
+            <zone corresp="#v_3_3r" ulx="229" uly="100" rend="visible" rendition="Line" lrx="422"
+                lry="124" xml:id="v3_3r"/>
+            
+            <zone corresp="#v_4_3r" ulx="115" uly="130" rend="visible" rendition="Line" lrx="275"
+                lry="166" xml:id="v4_3r"/>
+            <zone corresp="#v_5_3r" ulx="44" uly="180" rend="visible" rendition="Line" lrx="411"
+                lry="218" xml:id="v5_3r"/>
+            <zone corresp="#v_6_3r" ulx="41" uly="229" rend="visible" rendition="Line" lrx="355"
+                lry="258" xml:id="v6_3r"/>
+            <zone corresp="#v_7_3r" ulx="43" uly="260" rend="visible" rendition="Line" lrx="289"
+                lry="284" xml:id="v7_3r"/>
+            <zone corresp="#v_8_3r" ulx="60" uly="288" rend="visible" rendition="Line" lrx="491"
+                lry="312" xml:id="v8_3r"/>
+            <zone corresp="#v_9_3r" ulx="63" uly="334" rend="visible" rendition="Line" lrx="529"
+                lry="363" xml:id="v9_3r"/>
+            <zone corresp="#v_10_3r" ulx="69" uly="371" rend="visible" rendition="Line" lrx="417"
+                lry="404" xml:id="v10_3r"/>
+            <zone corresp="#v_11_3r" ulx="57" uly="419" rend="visible" rendition="Line" lrx="534"
+                lry="495" xml:id="v11_3r"/>
+            <zone corresp="#v_12_3r" ulx="58" uly="503" rend="visible" rendition="Line" lrx="346"
+                lry="531" xml:id="v12_3r"/>
+            <zone corresp="#v_13_3r" ulx="61" uly="539" rend="visible" rendition="Line" lrx="293"
+                lry="567" xml:id="v13_3r"/>
+            
+            
+            
+            
+            
+        </surface>
+        <surface xml:id="msb_surf_3v" corresp="#msb_fol_3v">
+            <graphic url="../images/single/msb_fol_3v.jpg" width='398.4px' height='587.4px'/>
+            <zone corresp="#v_1_3b" ulx="26" uly="45" rend="visible" rendition="Line" lrx="277"
+                lry="63" xml:id="v1_3b"/>
+            <zone corresp="#v_2_3b" ulx="35" uly="73" rend="visible" rendition="Line" lrx="319"
+                lry="92" xml:id="v2_3b"/>
+            <zone corresp="#v_3_3b" ulx="38" uly="97" rend="visible" rendition="Line" lrx="285"
+                lry="111" xml:id="v3_3b"/>
+            <zone corresp="#v_4_3b" ulx="39" uly="124" rend="visible" rendition="Line" lrx="305"
+                lry="138" xml:id="v4_3b"/>
+            <zone corresp="#v_5_3b" ulx="37" uly="152" rend="visible" rendition="Line" lrx="344"
+                lry="168" xml:id="v5_3b"/>
+            <zone corresp="#v_6_3b" ulx="34" uly="178" rend="visible" rendition="Line" lrx="277"
+                lry="200" xml:id="v6_3b"/>
+        </surface>
+    </facsimile>
+
+    <text>
+        <group>
+            <xi:include href="./Fortini_msrosso.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+                xpointer="Fmsrosso_text"/>
+
+
+            <xi:include href="./Fortini_msblu.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+                xpointer="Fmsblu_text"/>
+
+
+            <xi:include href="./Fortini_ms3.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
+                xpointer="Fms3_text"/>
+        </group>
+    </text>
+</TEI>
