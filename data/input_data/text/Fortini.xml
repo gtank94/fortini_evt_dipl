@@ -39,8 +39,10 @@
                             <supportDesc>
 
                                 <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
-                                    l'ordine cronologico e sono state rese con colori differenti e
-                                    cioè:</p>
+                                    l'ordine cronologico; sono evidenziate in ocra, delimitate da parentesi quadre e il loro ordine è indicato da una freccia.
+                                    
+                                   </p>
+                             <!--   e sono state rese con colori differenti e     cioè:</p>
                                 <p>
                                     <hi rend="#93117e">prima variante</hi></p>
                                 <p><hi rend="#006bb3">seconda variante</hi></p>
@@ -48,7 +50,9 @@
                                 <p><hi rend="#009136">quarta variante</hi></p>
                                 <p><hi rend="#97c00e">quinta variante</hi></p>
                                 <p><hi rend="#f29400">sesta variante</hi>.</p>
-                                <p>L'ultima e definitiva è quella non cassata.</p>
+                                <p>L'ultima e definitiva è quella non cassata.</p>-->
+                                    
+                                    
                                 <p>In <hi rend="#d74643">rosso</hi> invece le <hi rend="bold"
                                         >varianti immediate</hi>, cioè quelle apportate durante la
                                     stesura. Per le <hi rend="bold">varianti alternative</hi>,
@@ -58,8 +62,8 @@
                                     stata accolta in una successiva stesura si è preferito marcarla
                                     con "lem"; nel lettore sarà individuabile attraverso il <hi
                                         rend="#edbf5a">giallo</hi>. </p>
-                                <p>Tra parentesi e quadre in corsivo, seguite da un punto interrogativo, sono rappresentate delle
-                                    congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied").</p>
+                                <p>Tra parentesi quadre in corsivo, seguite da un punto interrogativo, sono rappresentate le
+                                    congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied @reason="illegible" ").</p>
                                 <p>Alcuni versi sono rappresentati con un colore più chiaro nel
                                     reader: sono quelle strofe cassate nella stesura o quei versi che
                                     sono stati lasciati intatti, senza cancellature, ma considerati come eliminati
@@ -78,6 +82,9 @@
             </sourceDesc>
         </fileDesc>
     </teiHeader>
+    
+    
+    
     <facsimile xml:id="msr_fac_fort">
         <surface xml:id="msr_surf_1r" corresp="#msr_fol_1r">
             <graphic  url="../images/single/msrosso_fol_1r.jpg" width="578px" height="818px"/>
@@ -95,8 +102,7 @@
                 lry="157" xml:id="v6"/>
             <zone ulx="111" uly="174" lrx="413" lry="186"/>
             
-            
-            
+              
             <zone corresp="#v_8" ulx="108" uly="171" rend="visible" rendition="Line" lrx="189"
                 lry="187" xml:id="v8"/>
             <zone corresp="#v_10" ulx="113" uly="210" rend="visible" rendition="Line" lrx="430"
@@ -106,6 +112,7 @@
             
             
         </surface>
+        
         <surface xml:id="msr_surf_2r" corresp="#msr_fol_2r">
             <graphic url="../images/single/msr_fol_2r.jpg" width="568.4px" height="819.4px"/>
             <zone corresp="#v_1d" ulx="149" uly="30" rend="visible" rendition="Line" lrx="494"
@@ -390,15 +397,33 @@
     <text>
         <group>
             <xi:include href="./Fortini_msrosso.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fmsrosso_text"/>
+                xpointer="Fmsrosso_text"><xi:fallback>
+                    <body>
+                        <p>
+                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
+                        </p>
+                    </body>
+                </xi:fallback></xi:include>
 
 
             <xi:include href="./Fortini_msblu.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fmsblu_text"/>
+                xpointer="Fmsblu_text"><xi:fallback>
+                    <body>
+                        <p>
+                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
+                        </p>
+                    </body>
+                </xi:fallback></xi:include>
 
 
             <xi:include href="./Fortini_ms3.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fms3_text"/>
+                xpointer="Fms3_text"><xi:fallback>
+                    <body>
+                        <p>
+                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
+                        </p>
+                    </body>
+                </xi:fallback></xi:include>
         </group>
     </text>
 </TEI>
