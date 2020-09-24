@@ -91,11 +91,11 @@
 
 
             <lg n="1">
-                <l n="1"><lb n="1" facs="#v1" xml:id="v_1"/>E anch'io ho veduto in una sera
+                <lb n="1" facs="#v1" xml:id="v_1"/><l n="1">E anch'io ho veduto in una sera
                     oscura</l>
-                <l n="2"><lb n="2" facs="#v2" xml:id="v_2"/><del seq="0">di</del> come <del seq="0"
+               <lb n="2" facs="#v2" xml:id="v_2"/><l n="2"><del seq="0">di</del> come <del seq="0"
                         >quella che tu</del> la tua, a Bologna, una festa</l>
-                <l n="3"><lb n="3" facs="#v3" xml:id="v_3"/>di confuse bandiere <subst>
+               <lb n="3" facs="#v3" xml:id="v_3"/><l n="3">di confuse bandiere <subst>
                         <del seq="1">:</del>
                         <add seq="2">;</add>
                     </subst> e disfarsi come <subst>
@@ -107,34 +107,34 @@
                                 ("dalla mesta"), poi sostituito da "Il
                                 socialismo".</note></l>
 
-                <l n="4"><lb n="4" facs="#v4" xml:id="v_4"/>di <supplied reason="illegible"></supplied> canti, i gruppi 
+                <lb n="4" facs="#v4" xml:id="v_4"/><l n="4">di <supplied reason="illegible"></supplied> canti, i gruppi 
                     <del seq="1">della gente</del></l>
 
-                      <l n="4">  <lb n="5" facs="#v5" xml:id="v_5"/>
-                        <add seq="2"><del>e</del> nella luce dura</add>
+                        <lb n="5" facs="#v5" xml:id="v_5"/>
+                        <l n="4"><add seq="2"><del>e</del> nella luce dura</add>
                     </l>
 
-                <l n="5"><lb n="6" facs="#v6" xml:id="v_6"/>del neon per i viali... <del seq="0"
+                <lb n="6" facs="#v6" xml:id="v_6"/><l n="5">del neon per i viali... <del seq="1"
                         >Era</del>
                     <subst>
-                        <del seq="1">Dalla mesta</del>
+                        <del seq="2">Dalla mesta</del>
 
                         <lb n="7" facs="#v7" xml:id="v_7"/>
-                        <add seq="3">Il<del seq="2"> sociali</del> socialismo</add>
+                        <add seq="3">Il<del> sociali</del> socialismo</add>
                     </subst>
                  </l>
 
 
-                <l n="0"><lb n="8" facs="#v8" xml:id="v_8"/><del seq="1">e putrida</del><note type="critical" resp="#GT">"Della mesta e putrida" è stato cancellato insieme,
+               <lb n="8" facs="#v8" xml:id="v_8"/> <l n="0"><del seq="2">e putrida</del><note type="critical" resp="#GT">"Dalla mesta e putrida" è stato cancellato insieme,
                         nella stessa sequenza.</note></l>
 
-                <l n="0"><lb n="9" facs="#v9" xml:id="v_9"/><del seq="2">per un sapere, per
+               <lb n="9" facs="#v9" xml:id="v_9"/> <l n="0"><del seq="2">per un sapere, per
                     essere</del><note type="critical" resp="#GT">Forse il verso era stato pensato come seguito a "Il
                         socialismo..."</note>
                 </l>
 
 
-                <l n="6"><lb n="10" facs="#v10" xml:id="v_10"/>era un passato, un'altra morta
+                <lb n="10" facs="#v10" xml:id="v_10"/><l n="6">era un passato, un'altra morta
                     età.</l>
             </lg>
             <lb/>
@@ -145,30 +145,34 @@
 
 
 
-            <p><l n="0"><lb n="11"/>e fu soldati e contadini, noi,</l>
-                <l n="0"><lb n="12"/>fu i giovani ciclisti e i bar, le donne</l></p>
+            <p><lb n="11"/><l n="0"><del>e fu soldati e contadini, noi,</del></l>
+                <lb n="12"/><l n="0"><del>fu i giovani ciclisti e i bar, le donne</del></l></p>
 
 
 
             <lg n="2">
-                <l n="1"><lb n="13"/>come la vecchia inascoltata e nera</l>
-                <l n="2"><lb n="14"/>che usciva dalla <subst>
+                <lb n="13"/><l n="1">come la vecchia inascoltata e nera</l>
+                <lb n="14"/><l n="2">che usciva dalla <subst>
                         <del seq="1">straziante</del>
                         <add seq="2">livida</add>
                     </subst> novena</l>
-                <l n="3"><lb n="15"/>di una chiesa di incenso dove la pena</l>
-                <l n="4"><lb n="16"/>dell'agonia <del seq="0">ha</del> s'accorda con la sera</l>
-                <l n="5"><lb n="17"/>dei sensi e tutto <del seq="0">è una</del> è vano</l>
-                <l n="6"><lb n="18"/><app>
+               <lb n="15"/><l n="3">di una chiesa di incenso dove la pena</l>
+                <lb n="16"/><l n="4">dell'agonia <del seq="0">ha</del> s'accorda con la sera</l>
+                <lb n="17"/><l n="5">dei sensi e tutto <del seq="0">è una</del> è vano
+                
+                
+                <del>era</del></l>
+               <lb n="18"/> <l n="6"><app>
                         <lem>strazio</lem>
                         <rdg>gelo</rdg>
                         <rdg>freddo</rdg>
                     </app> d'infanzia, cieca verità...</l>
             </lg>
+            <lb/>
 
             <p>
-                <l n="0"><lb n="19"/>Veramente si fu servi di stolti </l>
-                <l n="0"><lb n="20"/>veramente <subst>
+                <lb n="19"/><l n="0">Veramente si fu servi di stolti </l>
+                <lb n="20"/><l n="0">veramente <subst>
                         <del><subst>
                                 <del seq="0">confusa </del>
                                 <del seq="1">tradit<del seq="1">a</del><add seq="2">o il nostro
@@ -178,20 +182,21 @@
                         <add seq="3"> si fu servi delle ore</add>
                     </subst>
                 </l>
-                <l n="0"><lb n="21"/>veramente contrito di nostri <del seq="0">ver</del> volti</l>
-                <l n="0"><lb n="22"/>veramente <del>dedito il</del> nostro amore</l>
-                <l n="0">
-                    <lb n="23"/>veri e tradito il nostro vero amore</l>
+                <lb n="21"/><l n="0">veramente contrito di nostri <del seq="0">ver</del> volti</l>
+                <lb n="22"/><l n="0">veramente <del>tradito il</del> nostro amore</l>
+               
+                    <lb n="23"/> <l n="0">veri e tradito il nostro vero amore</l>
             </p>
 
+<lb/>
 
 
             <lg n="3">
-                <l n="1"><lb n="24"/>Veramente si fu servi delle ore</l>
+               <lb n="24"/> <l n="1">Veramente si fu servi delle ore</l>
 
-                <l n="2"><lb n="25"/>veramente si fu servi di stolti</l>
+               <lb n="25"/> <l n="2">veramente si fu servi di stolti</l>
 
-                <l n="3"><lb n="26"/>veramente contrit<subst>
+                <lb n="26"/><l n="3">veramente contrit<subst>
                         <del seq="1">o</del>
                         <add seq="2">i</add>
                     </subst> il nostr<subst>
@@ -211,14 +216,14 @@
 
 
 
-                <l n="4"><lb n="27"/>veri <subst>
+               <lb n="27"/> <l n="4">veri <subst>
                         <del seq="1">e</del>
                         <add seq="2">,</add>
                     </subst> tradito il nostro vero amore</l>
 
-                <l n="5"><lb n="28"/>e l'ultima parola che ora ascolti,</l>
+                <lb n="28"/><l n="5">e l'ultima parola che ora ascolti,</l>
 
-                <l n="6"><lb n="29"/>compagno, <app>
+                <lb n="29"/><l n="6">compagno, <app>
                         <lem>non fu detta</lem>
                         <rdg>non si disse mai</rdg>
 
@@ -228,10 +233,10 @@
 
 
             <p>
-                <l n="1"><lb n="30"/>o non fu detta perché era più libera</l>
-                <l n="1"><lb n="31"/><del>e più felice degli altri e di noi</del></l>
-                <l n="1"><lb n="32"/>pianto e <del>m</del>
-                    <del>p</del> perché</l>
+                <lb n="30"/><l n="1">o non fu detta perché era più libera</l>
+               <lb n="31"/> <l n="1"><del>e più felice degli altri e di noi</del></l>
+                <lb n="32"/><l n="1"><del>pianto e <del seq="0">m</del>
+                    <del seq="0">p</del> perché</del></l>
             </p>
 
 
@@ -250,22 +255,22 @@
 
 
 
-            <lg n="4"><l n="1"><lb n="1" facs="#v1d" xml:id="v_1d"/>o non fu detta perché era più libera</l>
+            <lg n="4"><lb n="1" facs="#v1d" xml:id="v_1d"/><l n="1">o non fu detta perché era più libera</l>
 
-            <l n="2"><lb n="2" facs="#v2d" xml:id="v_2d"/>e più felice <del seq="0">e si
+           <lb n="2" facs="#v2d" xml:id="v_2d"/> <l n="2">e più felice <del seq="0">e si
                     voleva</del> della nostra esistenza</l>
 
-            <l n="3"><lb n="3" facs="#v3d" xml:id="v_3d"/>perché non si doveva <del seq="0"
+           <lb n="3" facs="#v3d" xml:id="v_3d"/> <l n="3">perché non si doveva <del seq="0"
                         >nomi</del><note type="critical" resp="#GT">Stava per scrivere "nominarla", poi
                         aggiunge sotto "mai nominarla".</note> mai nominarla senza</l>
 
-            <l n="4"><lb n="4" facs="#v4d" xml:id="v_4d"/>nominare anche il no, anche la <supplied
+            <lb n="4" facs="#v4d" xml:id="v_4d"/><l n="4">nominare anche il no, anche la <supplied
                     reason="illegible">vita</supplied>
             </l>
 
-            <l n="5"><lb n="5" facs="#v5d" xml:id="v_5d"/>dei nemici, degli altri, della immensa</l>
+           <lb n="5" facs="#v5d" xml:id="v_5d"/> <l n="5">dei nemici, degli altri, della immensa</l>
 
-            <l n="6"><lb n="6" facs="#v6d" xml:id="v_6d"/><subst>
+           <lb n="6" facs="#v6d" xml:id="v_6d"/> <l n="6"><subst>
                     <del seq="1">turba </del>
                     <del seq="1">che applaude ogni nostra ansietà</del>
                     <add seq="2">congiura che gode ogni nostra ansietà</add>
@@ -276,32 +281,32 @@
 
 
             <p>
-                <l n="1"><lb n="7"/>"L'obbietto obbietta" dice<subst>
+               <lb n="7"/> <l n="1">"L'obbietto obbietta" dice<subst>
                         <del seq="1">, amaro viso</del>
                         <add seq="2">l'amico</add>
                     </subst> e cade</l>
-                <l n="2"><lb n="8"/>l'idolo dell'essenza. Troppo tardi!"</l>
-                <l n="3"><lb n="9"/>già l'esistenza <del seq="0">mentre trem</del><del seq="1"
+               <lb n="8"/> <l n="2">l'idolo dell'essenza. Troppo tardi!"</l>
+                <lb n="9"/><l n="3">già l'esistenza <del seq="0">mentre trem</del><del seq="1"
                         >insieme guardi</del></l>
-                <l n="0"><lb n="10"/><del seq="1">insanguina le selci delle strade</del></l>
-                <l n="0"><lb n="11"/><del seq="1">titoli neri nelle nere strade</del></l>
-                <l n="3"><lb n="12"/><del seq="1">di Milano,</del><note type="critical" resp="#GT">Cancella i due versi
+                <lb n="10"/><l n="0"><del seq="1">insanguina le selci delle strade</del></l>
+                <lb n="11"/><l n="0"><del seq="1">titoli neri nelle nere strade</del></l>
+                <lb n="12"/><l n="3"><del seq="1">di Milano,</del><note type="critical" resp="#GT">Cancella i due versi
                         successivi, qui segnati con 00, e i due emistichi così da continuare dalla
                         metà del verso 3: "già l'esistenza insanguina le strade / come una
                         volta".</note>
                     <del seq="0">inse</del>
                     <add seq="0">in</add>sanguina le strade </l>
-                <l n="4"><lb n="13"/>come una volta</l>
+               <lb n="13"/><l n="4">come una volta</l>
             </p>
             <lb/>
                
 
             <p>
-                <l n="0"><lb n="14"/>Ma più forte <del seq="1">degli idoli</del> dei</l></p>
+                <lb n="14"/><l n="0">Ma più forte <del seq="1">degli idoli</del> dei</l></p>
             <lb/>
 
             <p>
-                <l n="0"><lb n="15"/>era amore, era</l></p>
+                <lb n="15"/><l n="0">era amore, era</l></p>
             <lb/>
             <note type="critical" resp="#GT">Fortini cassa la strofa successiva (il cui tema dei giornali verrà rielaborato
                 dopo) e collega la sestina precedente all'emistichio "era amore, era", che forse doveva
@@ -313,26 +318,26 @@
 
 
 
-            <l n="0"><lb n="16"/><del seq="3"><subst>
-                        <del seq="1">l</del>
-                        <add seq="2">L</add>
+           <lb n="16"/> <l n="0"><del seq="3"><subst>
+                        <del seq="1">L</del>
+                        <add seq="2">l</add>
                     </subst>a canaglia che aspetta</del></l>
 
             <lg n="5">
-                <l n="1"><lb n="17"/>E chi aspetta di leggere domani</l>
+               <lb n="17"/> <l n="1">E chi aspetta di leggere domani</l>
 
-                <l n="2"><lb n="18"/>una consolazione dalle righe</l>
+                <lb n="18"/><l n="2">una consolazione dalle righe</l>
 
-                <l n="3"><lb n="19"/>di piombo del giornale; e chi le scrive</l>
+                <lb n="19"/><l n="3">di piombo del giornale; e chi le scrive</l>
 
-                <l n="4"><lb n="20"/>nell'afa delle redazioni<subst>
+                <lb n="20"/><l n="4">nell'afa delle redazioni<subst>
                         <del seq="1">,</del>
                         <add seq="2">con</add>
                     </subst> mani</l>
 
-                <l n="5"><lb n="21"/>di devoti assassini; e chi le nemiche</l>
+                <lb n="21"/><l n="5">di devoti assassini; e chi le nemiche</l>
 
-                <l n="6"><lb n="22"/>parole spia per farne scusa a sé.</l>
+                <lb n="22"/><l n="6">parole spia per farne scusa a sé.</l>
             </lg>
 
 
@@ -341,30 +346,30 @@
 
 
 
-            <l n="0"><lb n="1" facs="#v51" xml:id="v_51"/><del>Combray</del></l>
+           <lb n="1" facs="#v51" xml:id="v_51"/> <l n="0"><del>Combray</del></l>
 
-            <l n="0"><lb n="2" facs="#v52" xml:id="v_52"/><del>'Partito di coscienza'</del></l>
+           <lb n="2" facs="#v52" xml:id="v_52"/> <l n="0"><del>'Partito di coscienza'</del></l>
 
 
 <lg n="6">
 
-            <l n="1"><lb n="3" facs="#v53" xml:id="v_53"/><del seq="0">e chi</del> sono i nostri
+            <lb n="3" facs="#v53" xml:id="v_53"/><l n="1"><del seq="0">e chi</del> sono i nostri
                 compagni, <subst>
                     <del seq="1">che in altri tempi</del>
                     <add seq="2">che non credono</add>
                 </subst></l>
 
          
-                <l n="0"><lb n="4" facs="#v54" xml:id="v_54"/>abbiamo amati e <add seq="1">che</add>
+                <lb n="4" facs="#v54" xml:id="v_54"/><l n="0">abbiamo amati e <add seq="1">che</add>
                     ora ci fanno paura</l>
 
-            <l n="2"><lb n="5" facs="#v55" xml:id="v_55"/><subst>
+            <lb n="5" facs="#v55" xml:id="v_55"/><l n="2"><subst>
                     <del seq="1">più a nulla</del>
                     <add seq="2"> a nulla più</add>
                 </subst> se non alle parole <del seq="0">che hanno</del>
             </l>
 
-            <l n="0"><lb n="6" facs="#v56" xml:id="v_56"/><del seq="0">insegnate</del> <del>agli operai
+            <lb n="6" facs="#v56" xml:id="v_56"/><l n="0"><del seq="0">insegnate</del> <del>agli operai
                 insegnate,</del> <subst>
                     <del seq="1">e che</del>
                     <del seq="2">all'inganno</del>
@@ -373,42 +378,42 @@
 
 
 
-            <l n="3"><lb n="7" facs="#v57" xml:id="v_57"/>che hanno insegnato agli operai,
+            <lb n="7" facs="#v57" xml:id="v_57"/><l n="3">che hanno insegnato agli operai,
                 parole</l>
 
-            <l n="4"><lb n="8" facs="#v58" xml:id="v_58"/>che ritornano a loro come fede</l>
+            <lb n="8" facs="#v58" xml:id="v_58"/><l n="4">che ritornano a loro come fede</l>
 
-            <l n="0"><lb n="9" facs="#v59" xml:id="v_59"/><del seq="0">a conferma di chi non può</del>
+           <lb n="9" facs="#v59" xml:id="v_59"/> <l n="0"><del seq="0">a conferma di chi non può</del>
               </l>
 
-            <l n="5"><lb n="10" facs="#v60" xml:id="v_60"/>o rabbia <subst>
+            <lb n="10" facs="#v60" xml:id="v_60"/><l n="5">o rabbia <subst>
                     <del seq="1">come</del>
                     <add seq="2">o rancore o</add>
                 </subst> grido di chi vuole</l>
 
-            <l n="6"><lb n="11" facs="#v61" xml:id="v_61"/>quel che non ha, non quello che sa.</l></lg>
+            <lb n="11" facs="#v61" xml:id="v_61"/><l n="6">quel che non ha, non quello che sa.</l></lg>
 
 
-            <l n="1"><lb n="12"/>Ma più forte dei loro brusii, più sottile</l>
+            <lb n="12"/><l n="1">Ma più forte dei loro brusii, più sottile</l>
 
-            <l n="2"><lb n="13"/>dei nostri ragionamenti, più astuta</l>
+            <lb n="13"/><l n="2">dei nostri ragionamenti, più astuta</l>
 
-            <l n="3"><lb n="14"/>del destino, <subst>
+           <lb n="14"/><l n="3">del destino, <subst>
                     <del seq="1">ritesse la</del>
                     <add seq="2">ritessono la</add>
             </subst>.......<note type="critical" resp="#GT">Lascia dei puntini al posto delle parole per completare
                     momentaneamente il verso.</note></l>
 
 
-            <l n="0"><lb n="15"/><del seq="1">i rapporti di produzione, la caduta</del></l>
+            <lb n="15"/><l n="0"><del seq="1">i rapporti di produzione, la caduta</del></l>
 
-            <l n="3"><lb n="16"/><del seq="1">del tasso dei titoli</del><add>e forze
+           <lb n="16"/> <l n="3"><del seq="1">del tasso dei titoli</del><add>e forze
                     produttive</add> si tramutano</l>
 
-            <l n="0"><lb n="17"/><del>la bianca fedeltà</del>
+            <lb n="17"/><l n="0"><del>la bianca fedeltà</del>
                 <del>senza vergogna, amore o uomini</del></l>
 
-            <l n="4"><lb n="18"/>in rapporti <app>
+            <lb n="18"/><l n="4">in rapporti <app>
                     <lem>di</lem>
                     <rdg>e</rdg>
                 </app> produzione, <subst>
@@ -420,15 +425,15 @@
 
 
 
-          <lg n="6">  <l n="1"><lb n="19"/>questa, in ultima analisi, in rapporto</l>
+            <lg n="6"><lb n="19"/><l n="1">questa, in ultima analisi, in rapporto</l>
 
-            <l n="2"><lb n="20"/>con il verso che scrivo... Nelle <subst>
+           <lb n="20"/> <l n="2">con il verso che scrivo... Nelle <subst>
                     <del seq="1">fabbriche</del>
                     <add seq="2">officine</add>
                 </subst></l>
 
 
-            <l n="3"><lb n="21"/>di Varsavia <subst>
+            <lb n="21"/><l n="3">di Varsavia <subst>
                     <del seq="1"><supplied reason="illegible">s'accosta amari labbri</supplied></del>
 
                     <del seq="2">i consig</del>
@@ -440,20 +445,20 @@
 
 
 
-            <l n="0"><lb n="23" facs="#v72" xml:id="v_72"/><del>stringono come</del></l>
+            <lb n="23" facs="#v72" xml:id="v_72"/><l n="0"><del>stringono come</del></l>
 
-            <l n="4"><lb n="24" facs="#v73" xml:id="v_73"/>di ferraglia e di ruggine, fra smorti</l>
+            <lb n="24" facs="#v73" xml:id="v_73"/><l n="4">di ferraglia e di ruggine, fra smorti</l>
 
-            <l n="5"><lb n="25" facs="#v74" xml:id="v_74"/>cortili, <del seq="1">odono</del><add seq="2">siano</add> la fine </l>
+            <lb n="25" facs="#v74" xml:id="v_74"/><l n="5">cortili, <del seq="1">odono</del><add seq="2">siano</add> la fine </l>
 
-            <l n="6"><lb n="26" facs="#v76" xml:id="v_76"/>dei nostri tempi nell <del seq="1">a
+           <lb n="26" facs="#v76" xml:id="v_76"/> <l n="6">dei nostri tempi nell <del seq="1">a
                     voce</del>
                 <add seq="2">e cifre</add> che</l></lg>
 
 
 
 
-            <l n="1"><lb n="27" facs="#v77" xml:id="v_77"/><del seq="1">lui</del><del seq="2"
+           <lb n="27" facs="#v77" xml:id="v_77"/> <l n="1"><del seq="1">lui</del><del seq="2"
                     >Goznizk pronuncia al</del><add seq="3">Goznizk</add> legge al microfono <del
                     seq="0">alle</del> <supplied reason="illegible">sue</supplied> folle</l>
 
