@@ -30,31 +30,36 @@
 
                     <msContents>
                         <msItem>
-                            <colophon/>
-                        </msItem>
-                    </msContents>
-
-                    <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-
-                                <p>Manoscritto di tre carte scritte solo nel fronte con la stessa penna di colore rosso.
+                            <colophon>
+                                
+                              Manoscritto di tre carte scritte solo nel fronte con la stessa penna di colore rosso.
                                     Le strofe sono la 4 e la 5 del componimento, seguite dalla 12, cioè la sezione 4 del
-                                    poemetto, seguite dalla sezione 5 e dalla 6.</p>
-                                <p>Le correzioni dovrebbero risalire ad una fase appena successiva alla stesura del
+                                    poemetto, seguite dalla sezione 5 e dalla 6.
+                              Le correzioni dovrebbero risalire ad una fase appena successiva alla stesura del
                                     testo a differenza degli altri manoscritti della Risposta, i quali presentano la
                                     maggior parte delle correzioni con penna diversa. Rispetto alle altre carte, il
                                     manoscritto risulterebbe essere la prima stesura, seguito poi dal ms. blu, con
                                     riscrittura di alcune strofe qui già presenti e l'aggiunta di altre, e dal ms. blu
                                     ter, versione probabilmente appena precedente alla poesia pubblicata su
-                                    "Officina".</p>
-                                <p>Da una certa scansione della stesura, già è evidente </p>
+                                    "Officina".
+                             Da una certa scansione della stesura, è già evidente la sua condizione di scartafaccio vero e proprio,
+                             di primo abbozzo del componimento (da notare le rime appuntate di fianco a destra dei versi, quasi scheletro della sestina anche se negoziato nella stesura della sestina).
+                                
+                            </colophon>
+                        </msItem>
+                    </msContents>
+
+                   <!-- <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+
+                               
                             </supportDesc>
                         </objectDesc>
                         <handDesc>
                             <p>Un'unica penna rossa scrive e corregge i versi.</p>
                         </handDesc>
-                    </physDesc>
+                    </physDesc>-->
                 </msDesc>
 
 
@@ -69,17 +74,18 @@
 
     <text xml:id="Fmsrosso_text" n="Ms rosso (1)">
         <front>
-            <p>Manoscritto di tre carte scritte solo nel fronte con la stessa penna di colore rosso.
-                Le strofe sono la 4 e la 5 del componimento, seguite dalla 12, cioè la sezione 4 del
-                poemetto, seguite dalla sezione 5 e dalla 6.</p>
-            <p>Le correzioni dovrebbero risalire ad una fase appena successiva alla stesura del
-                testo a differenza degli altri manoscritti della Risposta, i quali presentano la
-                maggior parte delle correzioni con penna diversa. Rispetto alle altre carte, il
-                manoscritto risulterebbe essere la prima stesura, seguito poi dal ms. blu, con
-                riscrittura di alcune strofe qui già presenti e l'aggiunta di altre, e dal ms. blu
-                ter, versione probabilmente appena precedente alla poesia pubblicata su
-                "Officina".</p>
-            <p>Da una certa scansione della stesura, già è evidente </p>
+           <p> Manoscritto di tre carte scritte solo nel fronte con la stessa penna di colore rosso.
+            Le strofe sono la 4 e la 5 del componimento, seguite dalla 12, cioè la sezione 4 del
+            poemetto, seguite dalla sezione 5 e dalla 6.</p>
+           <p> Le correzioni dovrebbero risalire ad una fase appena successiva alla stesura del
+            testo a differenza degli altri manoscritti della Risposta, i quali presentano la
+            maggior parte delle correzioni con penna diversa. Rispetto alle altre carte, il
+            manoscritto risulterebbe essere la prima stesura, seguito poi dal ms. blu, con
+            riscrittura di alcune strofe qui già presenti e l'aggiunta di altre, e dal ms. blu
+            ter, versione probabilmente appena precedente alla poesia pubblicata su
+            "Officina".</p>
+           <p> Da una certa scansione della stesura, è già evidente la sua condizione di scartafaccio vero e proprio,
+            di primo abbozzo del componimento (da notare le rime appuntate di fianco a destra dei versi, quasi scheletro della sestina, anche se poi negoziato durante la stesura della sestina).</p>
         </front>
 
         <body>
@@ -137,6 +143,7 @@
                 <lb n="10" facs="#v10" xml:id="v_10"/><l n="6">era un passato, un'altra morta
                     età.</l>
             </lg>
+            
             <lb/>
 
 
@@ -209,13 +216,6 @@
 
 
 
-
-
-
-
-
-
-
                <lb n="27"/> <l n="4">veri <subst>
                         <del seq="1">e</del>
                         <add seq="2">,</add>
@@ -255,7 +255,9 @@
 
 
 
-            <lg n="4"><lb n="1" facs="#v1d" xml:id="v_1d"/><l n="1">o non fu detta perché era più libera</l>
+            <lg n="4">
+                
+                <lb n="1" facs="#v1d" xml:id="v_1d"/><l n="1">o non fu detta perché era più libera</l>
 
            <lb n="2" facs="#v2d" xml:id="v_2d"/> <l n="2">e più felice <del seq="0">e si
                     voleva</del> della nostra esistenza</l>
@@ -318,7 +320,7 @@
 
 
 
-           <lb n="16"/> <l n="0"><del seq="3"><subst>
+           <lb n="16"/><l n="0"><del seq="3"><subst>
                         <del seq="1">L</del>
                         <add seq="2">l</add>
                     </subst>a canaglia che aspetta</del></l>
