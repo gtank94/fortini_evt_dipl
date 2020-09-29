@@ -20,7 +20,7 @@
 								
 									{
 									"line" : "|",
-									"text" : "Da una certa scansione della stesura, già è evidente ",
+									"text" : "Da una certa scansione della stesura, è già evidente la sua condizione di scartafaccio vero e proprio, di primo abbozzo del componimento (da notare le rime appuntate di fianco a destra dei versi, quasi scheletro della sestina, anche se poi negoziato durante la stesura della sestina).",
 									"tags" : "Fmsrosso_text|Ms rosso (1)",
 									"loc" : "no_page_info|no_page_info",
 									"inFront": "true"
@@ -52,7 +52,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 di  canti, i gruppi [della gente]  ",
+											"text" : "04 di  canti, i gruppi [della gente] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -76,7 +76,7 @@
 									
 										{ 
 											"line" : "7|line 7",
-											"text" : "[Il[ sociali] socialismo] ",
+											"text" : "[Il sociali socialismo] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -101,22 +101,6 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "06 era un passato, un'altra morta età.   ",
-											"tags" : "Fmsrosso_text|Ms rosso (1)",
-											"loc" : "msr_fol_1r|1",
-											"inFront": "false"
-										},
-									
-										{ 
-											"line" : "11|line 11",
-											"text" : "00 e fu soldati e contadini, noi,",
-											"tags" : "Fmsrosso_text|Ms rosso (1)",
-											"loc" : "msr_fol_1r|1",
-											"inFront": "false"
-										},
-									
-										{ 
-											"line" : "12|line 12",
-											"text" : "fu i giovani ciclisti e i bar, le donne ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -156,7 +140,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "05 dei sensi e tutto [è una] è vano ",
+											"text" : "05 dei sensi e tutto [è una] è vano era ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -164,7 +148,7 @@
 									
 										{ 
 											"line" : "18|line 18",
-											"text" : "06 (strazio)(gelo)(freddo) d'infanzia, cieca verità...  ",
+											"text" : "06 (strazio)(gelo)(freddo) d'infanzia, cieca verità...    ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -196,7 +180,7 @@
 									
 										{ 
 											"line" : "22|line 22",
-											"text" : "veramente dedito il nostro amore",
+											"text" : "veramente tradito il nostro amore",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -204,7 +188,7 @@
 									
 										{ 
 											"line" : "23|line 23",
-											"text" : "veri e tradito il nostro vero amore ",
+											"text" : "veri e tradito il nostro vero amore   ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -276,7 +260,7 @@
 									
 										{ 
 											"line" : "32|line 32",
-											"text" : "01 pianto e m p perché ",
+											"text" : "01 pianto e [m] [p] perché ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -324,7 +308,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "06 [turba ][che applaude ogni nostra ansietà][congiura che gode ogni nostra ansietà]    ",
+											"text" : "06 [turba che applaude ogni nostra ansietà][congiura che gode ogni nostra ansietà]    ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -404,7 +388,7 @@
 									
 										{ 
 											"line" : "16|line 16",
-											"text" : "[[l][L]a canaglia che aspetta]",
+											"text" : "[L][l]a canaglia che aspetta",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -572,7 +556,7 @@
 									
 										{ 
 											"line" : "15|line 15",
-											"text" : "00 [i rapporti di produzione, la caduta]",
+											"text" : "00 i rapporti di produzione, la caduta",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -580,7 +564,7 @@
 									
 										{ 
 											"line" : "16|line 16",
-											"text" : "03 [del tasso dei titoli]e forze produttive si tramutano",
+											"text" : "03 [del tasso dei titoli] [e forze produttive si tramutano]",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -660,7 +644,7 @@
 									
 										{ 
 											"line" : "27|line 27",
-											"text" : "01 [lui][Goznizk pronuncia al][Goznizk] legge al microfono [alle] sue folle  ",
+											"text" : "01 [lui][Goznizk pronuncia al][Goznizk] legge al microfono [alle] su folle  ",
 											"tags" : "Fmsrosso_text Fmsblu_text|Ms rosso (1) Ms blu (2)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -1132,7 +1116,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "e il privilegio della poesia ",
+											"text" : "e il privilegio della poesia",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -2188,15 +2172,7 @@
 									
 										{ 
 											"line" : "26|line 26",
-											"text" : "06 quel che non ha non [più] quel[lo] che non sa ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
-											"loc" : "ms3_fol_3r|3",
-											"inFront": "false"
-										},
-									
-										{ 
-											"line" : "26bis|line 26bis",
-											"text" : "[4.][6.]",
+											"text" : "06 quel che non ha non [più] quel[lo] che non sa  [4.][6.]",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
