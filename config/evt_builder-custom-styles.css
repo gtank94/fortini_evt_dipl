@@ -125,6 +125,8 @@ p {
     
 }
 
+P.dipl-add, .dipl-del, .dipl-subst {color: black}
+
 lg{
    padding: 150px; 
 }
