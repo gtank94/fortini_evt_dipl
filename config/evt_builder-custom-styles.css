@@ -46,7 +46,7 @@ span[data-seq='0'] {
 span[data-seq='1'] {
     background-color: #e3dec1 !important;
    
-    padding: 0.05px;
+ 
     
 }
 span[data-seq='2'] {
@@ -125,7 +125,8 @@ p {
     
 }
 
-P.dipl-add, .dipl-del, .dipl-subst {color: black}
+.dipl-add[data-seq], .dipl-del[data-seq], .dipl-subst[data-seq] {color: black}
+.dipl-del[data-seq='0'] {color: white !important}
 
 lg{
    padding: 150px; 
