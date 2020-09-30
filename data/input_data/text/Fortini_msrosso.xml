@@ -97,7 +97,7 @@
 
 
             <lg n="1">
-                <lb n="1" facs="#v1" xml:id="v_1"/><l n="1">E anch'io ho veduto in una sera
+               <lb n="1" facs="#v1" xml:id="v_1"/><l n="1">E anch'io ho veduto in una sera
                     oscura</l>
                <lb n="2" facs="#v2" xml:id="v_2"/><l n="2"><del seq="0">di</del> come <del seq="0"
                         >quella che tu</del> la tua, a Bologna, una festa</l>
@@ -135,7 +135,7 @@
                         nella stessa sequenza.</note></l>
 
                <lb n="9" facs="#v9" xml:id="v_9"/> <l n="0"><del seq="2">per un sapere, per
-                    essere</del><note type="critical" resp="#GT">Forse il verso era stato pensato come seguito a "Il
+                    essere</del><note type="critical" resp="#GT">Forse il verso era stato pensato come séguito a "Il
                         socialismo..."</note>
                 </l>
 
@@ -152,8 +152,8 @@
 
 
 
-            <p><lb n="11"/><l n="0"><del>e fu soldati e contadini, noi,</del></l>
-                <lb n="12"/><l n="0"><del>fu i giovani ciclisti e i bar, le donne</del></l></p>
+            <!--<p><lb n="11"/><l><del>e fu soldati e contadini, noi,</del></l>
+                <lb n="12"/><l><del>fu i giovani ciclisti e i bar, le donne</del></l></p>-->
 
 
 
@@ -175,6 +175,7 @@
                         <rdg>freddo</rdg>
                     </app> d'infanzia, cieca verità...</l>
             </lg>
+            
             <lb/>
 
             <p>
@@ -273,21 +274,25 @@
            <lb n="5" facs="#v5d" xml:id="v_5d"/> <l n="5">dei nemici, degli altri, della immensa</l>
 
            <lb n="6" facs="#v6d" xml:id="v_6d"/> <l n="6"><subst>
-                    <del seq="1">turba </del>
-                    <del seq="1">che applaude ogni nostra ansietà</del>
+                    <del seq="1"><del>turba</del>
+                    che applaude ogni nostra ansietà</del>
                     <add seq="2">congiura che gode ogni nostra ansietà</add>
-                </subst></l></lg>
+                </subst></l>
+            
+            
+            
+            </lg>
 
 
             <lb/>
 
 
             <p>
-               <lb n="7"/> <l n="1">"L'obbietto obbietta" dice<subst>
+               <lb n="7"/><l n="1">"L'obbietto obbietta" dice<subst>
                         <del seq="1">, amaro viso</del>
                         <add seq="2">l'amico</add>
                     </subst> e cade</l>
-               <lb n="8"/> <l n="2">l'idolo dell'essenza. Troppo tardi!"</l>
+               <lb n="8"/><l n="2">l'idolo dell'essenza. Troppo tardi!"</l>
                 <lb n="9"/><l n="3">già l'esistenza <del seq="0">mentre trem</del><del seq="1"
                         >insieme guardi</del></l>
                 <lb n="10"/><l n="0"><del seq="1">insanguina le selci delle strade</del></l>
@@ -320,7 +325,7 @@
 
 
 
-           <lb n="16"/><l n="0"><del seq="3"><subst>
+           <lb n="16"/><l n="0"><del><subst>
                         <del seq="1">L</del>
                         <add seq="2">l</add>
                     </subst>a canaglia che aspetta</del></l>
@@ -407,10 +412,10 @@
                     momentaneamente il verso.</note></l>
 
 
-            <lb n="15"/><l n="0"><del seq="1">i rapporti di produzione, la caduta</del></l>
+            <lb n="15"/><l n="0"><del>i rapporti di produzione, la caduta</del></l>
 
-           <lb n="16"/> <l n="3"><del seq="1">del tasso dei titoli</del><add>e forze
-                    produttive</add> si tramutano</l>
+           <lb n="16"/> <l n="3"><del seq="1">del tasso dei titoli</del> <add seq="2">e forze
+                    produttive si tramutano</add></l>
 
             <lb n="17"/><l n="0"><del>la bianca fedeltà</del>
                 <del>senza vergogna, amore o uomini</del></l>
@@ -462,7 +467,7 @@
 
            <lb n="27" facs="#v77" xml:id="v_77"/> <l n="1"><del seq="1">lui</del><del seq="2"
                     >Goznizk pronuncia al</del><add seq="3">Goznizk</add> legge al microfono <del
-                    seq="0">alle</del> <supplied reason="illegible">sue</supplied> folle</l>
+                    seq="0">alle</del> su folle</l>
 
         </body>
         <back> </back>

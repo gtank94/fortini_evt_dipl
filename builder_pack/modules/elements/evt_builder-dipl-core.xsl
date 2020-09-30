@@ -29,14 +29,14 @@
 	<!-- Page layout -->
 	<!--             -->
 
-	<!-- P Paragraphs -->
+	<!--<!-\- P Paragraphs -\->
 	<xsl:template match="tei:p" mode="dipl">
 		<xsl:element name="p">
 			<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 			<xsl:call-template name="dataAttributesFromAttributes"/>
 			<xsl:apply-templates mode="#current"/>
 		</xsl:element>
-	</xsl:template>
+	</xsl:template>-->
 	
 	
 			
@@ -75,7 +75,7 @@
 			</xsl:choose>
 		</xsl:if>
 		<xsl:choose>
-			<xsl:when test="parent::tei:lg">
+			<xsl:when test="parent::tei:lg|tei:p">
 				<xsl:element name="span">
 					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 					<xsl:attribute name="data-display" select="'inline-block'"/>

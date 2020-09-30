@@ -37,6 +37,48 @@
 }
 /*CSS per le varianti (GT)*/
 
+
+span[data-seq='0'] {
+    background-color: #d74643 !important;
+    color: white;
+    
+}
+span[data-seq='1'] {
+    background-color: #e3dec1 !important;
+   
+    padding: 0.05px;
+    
+}
+span[data-seq='2'] {
+    background-color: #e3dec1 !important;
+    
+    
+}
+span[data-seq='3'] {
+    background-color: #e3dec1 !important;
+    
+    
+}
+
+span[data-seq='4'] {
+    background-color: #e3dec1 !important;
+    
+    
+}
+span[data-seq='5'] {
+    background-color: #e3dec1 !important;
+   
+    
+}
+span[data-seq='6'] {
+    background-color: #e3dec1 !important;
+  
+    
+}
+
+
+
+
 /*span[data-seq='1'] {
     background-color: #93117e !important;
     color: white;
@@ -53,11 +95,7 @@ span[data-seq='3'] {
     color: white;
     
 }
-span[data-seq='0'] {
-    background-color: #d74643 !important;
-    color: white;
-    
-}
+
 span[data-seq='4'] {
     background-color: #009136 !important;
     color: white;
@@ -74,11 +112,7 @@ span[data-seq='6'] {
     
 }*/
 
-span[data-seq] {
-    background-color: #edd698 !important;
-   
-    
-}
+
 
 
 span[data-tagname='lem'] {
@@ -96,6 +130,7 @@ lg{
 }
 
 /*colori varianti nella legenda (GT)*/
+
 [data-rend*='#93117e'] {
    color: #93117e !important;
     font-weight: bold !important;
@@ -140,6 +175,8 @@ lg{
     font-weight: bold !important;
    
 }
+
+
 
 
 

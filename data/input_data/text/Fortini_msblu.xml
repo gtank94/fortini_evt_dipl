@@ -33,7 +33,7 @@
                             <colophon/>
                         </msItem>
                     </msContents>
-                    <physDesc>
+                  <!--  <physDesc>
                         <objectDesc>
                             <supportDesc>
 
@@ -61,7 +61,7 @@
                         </objectDesc>
 
 
-                    </physDesc>
+                    </physDesc>-->
 
 
                 </msDesc>
@@ -475,10 +475,10 @@
             </l>
 
 
-            <p><lb n="6" facs="#v6_3r" xml:id="v_6_3r"/><l><!--<del seq="0">-->e il privilegio<!--</del>-->
-                    <!--<del seq="0">-->della poesia<!--</del>--></l>
-                <lb n="7" facs="#v7_3r" xml:id="v_7_3r"/><l><!--<del seq="0">-->è corona a celare
-                    la<!--</del>--></l></p>
+            <p><lb n="6" facs="#v6_3r" xml:id="v_6_3r"/><l><del>e il privilegio</del>
+                    <del>della poesia</del></l>
+                <lb n="7" facs="#v7_3r" xml:id="v_7_3r"/><l><del>è corona a celare
+                    la</del></l></p>
 
 
 

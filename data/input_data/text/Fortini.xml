@@ -397,33 +397,15 @@
     <text>
         <group>
             <xi:include href="./Fortini_msrosso.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fmsrosso_text"><xi:fallback>
-                    <body>
-                        <p>
-                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
-                        </p>
-                    </body>
-                </xi:fallback></xi:include>
+                xpointer="Fmsrosso_text"/>
 
 
             <xi:include href="./Fortini_msblu.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fmsblu_text"><xi:fallback>
-                    <body>
-                        <p>
-                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
-                        </p>
-                    </body>
-                </xi:fallback></xi:include>
+                xpointer="Fmsblu_text"/>
 
 
             <xi:include href="./Fortini_ms3.xml" xmlns:xi="http://www.w3.org/2001/XInclude"
-                xpointer="Fms3_text"><xi:fallback>
-                    <body>
-                        <p>
-                            <emph> FIXME: MISSING XINCLUDE CONTENT </emph>
-                        </p>
-                    </body>
-                </xi:fallback></xi:include>
+                xpointer="Fms3_text"/>
         </group>
     </text>
 </TEI>

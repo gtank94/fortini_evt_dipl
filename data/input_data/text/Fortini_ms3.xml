@@ -34,7 +34,7 @@
                                 "Officina". </colophon>
                         </msItem>
                     </msContents>
-                    <physDesc>
+                    <!--<physDesc>
                         <objectDesc>
                             <supportDesc>
                                 <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
@@ -58,7 +58,7 @@
 
 
                     </physDesc>
-
+-->
 
                 </msDesc>
             </sourceDesc>
@@ -720,7 +720,7 @@
 
 
             <div n="6">
-                <lb n="26bis"/>
+             
                 <head><subst>
                         <del seq="1">4.</del>
                         <add seq="2">6.</add>
