@@ -52,7 +52,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 di  canti, i gruppi [della gente] ",
+											"text" : "04 di  canti, i gruppi [e della gente] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -60,7 +60,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "[e nella luce dura] ",
+											"text" : "[nella luce dura] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
