@@ -210,9 +210,9 @@ SPAN.dipl-lineN,
     vertical-align: top;
 }
 
-SPAN.dipl-subst {
+/*SPAN.dipl-subst {
     text-decoration: underline;
-}
+}*/
 
 SPAN.dipl-del {
    /* background-color: red;*/
