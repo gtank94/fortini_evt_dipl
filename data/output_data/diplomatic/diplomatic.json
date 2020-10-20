@@ -107,6 +107,22 @@
 										},
 									
 										{ 
+											"line" : "11|line 11",
+											"text" : "e fu soldati e contadini, noi,",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "fu i giovani ciclisti e i bar, le donne ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
 											"line" : "13|line 13",
 											"text" : "01 come la vecchia inascoltata e nera ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
@@ -140,7 +156,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "05 dei sensi e tutto [è una] è vano era ",
+											"text" : "05 dei sensi e tutto [è una] è vano ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -164,7 +180,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "veramente [confusa ][tradit[a][o il nostro tempo sano]][ fu la][ si fu servi delle ore]",
+											"text" : "veramente [confusa][tradit[a][o il nostro tempo sano]][ fu la][ si fu servi delle ore]",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"

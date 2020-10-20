@@ -152,8 +152,8 @@
 
 
 
-            <!--<p><lb n="11"/><l><del>e fu soldati e contadini, noi,</del></l>
-                <lb n="12"/><l><del>fu i giovani ciclisti e i bar, le donne</del></l></p>-->
+            <p><lb n="11"/><l><del>e fu soldati e contadini, noi,</del></l>
+                <lb n="12"/><l><del>fu i giovani ciclisti e i bar, le donne</del></l></p>
 
 
 
@@ -168,7 +168,7 @@
                 <lb n="17"/><l n="5">dei sensi e tutto <del seq="0">è una</del> è vano
                 
                 
-                <del>era</del></l>
+               </l>
                <lb n="18"/> <l n="6"><app>
                         <lem>strazio</lem>
                         <rdg>gelo</rdg>
@@ -182,7 +182,7 @@
                 <lb n="19"/><l n="0">Veramente si fu servi di stolti </l>
                 <lb n="20"/><l n="0">veramente <subst>
                         <del><subst>
-                                <del seq="0">confusa </del>
+                                <del seq="0">confusa</del>
                                 <del seq="1">tradit<del seq="1">a</del><add seq="2">o il nostro
                                         tempo sano</add></del>
                                 <del seq="1"> fu la</del>

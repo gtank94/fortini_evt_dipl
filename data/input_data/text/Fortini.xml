@@ -27,7 +27,7 @@
                             <idno>Scatola Poesie (3a), Carta 31</idno>
                         </altIdentifier>
 
-                        <msName>Manoscritto blu</msName>
+                        
                     </msIdentifier>
                     <msContents>
                         <msItem>
@@ -62,7 +62,7 @@
                                     stata accolta in una successiva stesura si è preferito marcarla
                                     con "lem"; nel lettore sarà individuabile attraverso il <hi
                                         rend="#edbf5a">giallo</hi>. </p>
-                                <p>Tra parentesi quadre in corsivo, seguite da un punto interrogativo, sono rappresentate le
+                                <p>Tra parentesi graffe in corsivo, seguite da un punto interrogativo, sono rappresentate le
                                     congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied @reason="illegible" ").</p>
                                 <p>Alcuni versi sono rappresentati con un colore più chiaro nel
                                     reader: sono quelle strofe cassate nella stesura o quei versi che
