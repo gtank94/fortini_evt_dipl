@@ -120,10 +120,12 @@ span[data-tagname='lem'] {
 
 /*CSS per i versi cancellati (GT)*/
 
-p {
+p[data-rend='delete'] {
     color: darkgrey;
     
 }
+
+div.right_col{color: black;}
 
 .dipl-add[data-seq], .dipl-del[data-seq], .dipl-subst[data-seq] {color: black}
 .dipl-del[data-seq='0'] {color: white !important}
@@ -237,11 +239,30 @@ span.dipl-add[data-seq='6']::before{content:"→"; background-color: white; colo
 
 
 span.dipl-del[data-seq='1']::before{content: " "}
-span.dipl-del[data-seq='2']::before{content:"→"; background-color: white; color: black;}
-span.dipl-del[data-seq='3']::before{content:"→"; background-color: white; color: black; }
-span.dipl-del[data-seq='4']::before{content:"→"; background-color: white; color: black;}
-span.dipl-del[data-seq='5']::before{content:"→"; background-color: white; color: black;}
-span.dipl-del[data-seq='6']::before{content:"→"; background-color: white; color: black;}
+span.dipl-del[data-seq='2']::before{content:"→"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-del[data-seq='3']::before{content:"→"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-del[data-seq='4']::before{content:"→"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-del[data-seq='5']::before{content:"→"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-del[data-seq='6']::before{content:"→"; background-color: white; color: black; text-decoration:none !important;}
+
+
+
+  
+/*span.dipl-add[data-seq='1']::after{content:"¹"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-add[data-seq='2']::after{content:"²"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-add[data-seq='3']::after{content:"³"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-add[data-seq='4']::after{content:"⁴"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-add[data-seq='5']::after{content:"⁵"; background-color: white; color: black; text-decoration:none !important;}
+span.dipl-add[data-seq='6']::after{content:"⁶"; background-color: white; color: black; text-decoration:none !important;}*/
+
+
+/*span.dipl-del[data-seq='1']::after{content:"¹"; background-color: white; color: black;}
+span.dipl-del[data-seq='2']::after{content:"²"; background-color: white; color: black;}
+span.dipl-del[data-seq='3']::after{content:"³"; background-color: white; color: black; }
+span.dipl-del[data-seq='4']::after{content:"⁴"; background-color: white; color: black;}
+span.dipl-del[data-seq='5']::after{content:"⁵"; background-color: white; color: black;}
+span.dipl-del[data-seq='6']::after{content:"⁶"; background-color: white; color: black;
+ }*/
 
 
 

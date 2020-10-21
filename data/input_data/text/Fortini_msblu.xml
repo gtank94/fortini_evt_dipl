@@ -182,12 +182,12 @@
                 componimento finale in penna blu scuro; probabilmente anche il foglio 1, come il 2
                 lo è del ms. rosso, è una riscrittura di uno scartafaccio precedente (si vedano i
                 versi ordinati e perfettamente in riga). Dopo l'asterisco la strofa di accusa e
-                domanda a Pasolini. </p>
+                domanda a Pasolini che riprende la strofa delle Ceneri. </p>
             <p>Nel <hi rend="bold">foglio 2</hi> Fortini ricopia le prime due strofe del ms. rosso,
                 poi strofe 4 e 5 del componimento su Officina ("E anch'io ho veduto.." e "come la
                 vecchia inascoltata..."), procedendo con la prima stesura delle strofe 6, 7 e 8,
                 quest'ultima scritta nel recto del cartoncino (<hi rend="bold">foglio 3r</hi>).</p>
-            <p>Il <hi rend="bold">foglio 3v</hi> è la seconda stesura della prima strofa del
+            <p>Il <hi rend="bold">foglio 3v</hi> è la seconda stesura della strofa iniziale del
                 componimento, evidente dalla correzione del primo verso, da "Sì, non paura..." a
                 "No, non paura...", accettata nel ms. blu ter.</p>
         </front>
@@ -205,7 +205,7 @@
                 <lb n="3" facs="#v3_1r" xml:id="v_3_1r"/>
                 <l n="3">non ritegno di errore ci trattiene</l>
                 <lb n="4" facs="#v4_1r" xml:id="v_4_1r"/>
-                <l n="4">come tu credi. E <del seq="1">a</del>i nostri ultimi mali</l>
+                <l n="4">come tu credi. E <del>a</del>i nostri ultimi mali</l>
                 <lb n="5" facs="#v5_1r" xml:id="v_5_1r"/>
                 <l n="5">nuovo sangue, non gelo, hanno le vene:</l>
                 <lb n="6" facs="#v6_1r" xml:id="v_6_1r"/>
@@ -230,9 +230,9 @@
                 <l n="4"><subst>
                         <del seq="1">a</del>
                         <add seq="2">e</add>
-                    </subst> tutti - la spontaneità! - <add seq="2">, la fame</add></l>
+                    </subst> tutti - la spontaneità! - <add>, la fame</add></l>
                 <lb n="11" facs="#v11_1r" xml:id="v_11_1r"/>
-                <l n="5"><add seq="2">di storia!) con</add>
+                <l n="5"><add>di storia!)</add> con
                     <subst>
                         <del seq="1">e di</del>
                         <add seq="2">l'</add>
@@ -281,8 +281,8 @@
                     </subst>
                     <note type="critical" resp="#GT">La sostituzione del punto con i due punti fa presupporre che qui Fortini
                         pensava già di inserire quei versi in corsivo in «Officina» e ricopiati in
-                        penna rossa e in bella sul ms. blu ter. Non si esclude che nel manoscritto
-                        di prima stesura delle strofe in rosso/corsivo, non pervenutoci, ci fosse
+                        penna rossa e in bella sul ms. blu ter. Non si esclude che in una probabile prima stesuranel manoscritto
+                        delle strofe in rosso/corsivo, non pervenutaci, ci fosse
                         anche questa strofa: si spiegherebbe perché Fortini le ricorda insieme,
                         mentre tutti i testimoni che possediamo le danno sempre distinte. Più
                         probabilmente, però, appartengono a momenti differenti che solo ora, come

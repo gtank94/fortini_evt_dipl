@@ -209,15 +209,35 @@ SPAN.dipl-lineN,
     margin-top: 2px;
     vertical-align: top;
 }
-
-/*SPAN.dipl-subst {
+/*
+SPAN.dipl-subst {
     text-decoration: underline;
 }*/
 
-SPAN.dipl-del {
+SPAN.dipl-del{
    /* background-color: red;*/
     text-decoration: line-through;
 }
+
+SPAN.dipl-del:hover{
+   /* background-color: red;*/
+    text-decoration: none;
+}
+
+
+
+sup { top: -0.6em;
+  
+}
+
+sub { bottom: -0.25em;}
+sub, sup {
+  text-decoration: none !important;
+  font-size: 80%;
+  line-height: 0;
+  position: relative;
+ background-color: white;
+ }
 
 /*CSS per le varianti*/
 

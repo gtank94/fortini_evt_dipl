@@ -21,19 +21,9 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Fondo Franco Fortini dell'Università di Siena</repository>
-                        <msName>Manoscritto blu</msName>
+                        <msName>Manoscritto blu ter</msName>
                     </msIdentifier>
-                    <msContents>
-                        <msItem>
-                            <colophon>Manoscritto di tre carte in cui le prime due sono scritte solo
-                                in fronte e l'ultima, un cartoncino di 10 cm x 15 cm, fronte e
-                                retro. Rispetto alle altre carte, il manoscritto sembra essere la
-                                prima stesura, seguito poi da il ms. blu, con riscrittura di alcune
-                                strofe qui già presenti e l'aggiunta di altre, e dal ms. blu ter,
-                                versione probabilmente appena precedente alla poesia pubblicata su
-                                "Officina". </colophon>
-                        </msItem>
-                    </msContents>
+                    
                     <!--<physDesc>
                         <objectDesc>
                             <supportDesc>
@@ -152,15 +142,15 @@
     </facsimile>-->
 
 
-    <text n="Ms 3 ter (3)" xml:id="Fms3_text">
+    <text n="Ms blu ter (3)" xml:id="Fms3_text">
         <front>
             <p>Manoscritto di tre pagine, scritte tutte sul fronte. Le penne usate sono una blu
                 chiara e una rossa per la prima copiatura; poi in penna blu scura alcune correzioni
                 oltre che a veri e propri inserimenti di strofe (si veda la n. 3); un'ultima penna è
-                la matita nell'ultima pagina, solo per alcune varianti</p>
+                la matita nell'ultima pagina, solo per alcune varianti.</p>
             <p>Probabilmente questa versione è quella appena prima della definitiva in "Officina";
                 dal carteggio con Pasolini risulta che Fortini inviò una prima versione "improvvisata", secondo le parole del poeta, il
-                29/11/1956 e poi un'altra il 9/12/1956, "un'altra
+                29/11/1956 e poi in data 9/12/1956 "un'altra
                 copia con numerose piccole varianti". Possiamo sostenere che il ms. blu ter è
                 precedente ad entrambe perché non riporta ancora il titolo "Al di là della
                 speranza", come l'ebbe a leggere Pasolini che così chiama la poesia nella lettera di
