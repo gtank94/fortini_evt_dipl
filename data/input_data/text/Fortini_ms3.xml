@@ -23,6 +23,7 @@
                         <repository>Fondo Franco Fortini dell'Università di Siena</repository>
                         <msName>Manoscritto blu</msName>
                     </msIdentifier>
+<<<<<<< HEAD
                     <msContents>
                         <msItem>
                             <colophon>Manoscritto di tre carte in cui le prime due sono scritte solo
@@ -34,6 +35,9 @@
                                 "Officina". </colophon>
                         </msItem>
                     </msContents>
+=======
+
+>>>>>>> eb8aa14 (revisione ms 3 ter)
                     <!--<physDesc>
                         <objectDesc>
                             <supportDesc>
@@ -159,13 +163,20 @@
                 oltre che a veri e propri inserimenti di strofe (si veda la n. 3); un'ultima penna è
                 la matita nell'ultima pagina, solo per alcune varianti</p>
             <p>Probabilmente questa versione è quella appena prima della definitiva in "Officina";
+<<<<<<< HEAD
                 dal carteggio con Pasolini risulta che Fortini inviò una prima versione "improvvisata", secondo le parole del poeta, il
                 29/11/1956 e poi un'altra il 9/12/1956, "un'altra
                 copia con numerose piccole varianti". Possiamo sostenere che il ms. blu ter è
                 precedente ad entrambe perché non riporta ancora il titolo "Al di là della
+=======
+                dal carteggio con Pasolini risulta che Fortini inviò una prima versione
+                "improvvisata", secondo le parole del poeta, il 29/11/1956 e poi in data 9/12/1956
+                "un'altra copia con numerose piccole varianti". Possiamo sostenere che il ms. blu
+                ter è precedente ad entrambe perché non riporta ancora il titolo "Al di là della
+>>>>>>> eb8aa14 (revisione ms 3 ter)
                 speranza", come l'ebbe a leggere Pasolini che così chiama la poesia nella lettera di
                 risposta del 3/12/1956.</p>
-            
+
         </front>
         <body>
 
@@ -200,7 +211,7 @@
                     <l n="6">non orgoglio ma irta carità.</l>
                 </lg>
 
-               <lb/>
+                <lb/>
 
                 <lg n="2">
 
@@ -209,8 +220,8 @@
 
                     <lb n="8" xml:id="v_10_ms3_1" facs="#v10_ms3_1"/>
                     <l n="2">che repugnava a noi <subst>
-                            <del seq="1">;</del>
-                            <add seq="2">:</add>
+                            <del seq="1">:</del>
+                            <add seq="2">;</add>
 
                         </subst> l'unione infame</l>
 
@@ -236,59 +247,73 @@
                 </lg>
 
 
-             
-           <lg n="3">         
-               <lb n="13" xml:id="v_15_ms3_1" facs="#v15_ms3_1"/><l n="1">astratta, non
-                        orgoglio <subst>
-                            <del seq="1">comunista</del>
+
+                <lg n="3">
+                    <lb n="13" xml:id="v_15_ms3_1" facs="#v15_ms3_1"/>
+                    <l n="1">astratta, non orgoglio <subst>
+                            <del seq="1">comunista...</del>
                             <add seq="2">moralista</add>
                         </subst></l>
-      
 
 
 
 
 
 
-               <note type="critical" resp="#GT">Aggiunte a margine con penna diversa per modificare il verso in una
-                        strofa.</note><l n="2"><lb n="14" xml:id="v_16_ms3_1" facs="#v16_ms3_1"
-                        />questo almeno nei voti. <del seq="1">Non il pianto</del></l></lg>
-                   <p> <lb n="15" xml:id="v_17_ms3_1" facs="#v17_ms3_1"/><l n="2">che lunghi anni <del
-                            seq="1">inghiottito in me</del><add seq="2">ho in me <subst>
-                                <del seq="2">nascosto</del>
-                                <add seq="3">chiuso</add>
-                            </subst></add>, <add seq="0">ma</add> il canto</l>
+
+                    <note type="critical" resp="#GT">Aggiunte a margine con penna diversa per
+                        modificare il monoverso precedente in una strofa.</note>
+                    <l n="2"><lb n="14" xml:id="v_16_ms3_1" facs="#v16_ms3_1"/><del seq="1"
+                            >Almeno</del>
+                        <add seq="2">questo</add>, nei voti. <del>Non il pianto</del><note>Qui la
+                            cancellatura è sicuramente l'ultima correzione prima di passare
+                        </note></l>
+                </lg>
+                <p>
+                    <lb n="15" xml:id="v_17_ms3_1" facs="#v17_ms3_1"/><l n="2">lunghi anni <del seq="1">inghiottito in me</del>
+                        <add seq="2">che - lunghi anni - ho in me <del>nascosto</del>
+                            <add seq="3">chiuso</add></add> , <add>ma</add> il canto<note type="critical">Il verso
+                            più lungo del consueto farebbe pensare che "lunghi anni" e "il canto"
+                            sono mantenuti in sospeso e alternativi (si noti infatti l'aggiunta di
+                            "che" in modo da tenere "lunghi anni" soprascritto rispetto al
+                            verso).</note></l>
                     <lb n="16" xml:id="v_18_ms3_1" facs="#v18_ms3_1"/><l n="3"><del seq="0"
-                            >dei</del> che <del seq="0">mi ha</del> si faceva grido era la
-                    ''</l></p>
-                
+                            >dei</del> che <del seq="0">mi ha</del> si faceva grido era la "
+                    </l></p>
+
                 <lb/>
 
 
                 <lg n="3">
 
                     <lb n="17"/>
-                    <l n="2"><note type="critical" resp="#GT">Inizia il verso al mezzo per aggiungere una variante definitiva ai vv. precedenti, partendo da metà del 2 ("Non il pianto"), scritti nella stesssa penna.</note>
+                    <l n="2"><note type="critical" resp="#GT">Inizia il verso al mezzo per
+                            aggiungere una variante definitiva ai vv. precedenti, partendo da metà
+                            del 2 ("Non il pianto"), scritti nella stessa penna.</note>
                         <del seq="0">E ora se canto</del></l>
 
 
-<!--
+                    
                     <lb n="18"/>
-                    <l n="2">E ora se chiedi</l>-->
+                    <l n="2"><del seq="1">E ora se canto</del> <add seq="2">E ora se chiedi</add></l>
 
                     <lb n="19"/>
                     <l n="3">a me il mio cuore antico, se mi chiedi</l>
 
                     <lb n="20"/>
-                    <l n="4">chi sono, smorto letterato</l>
+                    <l n="4">chi sono, smorto letterato <del></del> ista,<note type="critical">Qui "ista" è un'annotazione di rima tenuta in sospeso (questo verso dovrebbe rimare con "moralista").</note></l>
 
                     <lb n="21"/>
-                    <l n="5">io ti rispondo: <del seq="0">non</del> <app>  <lem>che il mio pianto vedi</lem> <rdg>più che tu non credi</rdg> </app></l>
+                    <l n="5">io ti rispondo: <del seq="0">non</del>
+                        <app>
+                            <lem>che il mio pianto vedi</lem>
+                            <rdg>più che tu non credi</rdg>
+                        </app></l>
 
-                    <!--<lb n="22"/>-->
-                
+                    
 
-                    <lb n="23"/>
+
+                    <lb n="22"/>
                     <l n="6">non si vergogna più.</l>
                 </lg>
             </div>
@@ -316,6 +341,7 @@
                     <l n="4">di cori, i vecchi-infanti nella dura</l>
 
                     <lb n="28"/>
+<<<<<<< HEAD
                     <l n="5">luce del neon, <del seq="1">sui viali</del>... Il socialismo<add
                             seq="1">, <del seq="1">questi</del></add><add seq="2">tristi</add>
                     </l>
@@ -331,6 +357,30 @@
                            <app><lem> <add seq="3">mi parve,</add></lem> <rdg><add seq="3">era un passato</add></rdg></app>
                           <del><supplied reason="illegible">:</supplied></del>
                         un'altra chiusa età</l>
+=======
+                    <l n="5">luce del neon, <del>sui viali</del>... Il socialismo <add
+                            seq="1">questi</add>
+                        <add seq="2">tristi</add>
+                    </l>
+
+                    <lb n="29"/>
+
+                    <l n="6">
+                        <del seq="1">morti,</del>
+                        <add seq="2">corpi,</add>
+                        <app>
+                            <lem>
+                                <add seq="1">era </add></lem>
+                            <rdg><del seq="2">era dunque</del><add seq="3">mi parve,</add></rdg>
+
+
+
+
+
+                        </app><note type="critical">Qui potremmo ipotizzare che "mi parve," doveva sostituire anche "un passato", altrimenti il verso sarebbe stato toppo lungo e non si capirebbe il perché della virgola: Il socialismo, tristi/ corpi, mi parve, [un passato:] un'altra chiusa età.</note>
+                        un passato<del seq="1"><supplied reason="illegible">?</supplied></del>
+                        <add seq="2">:</add> un'altra chiusa età</l>
+>>>>>>> eb8aa14 (revisione ms 3 ter)
                 </lg>
 
                 <lg n="5">
@@ -374,18 +424,18 @@
 
                     <lb n="41"/>
                     <l n="6"><del seq="0">spo</del> orba di verità.</l>
-                
-
-                <lb n="41bis"/>
-                <l>(</l>
-                    <note type="critical" resp="#GT">Segno grafico che unisce i versi ai successivi in un'unica strofa di 18
-                    versi. Si noti come nella pubblicazione la macrostrofa verrà divisa in tre
-                    sestine.</note>
 
 
+                    <lb n="41bis"/>
+                    <l>(</l>
+                    <note type="critical" resp="#GT">Segno grafico che unisce i versi ai successivi
+                        in un'unica strofa di 18 versi. Si noti come nella pubblicazione la
+                        macrostrofa verrà divisa in tre sestine.</note>
 
 
-               
+
+
+
                     <lb n="42"/>
                     <l n="7">Ma tu chi sei che di pietà impietosa</l>
 
@@ -453,8 +503,8 @@
                     <lb n="8" facs="#v26_ms3_1" xml:id="v_26_1r"/>
                     <l n="3"><app>
                             <lem>fingano forza ad</lem>
-                            <rdg>diano la forza</rdg>
-                        </app> d'esser diverso</l>
+                            <rdg>diano la forza d'</rdg>
+                        </app> esser diverso</l>
 
                     <lb n="9" facs="#v27_ms3_1" xml:id="v_27_1r"/>
                     <l n="4">dai miei vizi. Non credo a quel che credi,</l>
@@ -469,7 +519,7 @@
                         </subst><note type="comment">Anche Fortini, in un aprima stesura, si
                             attribuisce uno stile metrico sillabato.</note> povertà</l>
                 </lg>
-               
+                <lb/>
 
                 <lg n="8">
 
@@ -493,6 +543,7 @@
                     <l n="6">che fa dolce la nausea e la pietà:</l>
                 </lg>
             </div>
+            <lb/>
 
 
 
@@ -539,7 +590,7 @@
                     <l n="11">dove perdersi in pace. Piano, un passo</l>
 
                     <lb n="29"/>
-                    <l n="12">dopo l'altro, è mutata, <del seq="0">si sono</del> spenti i
+                    <l n="12">dopo l'altro, è mutata, <del>si sono</del> spenti i
                         simboli</l>
 
                     <lb n="30"/>
@@ -555,9 +606,9 @@
                     <l n="15">di bestia, dentro di noi, che viene e va.</l>
                 </lg>
                 <lb n="33"/>
-                <p><add seq="1">.....</add></p>
-                <note type="critical" resp="#GT">Punti di interruzione per separare le strofe aggiunti un una revisione
-                    successiva in penna blu scuro.</note>
+                <p><add>.....</add></p>
+                <note type="critical" resp="#GT">Punti di interruzione per separare le strofe
+                    aggiunti un una revisione successiva in penna blu scuro.</note>
 
 
                 <lg n="10">
@@ -609,10 +660,10 @@
 
 
             <div n="4">
-                <head><add seq="1">4</add></head>
-                <note type="critical" resp="#GT">Il numero è stato aggiunto con la seconda penna blu scura. L'aggiunta è
-                    successiva alla stesura (infatti gli altri numeri sono tutti aumentati di
-                    due).</note>
+                <head><add>4</add></head>
+                <note type="critical" resp="#GT">Il numero è stato aggiunto con la seconda penna blu
+                    scura. L'aggiunta è successiva alla stesura (infatti gli altri numeri sono tutti
+                    aumentati di due).</note>
 
 
 
@@ -627,7 +678,7 @@
                     <l n="3">veramente contriti i nostri volti</l>
 
                     <lb n="4" xml:id="v_4_ms3_3" facs="#v4_ms3_3"/>
-                    <l n="4">veri, <add seq="1">e </add>tradito il nostro vero amore.</l>
+                    <l n="4">veri, <add>e </add>tradito il nostro vero amore.</l>
 
 
                     <lb n="5" xml:id="v_5_ms3_3" facs="#v5_ms3_3"/>
@@ -636,7 +687,7 @@
                     <lb n="6" xml:id="v_6_ms3_3" facs="#v6_ms3_3"/>
                     <l n="6">non <del seq="1">fu</del><add seq="2"><supplied reason="illegible"
                                 resp="#GT">la</supplied></add> detta, compagno, per viltà,</l>
-               
+
                     <lb n="7" xml:id="v_7_ms3_3" facs="#v7_ms3_3"/>
                     <l n="7"><del>e</del> non <app>
                             <lem>fu</lem>
@@ -649,17 +700,16 @@
                         <del seq="2">comune</del>
                         <add seq="3">perché</add> non si poteva dirla senza</l>
                     <lb n="10" xml:id="v_10_ms3_3" facs="#v10_ms3_3"/>
-                    <l n="10"><app>
-                            <rdg><add>nostra, né</add></rdg>
-                        </app> dire anche il no...)</l>
+                    <l n="10"><add>nostra, né</add><note>Probabilmente decide di cancellare "comune" e ripristinare "perché" rimandando questa solidarietà del vivere al verso successivo, nell'aggiunta "nostra".</note>
+                         dire anche il no...)</l>
                 </lg>
 
 
                 <p>
-                    <lb n="11"/><l n="7"><note type="critical" resp="#GT">Questi versi sono delle varianti (aggiunte al margine
-                            con la penna blu scura della seconda rilettura) dei versi 7-10 della
-                            strofa precedente. </note><del seq="0">l'amore non lo dissi
-                        perché</del></l>
+                    <lb n="11"/><l n="7"><note type="critical" resp="#GT">Questi versi sono delle
+                            varianti (aggiunte al margine con la penna blu scura della seconda
+                            rilettura) dei versi 7-10 della strofa precedente. </note><del seq="0"
+                            >l'amore non lo dissi perché</del></l>
                     <lb n="12"/><l n="8">troppo e più <subst>
                             <del seq="1">immensa</del>
                             <add seq="2">grande </add>
@@ -720,7 +770,7 @@
 
 
             <div n="6">
-             
+
                 <head><subst>
                         <del seq="1">4.</del>
                         <add seq="2">6.</add>
@@ -813,16 +863,16 @@
                     <lb n="40"/>
                     <l n="3">sui graniti di Pietrogrado; <add>e</add> chi ora</l>
                     <lb n="41"/>
-                    <l n="4">va nei parchi di Buda<del seq="1">pest</del> e le <add seq="2"><del>quieto</del></add> zolle</l>
+                    <l n="4">va nei parchi di Buda<del seq="1">pest</del> e le <add seq="2"
+                                ><del>quieto</del></add> zolle</l>
                     <lb n="42"/>
-                    <l n="5"><del seq="1">fissa</del><add seq="2"
-                        >guarda</add><note type="critical" resp="#GT">Aggiunto a matita in corrispondenza del rigo precedente, a destra.
-                        
-                        </note><subst>
+                    <l n="5"><del seq="1">fissa</del><add seq="2">guarda</add><note type="critical"
+                            resp="#GT">Aggiunto a matita in corrispondenza del rigo precedente, a
+                            destra. </note><subst>
                             <del seq="1"> peste</del>
-<add seq="2">lerce</add>
+                            <add seq="2">lerce</add>
 
-                            
+
                         </subst> di <subst>
                             <del seq="1">foglie e cingoli</del>
                             <add seq="2">cingoli e passi</add>
@@ -904,11 +954,12 @@
                                 </subst> fu<del seq="1">rono</del>, sarà</l></rdg>
 
 
-                        <rdg><lb n="53"/><l n="6"><note type="critical" resp="#GT">Qui diverse varianti per il verso di chiusa.
-                                    Quella accettata in Officina sarà l'ultima.</note>
+                        <rdg><lb n="53"/><l n="6"><note type="critical" resp="#GT">Qui diverse
+                                    varianti per il verso di chiusa. Quella accettata in Officina
+                                    sarà l'ultima.</note>
                                 <del seq="1">mio col mio vero per sempre sarà.</del></l></rdg>
                         <rdg><lb n="54"/><l n="6"><add seq="2">mio per sempre col vero mio
-                            sarà</add></l></rdg>
+                                    sarà</add></l></rdg>
                         <rdg>
                             <lb n="55"/><l n="6">mio, e per sempre, <del seq="0">ma</del> e più il
                                 vero mio, sarà</l></rdg>
@@ -920,9 +971,12 @@
                         <rdg><lb n="58"/><l n="6"><subst>
                                     <del seq="1">sempre e</del>
                                     <add seq="2">ma</add>
-                        </subst> più il mio vero, <del seq="0">sempre</del> <add seq="2">che fu mio</add><note type="critical" resp="#GT">Aggiunto sotto e collegato con una linea e due asterischi.</note> resterà </l></rdg>
-                        <rdg><lb n="59"/><l n="6">che fu mio, e il <del seq="0">più</del> il mio vero,
-                                resterà</l></rdg>
+                                </subst> più il mio vero, <del seq="0">sempre</del>
+                                <add seq="2">che fu mio</add><note type="critical" resp="#GT"
+                                    >Aggiunto sotto e collegato con una linea e due
+                                    asterischi.</note> resterà </l></rdg>
+                        <rdg><lb n="59"/><l n="6">che fu mio, e il <del seq="0">più</del> il mio
+                                vero, resterà</l></rdg>
                     </app>
                 </lg>
 
@@ -950,4 +1004,3 @@
 
 
 </TEI>
- 

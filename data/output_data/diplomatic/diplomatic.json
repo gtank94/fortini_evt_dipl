@@ -1292,8 +1292,13 @@
 									
 										{ 
 											"line" : "8|line 8",
+<<<<<<< HEAD
 											"text" : "02 che repugnava a noi [;][:] l'unione infame ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "02 che repugnava a noi [:]1[;]2 l'unione infame ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1332,32 +1337,52 @@
 									
 										{ 
 											"line" : "13|line 13",
+<<<<<<< HEAD
 											"text" : "01 astratta, non orgoglio [comunista][moralista] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "01 astratta, non orgoglio [comunista...]1[moralista]2  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "14|line 14",
+<<<<<<< HEAD
 											"text" : "02 questo almeno nei voti. [Non il pianto]  ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "02 [Almeno]1 [questo]2, nei voti. Non il pianto  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "15|line 15",
+<<<<<<< HEAD
 											"text" : "che lunghi anni [inghiottito in me][ho in me [nascosto][chiuso]], [ma] il canto",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "lunghi anni [inghiottito in me]1 [che - lunghi anni - ho in me nascosto [chiuso]3]2 ,  [ma]  il canto",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "16|line 16",
+<<<<<<< HEAD
 											"text" : "03 [dei] che [mi ha] si faceva grido era la ''   ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "03 [dei] che [mi ha] si faceva grido era la &quotes;   ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1366,6 +1391,14 @@
 											"line" : "17|line 17",
 											"text" : "02  [E ora se canto] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"loc" : "ms3_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "18|line 18",
+											"text" : "[E ora se canto]1 [E ora se chiedi]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1380,8 +1413,13 @@
 									
 										{ 
 											"line" : "20|line 20",
+<<<<<<< HEAD
 											"text" : "04 chi sono, smorto letterato ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "04 chi sono, smorto letterato  ista, ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1395,7 +1433,7 @@
 										},
 									
 										{ 
-											"line" : "23|line 23",
+											"line" : "22|line 22",
 											"text" : "06 non si vergogna più.    2",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 											"loc" : "ms3_fol_1r|1",
@@ -1436,16 +1474,26 @@
 									
 										{ 
 											"line" : "28|line 28",
+<<<<<<< HEAD
 											"text" : "05 luce del neon, [sui viali]... Il socialismo[, [questi]][tristi] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "05 luce del neon, sui viali... Il socialismo [questi]1 [tristi]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "29|line 29",
+<<<<<<< HEAD
 											"text" : "06 [morti,] [corpi,] era [era] [era dunque] ( [mi parve,])([era un passato]) : un'altra chiusa età   ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "06  [morti,]1 [corpi,]2 ( [era ]1)([era dunque]2[mi parve,]3) un passato[?]1 [:]2 un'altra chiusa età   ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1668,8 +1716,13 @@
 									
 										{ 
 											"line" : "8|line 8",
+<<<<<<< HEAD
 											"text" : "03 (fingano forza ad)(diano la forza) d'esser diverso ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "03 (fingano forza ad)(diano la forza d') esser diverso ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1692,8 +1745,13 @@
 									
 										{ 
 											"line" : "11|line 11",
+<<<<<<< HEAD
 											"text" : "06 a questa [sillabata][faticata] povertà ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "06 a questa [sillabata]1[faticata]2 povertà   ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1740,8 +1798,13 @@
 									
 										{ 
 											"line" : "17|line 17",
+<<<<<<< HEAD
 											"text" : "06 che fa dolce la nausea e la pietà: ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "06 che fa dolce la nausea e la pietà:   ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1836,8 +1899,13 @@
 									
 										{ 
 											"line" : "29|line 29",
+<<<<<<< HEAD
 											"text" : "12 dopo l'altro, è mutata, [si sono] spenti i simboli ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "12 dopo l'altro, è mutata, si sono spenti i simboli ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1868,8 +1936,13 @@
 									
 										{ 
 											"line" : "33|line 33",
+<<<<<<< HEAD
 											"text" : "[.....] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : " [.....]  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1964,8 +2037,13 @@
 									
 										{ 
 											"line" : "no line info|no line info",
+<<<<<<< HEAD
 											"text" : "[4] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : " [4]  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -1996,8 +2074,13 @@
 									
 										{ 
 											"line" : "4|line 4",
+<<<<<<< HEAD
 											"text" : "04 veri, [e ]tradito il nostro vero amore. ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "04 veri,  [e ] tradito il nostro vero amore. ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2044,8 +2127,13 @@
 									
 										{ 
 											"line" : "10|line 10",
+<<<<<<< HEAD
 											"text" : "10 (nostra, né) dire anche il no...)  ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
+=======
+											"text" : "10  [nostra, né]  dire anche il no...)  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> eb8aa14 (revisione ms 3 ter)
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
