@@ -199,7 +199,7 @@ span.interp-supplied, span.dipl-supplied[data-reason='illegible']::before {
 }
 
 span.interp-supplied, span.dipl-supplied[data-reason='illegible']::after {
-    content: "?}";
+    content: "}";
 }
 span.interp-supplied, span.dipl-supplied[data-reason='illegible']{
       font-style: italic; 
