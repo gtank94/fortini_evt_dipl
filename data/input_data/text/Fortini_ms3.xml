@@ -306,20 +306,33 @@
                     <l n="4">di cori, i vecchi-infanti nella dura</l>
 
                     <lb n="28"/>
-                    <l n="5">luce del neon, <del seq="1">sui viali</del>... Il socialismo<add
-                            seq="1">, <del seq="1">questi</del></add><add seq="2">tristi</add>
+                    <l n="5">luce del neon, <del seq="1">sui viali</del>... Il socialismo 
+                        
+                        
+                        
+                        
+                        
+                        <add seq="1">questi</add>
+                        <add seq="2">tristi</add>
                     </l>
 
                     <lb n="29"/>
-                    <l n="6"><del seq="1">morti,</del>
-                        <add seq="2">corpi,</add>
-                        <del>era</del>
+                   
+                    <l n="6"> <del seq="1">morti,</del>
+                        <add seq="2">corpi,</add>  
+                        
+                       
+                         <app><lem> <add seq="1">era un passato</add></lem>
+                        <lem><del seq="2">era dunque</del></lem> 
+                             <lem><add seq="3">mi parve,</add></lem>
                         
 
-                            <del seq="1">era</del>
-                            <del seq="2">era dunque</del>
-                           <app><lem> <add seq="3">mi parve,</add></lem> <rdg><add seq="3">era un passato</add></rdg></app>
-                          <del><supplied reason="illegible">:</supplied></del>
+                           
+                            
+                           </app>
+                          <del seq="1"><supplied reason="illegible">?</supplied></del>
+                        <add seq="2">:</add>
+                        
                         un'altra chiusa età</l>
                 </lg>
 

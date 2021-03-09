@@ -530,7 +530,8 @@
 					
 					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
 				<xsl:element name="sup">
-					
+					<xsl:attribute name="class">
+						<xsl:value-of select="name(), ' '" separator=""/></xsl:attribute>
 					<xsl:call-template name="dataAttributesFromAttributes"/>1</xsl:element>
 				
 			</xsl:when>	
@@ -654,7 +655,8 @@
 					
 					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
 				<xsl:element name="sup">
-					
+					<xsl:attribute name="class">
+						<xsl:value-of select="name()"/></xsl:attribute>
 					<xsl:call-template name="dataAttributesFromAttributes"/>1</xsl:element>
 				
 			</xsl:when>	

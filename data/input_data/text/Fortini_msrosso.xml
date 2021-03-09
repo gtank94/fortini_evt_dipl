@@ -49,17 +49,7 @@
                         </msItem>
                     </msContents>
 
-                   <!-- <physDesc>
-                        <objectDesc>
-                            <supportDesc>
-
-                               
-                            </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                            <p>Un'unica penna rossa scrive e corregge i versi.</p>
-                        </handDesc>
-                    </physDesc>-->
+                
                 </msDesc>
 
 
@@ -183,9 +173,9 @@
                 <lb n="20"/><l n="0">veramente <subst>
                         <del><subst>
                                 <del seq="0">confusa</del>
-                                <del seq="1">tradit<del seq="1">a</del><add seq="2">o il nostro
-                                        tempo sano</add></del>
-                                <del seq="1"> fu la</del>
+                            <del seq="1">tradit<del seq="1">a</del><del seq="2">o il nostro
+                                        tempo sano</del>
+                                fu la</del>
                             </subst></del>
                         <add seq="3"> si fu servi delle ore</add>
                     </subst>
@@ -303,7 +293,7 @@
                         metà del verso 3: "già l'esistenza insanguina le strade / come una
                         volta".</note>
                     <del seq="0">inse</del>
-                    <add seq="1">in</add>sanguina le strade </l>
+                    <add>in</add>sanguina le strade </l>
                <lb n="13"/><l n="4">come una volta</l>
             </p>
             <lb/>
@@ -368,12 +358,12 @@
                 </subst></l>
 
          
-                <lb n="4" facs="#v54" xml:id="v_54"/><l n="0">abbiamo amati e <add seq="1">che</add>
+                <lb n="4" facs="#v54" xml:id="v_54"/><l n="0">abbiamo amati e <add>che</add>
                     ora ci fanno paura</l>
 
             <lb n="5" facs="#v55" xml:id="v_55"/><l n="2"><subst>
                     <del seq="1">più a nulla</del>
-                    <add seq="2"> a nulla più</add>
+                    <add seq="2">a nulla più</add>
                 </subst> se non alle parole <del seq="0">che hanno</del>
             </l>
 
@@ -400,11 +390,11 @@
                 </subst> grido di chi vuole</l>
 
             <lb n="11" facs="#v61" xml:id="v_61"/><l n="6">quel che non ha, non quello che sa.</l>
-   <lb/>
+  
 </lg>
             
          
-
+ <lb n="0"/>
 
             <lb n="12"/><l n="1">Ma più forte dei loro brusii, più sottile</l>
 
@@ -428,7 +418,7 @@
                <add seq="2"> in rapporti <app>
                     <lem>di</lem>
                     <rdg>e</rdg>
-                </app> produzione</add>,  
+                </app> produzione,</add>  
                 <subst>
                     <del seq="1">la</del>
                     <add seq="2">e</add>

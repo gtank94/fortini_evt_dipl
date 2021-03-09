@@ -263,6 +263,8 @@ span.dipl-del[data-seq='4']::after{content:"⁴"; background-color: white; color
 span.dipl-del[data-seq='5']::after{content:"⁵"; background-color: white; color: black;}
 span.dipl-del[data-seq='6']::after{content:"⁶"; background-color: white; color: black;
  }*/
+ 
+ 
 
 
 

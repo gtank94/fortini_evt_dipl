@@ -214,7 +214,7 @@ SPAN.dipl-subst {
     text-decoration: underline;
 }*/
 
-SPAN.dipl-del{
+span.dipl-del{
    /* background-color: red;*/
     text-decoration: line-through;
 }
@@ -231,12 +231,13 @@ sup { top: -0.6em;
 }
 
 sub { bottom: -0.25em;}
+
 sub, sup {
-  text-decoration: none !important;
+  text-decoration: none!important;
   font-size: 80%;
   line-height: 0;
   position: relative;
- background-color: white;
+  color: black;
  }
 
 /*CSS per le varianti*/

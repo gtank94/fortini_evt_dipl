@@ -180,7 +180,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "veramente [confusa][tradit[a]1[o il nostro tempo sano]2]1[ fu la]1[ si fu servi delle ore]3",
+											"text" : "veramente [confusa][tradit[a]1[o il nostro tempo sano]2 fu la]1[ si fu servi delle ore]3",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -372,7 +372,7 @@
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "03 di Milano, [inse] [in]1sanguina le strade",
+											"text" : "03 di Milano, [inse]  [in] sanguina le strade",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -484,7 +484,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "00 abbiamo amati e [che]1 ora ci fanno paura ",
+											"text" : "00 abbiamo amati e  [che]  ora ci fanno paura ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -492,7 +492,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "02 [più a nulla]1[ a nulla più]2 se non alle parole [che hanno] ",
+											"text" : "02 [più a nulla]1[a nulla più]2 se non alle parole [che hanno] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -540,7 +540,7 @@
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "06 quel che non ha, non quello che sa.   ",
+											"text" : "06 quel che non ha, non quello che sa. ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -588,7 +588,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "04 [, senza vergogna, amore o uomini]1 [ in rapporti (di)(e) produzione]2, [la]1[e]2 []1 [sta]2",
+											"text" : "04 [, senza vergogna, amore o uomini]1 [ in rapporti (di)(e) produzione,]2 [la]1[e]2 []1 [sta]2",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -1452,7 +1452,7 @@
 									
 										{ 
 											"line" : "28|line 28",
-											"text" : "05 luce del neon, [sui viali]1... Il socialismo[, [questi]1]1[tristi]2 ",
+											"text" : "05 luce del neon, [sui viali]1... Il socialismo [questi]1 [tristi]2 ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
@@ -1460,7 +1460,7 @@
 									
 										{ 
 											"line" : "29|line 29",
-											"text" : "06 [morti,]1 [corpi,]2 era [era]1 [era dunque]2 ( [mi parve,]3)([era un passato]3) : un'altra chiusa età   ",
+											"text" : "06  [morti,]1 [corpi,]2 ( [era un passato]1)([era dunque]2)([mi parve,]3) [?]1 [:]2 un'altra chiusa età   ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
