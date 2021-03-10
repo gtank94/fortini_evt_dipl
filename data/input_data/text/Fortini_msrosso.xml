@@ -114,10 +114,10 @@
                                 socialismo".</note></l>
 
                 <lb n="4" facs="#v4" xml:id="v_4"/><l n="4">di <supplied reason="illegible"></supplied> canti, i gruppi 
-                    <del seq="1">della gente</del></l>
+                    <del seq="1">e della gente</del></l>
 
                         <lb n="5" facs="#v5" xml:id="v_5"/>
-                        <l n="4"><add seq="2"><del>e</del> nella luce dura</add>
+                        <l n="4"><add seq="2">nella luce dura</add>
                     </l>
 
                 <lb n="6" facs="#v6" xml:id="v_6"/><l n="5">del neon per i viali... <del seq="1"
@@ -152,8 +152,8 @@
 
 
 
-            <!--<p><lb n="11"/><l><del>e fu soldati e contadini, noi,</del></l>
-                <lb n="12"/><l><del>fu i giovani ciclisti e i bar, le donne</del></l></p>-->
+            <p rend="delete"><lb n="11"/><l><del>e fu soldati e contadini, noi,</del></l>
+                <lb n="12"/><l><del>fu i giovani ciclisti e i bar, le donne</del></l></p>
 
 
 
@@ -168,7 +168,7 @@
                 <lb n="17"/><l n="5">dei sensi e tutto <del seq="0">è una</del> è vano
                 
                 
-                <del>era</del></l>
+               </l>
                <lb n="18"/> <l n="6"><app>
                         <lem>strazio</lem>
                         <rdg>gelo</rdg>
@@ -178,11 +178,11 @@
             
             <lb/>
 
-            <p>
+            <p rend="delete">
                 <lb n="19"/><l n="0">Veramente si fu servi di stolti </l>
                 <lb n="20"/><l n="0">veramente <subst>
                         <del><subst>
-                                <del seq="0">confusa </del>
+                                <del seq="0">confusa</del>
                                 <del seq="1">tradit<del seq="1">a</del><add seq="2">o il nostro
                                         tempo sano</add></del>
                                 <del seq="1"> fu la</del>
@@ -233,7 +233,7 @@
        
 
 
-            <p>
+            <p rend="delete">
                 <lb n="30"/><l n="1">o non fu detta perché era più libera</l>
                <lb n="31"/> <l n="1"><del>e più felice degli altri e di noi</del></l>
                 <lb n="32"/><l n="1"><del>pianto e <del seq="0">m</del>
@@ -282,12 +282,13 @@
             
             
             </lg>
+            
 
 
             <lb/>
 
 
-            <p>
+            <p rend="delete">
                <lb n="7"/><l n="1">"L'obbietto obbietta" dice<subst>
                         <del seq="1">, amaro viso</del>
                         <add seq="2">l'amico</add>
@@ -295,24 +296,24 @@
                <lb n="8"/><l n="2">l'idolo dell'essenza. Troppo tardi!"</l>
                 <lb n="9"/><l n="3">già l'esistenza <del seq="0">mentre trem</del><del seq="1"
                         >insieme guardi</del></l>
-                <lb n="10"/><l n="0"><del seq="1">insanguina le selci delle strade</del></l>
-                <lb n="11"/><l n="0"><del seq="1">titoli neri nelle nere strade</del></l>
-                <lb n="12"/><l n="3"><del seq="1">di Milano,</del><note type="critical" resp="#GT">Cancella i due versi
+                <lb n="10"/><l n="0"><del>insanguina le selci delle strade</del></l>
+                <lb n="11"/><l n="0"><del>titoli neri nelle nere strade</del></l>
+                <lb n="12"/><l n="3"><del>di Milano,</del><note type="critical" resp="#GT">Cancella i due versi
                         successivi, qui segnati con 00, e i due emistichi così da continuare dalla
                         metà del verso 3: "già l'esistenza insanguina le strade / come una
                         volta".</note>
                     <del seq="0">inse</del>
-                    <add seq="0">in</add>sanguina le strade </l>
+                    <add seq="1">in</add>sanguina le strade </l>
                <lb n="13"/><l n="4">come una volta</l>
             </p>
             <lb/>
                
 
-            <p>
-                <lb n="14"/><l n="0">Ma più forte <del seq="1">degli idoli</del> dei</l></p>
+            <p rend="delete">
+                <lb n="14"/><l n="0">Ma più forte <del seq="1">degli idoli</del> <add seq="2">dei</add></l></p>
             <lb/>
 
-            <p>
+            <p rend="delete">
                 <lb n="15"/><l n="0">era amore, era</l></p>
             <lb/>
             <note type="critical" resp="#GT">Fortini cassa la strofa successiva (il cui tema dei giornali verrà rielaborato
@@ -325,11 +326,11 @@
 
 
 
-           <lb n="16"/><l n="0"><del><subst>
+           <p rend="delete"><lb n="16"/><l n="0"><subst>
                         <del seq="1">L</del>
                         <add seq="2">l</add>
-                    </subst>a canaglia che aspetta</del></l>
-
+                    </subst>a canaglia che aspetta</l>
+</p>
             <lg n="5">
                <lb n="17"/> <l n="1">E chi aspetta di leggere domani</l>
 
@@ -398,7 +399,11 @@
                     <add seq="2">o rancore o</add>
                 </subst> grido di chi vuole</l>
 
-            <lb n="11" facs="#v61" xml:id="v_61"/><l n="6">quel che non ha, non quello che sa.</l></lg>
+            <lb n="11" facs="#v61" xml:id="v_61"/><l n="6">quel che non ha, non quello che sa.</l>
+   <lb/>
+</lg>
+            
+         
 
 
             <lb n="12"/><l n="1">Ma più forte dei loro brusii, più sottile</l>
@@ -414,21 +419,24 @@
 
             <lb n="15"/><l n="0"><del>i rapporti di produzione, la caduta</del></l>
 
-           <lb n="16"/> <l n="3"><del seq="1">del tasso dei titoli</del> <add seq="2">e forze
+           <lb n="16"/> <l n="3"><del>del tasso dei titoli</del> <add>e forze
                     produttive si tramutano</add></l>
 
-            <lb n="17"/><l n="0"><del>la bianca fedeltà</del>
-                <del>senza vergogna, amore o uomini</del></l>
+               
 
-            <lb n="18"/><l n="4">in rapporti <app>
+            <lb n="17"/><l n="4"><del seq="1">, senza vergogna, amore o uomini</del><note>Scritta al lato sinistro, come variante del verso 4, è stata poi cassata (la vigola posta ll'inizio suggerisce la natura di variante del verso: "si tramutano/, senza vergona, amore o uomini" oppure "si tramutano/ in rapporti di produzione").</note>
+               <add seq="2"> in rapporti <app>
                     <lem>di</lem>
                     <rdg>e</rdg>
-                </app> produzione, <subst>
+                </app> produzione</add>,  
+                <subst>
                     <del seq="1">la</del>
                     <add seq="2">e</add>
                 </subst>
                 <del seq="1"><supplied reason="illegible"/></del>
-                <add seq="2">sta</add></l>
+                <add seq="2">sta</add></l>            
+            <lb n="18"/><l n="0"><del>Era la bianca fedeltà</del><note type="critical">Scritta al margine del testo, probabilmente una possibile variante dell'inizio strofa (si noti la maiuscola di "Era").</note></l>
+
 
 
 

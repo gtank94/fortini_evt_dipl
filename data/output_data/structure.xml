@@ -26,7 +26,7 @@
          <pb n="3r">msb_fol_3r</pb>
          <pb n="3v">msb_fol_3v</pb>
       </text>
-      <text n="Fms3_text" label="Ms 3 ter (3)">
+      <text n="Fms3_text" label="Ms blu ter (3)">
          <pb n="1">ms3_fol_1r</pb>
          <pb n="2">ms3_fol_2r</pb>
          <pb n="3">ms3_fol_3r</pb>
@@ -64,5 +64,5 @@
          <pb n="3">ms3_fol_3r</pb>
       </pair>
    </pages>
-   <idno>VB</idno>
+   <idno/>
 </xml>

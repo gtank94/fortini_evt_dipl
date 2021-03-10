@@ -21,8 +21,9 @@
                 <msDesc>
                     <msIdentifier>
                         <repository>Fondo Franco Fortini dell'Università di Siena</repository>
-                        <msName>Manoscritto blu</msName>
+                        <msName>Manoscritto blu ter</msName>
                     </msIdentifier>
+<<<<<<< HEAD
 <<<<<<< HEAD
                     <msContents>
                         <msItem>
@@ -38,6 +39,9 @@
 =======
 
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+                    
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
                     <!--<physDesc>
                         <objectDesc>
                             <supportDesc>
@@ -156,16 +160,16 @@
     </facsimile>-->
 
 
-    <text n="Ms 3 ter (3)" xml:id="Fms3_text">
+    <text n="Ms blu ter (3)" xml:id="Fms3_text">
         <front>
             <p>Manoscritto di tre pagine, scritte tutte sul fronte. Le penne usate sono una blu
                 chiara e una rossa per la prima copiatura; poi in penna blu scura alcune correzioni
                 oltre che a veri e propri inserimenti di strofe (si veda la n. 3); un'ultima penna è
-                la matita nell'ultima pagina, solo per alcune varianti</p>
+                la matita nell'ultima pagina, solo per alcune varianti.</p>
             <p>Probabilmente questa versione è quella appena prima della definitiva in "Officina";
 <<<<<<< HEAD
                 dal carteggio con Pasolini risulta che Fortini inviò una prima versione "improvvisata", secondo le parole del poeta, il
-                29/11/1956 e poi un'altra il 9/12/1956, "un'altra
+                29/11/1956 e poi in data 9/12/1956 "un'altra
                 copia con numerose piccole varianti". Possiamo sostenere che il ms. blu ter è
                 precedente ad entrambe perché non riporta ancora il titolo "Al di là della
 =======

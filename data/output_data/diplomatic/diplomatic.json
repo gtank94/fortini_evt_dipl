@@ -44,7 +44,7 @@
 									
 										{ 
 											"line" : "3|line 3",
-											"text" : "03 di confuse bandiere [:][;] e disfarsi come [restanti][resti] ",
+											"text" : "03 di confuse bandiere [:]1[;]2 e disfarsi come [restanti]1[resti]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -52,7 +52,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 di  canti, i gruppi [della gente] ",
+											"text" : "04 di  canti, i gruppi [e della gente]1 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -60,7 +60,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "[e nella luce dura] ",
+											"text" : "[nella luce dura]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -68,7 +68,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "05 del neon per i viali... [Era] [Dalla mesta]",
+											"text" : "05 del neon per i viali... [Era]1 [Dalla mesta]2",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -76,7 +76,7 @@
 									
 										{ 
 											"line" : "7|line 7",
-											"text" : "[Il sociali socialismo] ",
+											"text" : "[Il sociali socialismo]3 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -84,7 +84,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "00 [e putrida] ",
+											"text" : "00 [e putrida]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -92,7 +92,7 @@
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "[per un sapere, per essere] ",
+											"text" : "[per un sapere, per essere]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -101,6 +101,22 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "06 era un passato, un'altra morta età.   ",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "11|line 11",
+											"text" : "e fu soldati e contadini, noi,",
+											"tags" : "Fmsrosso_text|Ms rosso (1)",
+											"loc" : "msr_fol_1r|1",
+											"inFront": "false"
+										},
+									
+										{ 
+											"line" : "12|line 12",
+											"text" : "fu i giovani ciclisti e i bar, le donne ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -116,7 +132,7 @@
 									
 										{ 
 											"line" : "14|line 14",
-											"text" : "02 che usciva dalla [straziante][livida] novena ",
+											"text" : "02 che usciva dalla [straziante]1[livida]2 novena ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -140,7 +156,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "05 dei sensi e tutto [è una] è vano era ",
+											"text" : "05 dei sensi e tutto [è una] è vano ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -164,7 +180,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "veramente [confusa ][tradit[a][o il nostro tempo sano]][ fu la][ si fu servi delle ore]",
+											"text" : "veramente [confusa][tradit[a]1[o il nostro tempo sano]2]1[ fu la]1[ si fu servi delle ore]3",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -212,7 +228,7 @@
 									
 										{ 
 											"line" : "26|line 26",
-											"text" : "03 veramente contrit[o][i] il nostr[o][i] volt[o][i] ",
+											"text" : "03 veramente contrit[o]1[i]2 il nostr[o]1[i]2 volt[o]1[i]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -220,7 +236,7 @@
 									
 										{ 
 											"line" : "27|line 27",
-											"text" : "04 veri [e][,] tradito il nostro vero amore ",
+											"text" : "04 veri [e]1[,]2 tradito il nostro vero amore ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_1r|1",
 											"inFront": "false"
@@ -308,7 +324,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "06 [turba che applaude ogni nostra ansietà][congiura che gode ogni nostra ansietà]    ",
+											"text" : "06 [turba che applaude ogni nostra ansietà]1[congiura che gode ogni nostra ansietà]2    ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -316,7 +332,7 @@
 									
 										{ 
 											"line" : "7|line 7",
-											"text" : "01 &quotes;L'obbietto obbietta&quotes; dice[, amaro viso][l'amico] e cade",
+											"text" : "01 &quotes;L'obbietto obbietta&quotes; dice[, amaro viso]1[l'amico]2 e cade",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -332,7 +348,7 @@
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "03 già l'esistenza [mentre trem][insieme guardi]",
+											"text" : "03 già l'esistenza [mentre trem][insieme guardi]1",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -340,7 +356,7 @@
 									
 										{ 
 											"line" : "10|line 10",
-											"text" : "00 [insanguina le selci delle strade]",
+											"text" : "00 insanguina le selci delle strade",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -348,7 +364,7 @@
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "[titoli neri nelle nere strade]",
+											"text" : "titoli neri nelle nere strade",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -356,7 +372,7 @@
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "03 [di Milano,] [inse] [in]sanguina le strade",
+											"text" : "03 di Milano, [inse] [in]1sanguina le strade",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -372,7 +388,7 @@
 									
 										{ 
 											"line" : "14|line 14",
-											"text" : "00 Ma più forte [degli idoli] dei    ",
+											"text" : "00 Ma più forte [degli idoli]1 [dei]2    ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -388,7 +404,7 @@
 									
 										{ 
 											"line" : "16|line 16",
-											"text" : "[L][l]a canaglia che aspetta",
+											"text" : "[L]1[l]2a canaglia che aspetta ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -420,7 +436,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "04 nell'afa delle redazioni[,][con] mani ",
+											"text" : "04 nell'afa delle redazioni[,]1[con]2 mani ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_2r|2",
 											"inFront": "false"
@@ -460,7 +476,7 @@
 									
 										{ 
 											"line" : "3|line 3",
-											"text" : "01 [e chi] sono i nostri compagni, [che in altri tempi][che non credono] ",
+											"text" : "01 [e chi] sono i nostri compagni, [che in altri tempi]1[che non credono]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -468,7 +484,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "00 abbiamo amati e [che] ora ci fanno paura ",
+											"text" : "00 abbiamo amati e [che]1 ora ci fanno paura ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -476,7 +492,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "02 [più a nulla][ a nulla più] se non alle parole [che hanno] ",
+											"text" : "02 [più a nulla]1[ a nulla più]2 se non alle parole [che hanno] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -484,7 +500,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "00 [insegnate] agli operai insegnate, [e che][all'inganno][e che vanno] ",
+											"text" : "00 [insegnate] agli operai insegnate, [e che]1[all'inganno]2[e che vanno]3 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -516,7 +532,7 @@
 									
 										{ 
 											"line" : "10|line 10",
-											"text" : "05 o rabbia [come][o rancore o] grido di chi vuole ",
+											"text" : "05 o rabbia [come]1[o rancore o]2 grido di chi vuole ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -524,7 +540,7 @@
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "06 quel che non ha, non quello che sa. ",
+											"text" : "06 quel che non ha, non quello che sa.   ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -548,7 +564,7 @@
 									
 										{ 
 											"line" : "14|line 14",
-											"text" : "03 del destino, [ritesse la][ritessono la].......",
+											"text" : "03 del destino, [ritesse la]1[ritessono la]2.......",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -564,7 +580,7 @@
 									
 										{ 
 											"line" : "16|line 16",
-											"text" : "03 [del tasso dei titoli] [e forze produttive si tramutano]",
+											"text" : "03 del tasso dei titoli  [e forze produttive si tramutano] ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -572,7 +588,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "00 la bianca fedeltà senza vergogna, amore o uomini",
+											"text" : "04 [, senza vergogna, amore o uomini]1 [ in rapporti (di)(e) produzione]2, [la]1[e]2 []1 [sta]2",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -580,7 +596,7 @@
 									
 										{ 
 											"line" : "18|line 18",
-											"text" : "04 in rapporti (di)(e) produzione, [la][e] [] [sta]",
+											"text" : "00 Era la bianca fedeltà",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -596,7 +612,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "02 con il verso che scrivo... Nelle [fabbriche][officine] ",
+											"text" : "02 con il verso che scrivo... Nelle [fabbriche]1[officine]2 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -604,7 +620,7 @@
 									
 										{ 
 											"line" : "21|line 21",
-											"text" : "03 di Varsavia [s'accosta amari labbri][i consig][Goznik][alle][altri uomini i destini][oltre le rigide mattine] ",
+											"text" : "03 di Varsavia [s'accosta amari labbri]1[i consig]2[Goznik]3[alle]4[altri uomini i destini]5[oltre le rigide mattine]6 ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -628,7 +644,7 @@
 									
 										{ 
 											"line" : "25|line 25",
-											"text" : "05 cortili, [odono][siano] la fine ",
+											"text" : "05 cortili, [odono]1[siano]2 la fine ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -636,7 +652,7 @@
 									
 										{ 
 											"line" : "26|line 26",
-											"text" : "06 dei nostri tempi nell [a voce] [e cifre] che ",
+											"text" : "06 dei nostri tempi nell [a voce]1 [e cifre]2 che ",
 											"tags" : "Fmsrosso_text|Ms rosso (1)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -644,7 +660,7 @@
 									
 										{ 
 											"line" : "27|line 27",
-											"text" : "01 [lui][Goznizk pronuncia al][Goznizk] legge al microfono [alle] su folle  ",
+											"text" : "01 [lui]1[Goznizk pronuncia al]2[Goznizk]3 legge al microfono [alle] su folle  ",
 											"tags" : "Fmsrosso_text Fmsblu_text|Ms rosso (1) Ms blu (2)",
 											"loc" : "msr_fol_3r|3",
 											"inFront": "false"
@@ -676,7 +692,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 come tu credi. E [a]i nostri ultimi mali ",
+											"text" : "04 come tu credi. E ai nostri ultimi mali ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -708,7 +724,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "02 che repugnava. [Era][a noi] l'unione infame ",
+											"text" : "02 che repugnava. [Era]1[a noi]2 l'unione infame ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -716,7 +732,7 @@
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "03 di disprezzo dei moti [umili][chiusi] in cuore ",
+											"text" : "03 di disprezzo dei moti [umili]1[chiusi]2 in cuore ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -724,7 +740,7 @@
 									
 										{ 
 											"line" : "10|line 10",
-											"text" : "04 [a][e] tutti - la spontaneità! - [, la fame] ",
+											"text" : "04 [a]1[e]2 tutti - la spontaneità! -  [, la fame]  ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -732,7 +748,7 @@
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "05 [di storia!) con] [e di][l']elogio dei semplici. [Era o][O]nore ",
+											"text" : "05  [di storia!)]  con [e di]1[l']2elogio dei semplici. [Era o]1[O]2nore ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -804,7 +820,7 @@
 									
 										{ 
 											"line" : "20|line 20",
-											"text" : "06 che fa dolce la nausea e la pietà[.][:]  ",
+											"text" : "06 che fa dolce la nausea e la pietà[.]1[:]2  ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_1r|1",
 											"inFront": "false"
@@ -820,7 +836,7 @@
 									
 										{ 
 											"line" : "2|line 2",
-											"text" : "02 come la tua, [ma] a Bologna, una festa ",
+											"text" : "02 come la tua, [ma]1 a Bologna, una festa ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -828,7 +844,7 @@
 									
 										{ 
 											"line" : "3|line 3",
-											"text" : "03 di [confuse][contratte] bandiere; [e sfarsi, resti][poi disfarsi con i resti] ",
+											"text" : "03 di [confuse]1[contratte]2 bandiere; [e sfarsi, resti]1[poi disfarsi con i resti]2 ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -836,7 +852,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 di cori, i [gruppi][morti][vecchi infanti] nella [luce] dura ",
+											"text" : "04 di cori, i [gruppi]1[morti]2[vecchi infanti]3 nella [luce]1 dura ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -844,7 +860,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "05 [luce] del neon, [per i][sui] viali... Il socialismo ",
+											"text" : "05 [luce]1 del neon, [per i]1[sui]2 viali... Il socialismo ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -852,7 +868,7 @@
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "06 era un passato, un'altra [morta][chiusa] età ",
+											"text" : "06 era un passato, un'altra [morta]1[chiusa]2 età ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -868,7 +884,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "02 che usciva da[ una][lla] livida novena ",
+											"text" : "02 che usciva da[ una]1[lla]2 livida novena ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -876,7 +892,7 @@
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "03 di incenso e di cera, [nel][e] buio, dove la pena ",
+											"text" : "03 di incenso e di cera, [nel]1[e]2 buio, dove la pena ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -940,7 +956,7 @@
 									
 										{ 
 											"line" : "17|line 17",
-											"text" : "05 sarà vissuto, [con la sua esperienza,][misera sapienza] ",
+											"text" : "05 sarà vissuto, [con la sua esperienza,]1[misera sapienza]2 ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -1004,7 +1020,7 @@
 									
 										{ 
 											"line" : "25|line 25",
-											"text" : "02 colori [l] i versi dove tutti [sono][ciechi] ",
+											"text" : "02 colori [l] i versi dove tutti [sono]1[ciechi]2 ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -1012,7 +1028,7 @@
 									
 										{ 
 											"line" : "26|line 26",
-											"text" : "03 fuor di te, [ciechi][sono]? [Dove tutti sono] [Dove rechi] ",
+											"text" : "03 fuor di te, [ciechi]1[sono]2? [Dove tutti sono]1 [Dove rechi]3 ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -1028,7 +1044,7 @@
 									
 										{ 
 											"line" : "28|line 28",
-											"text" : "05 che non [arda][arda] insensata? Con un suono",
+											"text" : "05 che non [arda]1[arda]2 insensata? Con un suono",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -1044,7 +1060,7 @@
 									
 										{ 
 											"line" : "30|line 30",
-											"text" : "03 [Questo ci divide sono] [Nei vicoli biechi] ",
+											"text" : "03 [Questo ci divide sono]1 [Nei vicoli biechi]3 ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_2r|2",
 											"inFront": "false"
@@ -1108,7 +1124,7 @@
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "07 che ti perdoni, ad altri la [cambi][togli]",
+											"text" : "07 che ti perdoni, ad altri la [cambi]1[togli]2",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1132,7 +1148,7 @@
 									
 										{ 
 											"line" : "8|line 8",
-											"text" : "e del [male][sonno][più][sei] complice e del [sonno][male]",
+											"text" : "e del [male]1[sonno]2[più][sei] complice e del [sonno]1[male]2",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1140,7 +1156,7 @@
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "09 [più colpevole] del tuo popolo. A corte poi,[ ti vale]",
+											"text" : "09 [più colpevole]1 del tuo popolo. A corte poi,[ ti vale]1",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1156,7 +1172,7 @@
 									
 										{ 
 											"line" : "11|line 11",
-											"text" : "11 nei tuoi poemi, [soavemente.] [il pianto. Agli altri il male] [in limpide querele] ...",
+											"text" : "11 nei tuoi poemi, [soavemente.]1 [il pianto. Agli altri il male]2 [in limpide querele]3 ...",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1164,7 +1180,7 @@
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "000 [che la Passione fornisce]",
+											"text" : "000 [che la Passione fornisce]1",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1172,7 +1188,7 @@
 									
 										{ 
 											"line" : "13|line 13",
-											"text" : "12 [a chi, come te, sa//ha]",
+											"text" : "12 [a chi, come te, sa//ha]2",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3r|3r",
 											"inFront": "false"
@@ -1204,7 +1220,7 @@
 									
 										{ 
 											"line" : "4|line 4",
-											"text" : "04 come tu dici. [I][Dai] nostri ultimi mali ",
+											"text" : "04 come tu dici. [I]1[Dai]2 nostri ultimi mali ",
 											"tags" : "Fmsblu_text|Ms blu (2)",
 											"loc" : "msb_fol_3v|3v",
 											"inFront": "false"
@@ -1221,7 +1237,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 non orgoglio, ma irta carità.   ",
-											"tags" : "Fmsblu_text Fms3_text|Ms blu (2) Ms 3 ter (3)",
+											"tags" : "Fmsblu_text Fms3_text|Ms blu (2) Ms blu ter (3)",
 											"loc" : "msb_fol_3v|3v",
 											"inFront": "false"
 										},
@@ -1229,7 +1245,7 @@
 										{ 
 											"line" : "no line info|no line info",
 											"text" : "  Risposta a Pasolini   1",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1237,7 +1253,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 No, non paura di tornare quali ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1245,7 +1261,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 siamo stati, cristiane anime in cenere, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1253,7 +1269,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 né ritegno di errore ci trattiene, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1261,7 +1277,7 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "04 come dici. Dai nostri ultimi mali ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1269,7 +1285,7 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 nuovo sangue, non gelo, hanno le vene, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1277,7 +1293,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "06 non orgoglio ma irta carità.   ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1285,7 +1301,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "01 Era dei falsi asceti il falso ardore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1293,28 +1309,33 @@
 										{ 
 											"line" : "8|line 8",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "02 che repugnava a noi [;][:] l'unione infame ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "02 che repugnava a noi [:]1[;]2 l'unione infame ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "02 che repugnava a noi [;]1[:]2 l'unione infame ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "03 di disprezzo [dei][pei] moti chiusi in cuore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "03 di disprezzo [dei]1[pei]2 moti chiusi in cuore ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "10|line 10",
-											"text" : "04  [di][a] tutti (la spontaneità, la 'fame ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "04  [di]1[a]2 tutti (la spontaneità, la 'fame ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1322,7 +1343,7 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "05 di storia'!) con l'elogio dei semplici. Onore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1330,7 +1351,7 @@
 										{ 
 											"line" : "12|line 12",
 											"text" : "06 della ragione, il nostro, non virtù ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1338,12 +1359,17 @@
 										{ 
 											"line" : "13|line 13",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "01 astratta, non orgoglio [comunista][moralista] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "01 astratta, non orgoglio [comunista...]1[moralista]2  ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "01 astratta, non orgoglio [comunista]1[moralista]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1351,12 +1377,17 @@
 										{ 
 											"line" : "14|line 14",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "02 questo almeno nei voti. [Non il pianto]  ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "02 [Almeno]1 [questo]2, nei voti. Non il pianto  ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "02 questo almeno nei voti. [Non il pianto]1  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1364,12 +1395,17 @@
 										{ 
 											"line" : "15|line 15",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "che lunghi anni [inghiottito in me][ho in me [nascosto][chiuso]], [ma] il canto",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "lunghi anni [inghiottito in me]1 [che - lunghi anni - ho in me nascosto [chiuso]3]2 ,  [ma]  il canto",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "che lunghi anni [inghiottito in me]1[ho in me [nascosto]2[chiuso]3]2, [ma] il canto",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1378,11 +1414,15 @@
 											"line" : "16|line 16",
 <<<<<<< HEAD
 											"text" : "03 [dei] che [mi ha] si faceva grido era la ''   ",
+<<<<<<< HEAD
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "03 [dei] che [mi ha] si faceva grido era la &quotes;   ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1390,7 +1430,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "02  [E ora se canto] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1406,7 +1446,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "03 a me il mio cuore antico, se mi chiedi ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1415,11 +1455,15 @@
 											"line" : "20|line 20",
 <<<<<<< HEAD
 											"text" : "04 chi sono, smorto letterato ",
+<<<<<<< HEAD
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "04 chi sono, smorto letterato  ista, ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1427,7 +1471,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "05 io ti rispondo: [non] (che il mio pianto vedi)(più che tu non credi) ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1435,15 +1479,15 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "06 non si vergogna più.    2",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "24|line 24",
-											"text" : "01 E anch'io ho [veduto][saputa] in una turba oscura ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "01 E anch'io ho [veduto]1[saputa]2 in una turba oscura ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1451,7 +1495,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "02 come la tua, ma a Bologna, una festa ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1459,7 +1503,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "03 di bandiere rapprese; e poi fra i resti ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1467,7 +1511,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "04 di cori, i vecchi-infanti nella dura ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1475,12 +1519,17 @@
 										{ 
 											"line" : "28|line 28",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "05 luce del neon, [sui viali]... Il socialismo[, [questi]][tristi] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "05 luce del neon, sui viali... Il socialismo [questi]1 [tristi]2 ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "05 luce del neon, [sui viali]1... Il socialismo[, [questi]1]1[tristi]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1488,12 +1537,17 @@
 										{ 
 											"line" : "29|line 29",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "06 [morti,] [corpi,] era [era] [era dunque] ( [mi parve,])([era un passato]) : un'altra chiusa età   ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "06  [morti,]1 [corpi,]2 ( [era ]1)([era dunque]2[mi parve,]3) un passato[?]1 [:]2 un'altra chiusa età   ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "06 [morti,]1 [corpi,]2 era [era]1 [era dunque]2 ( [mi parve,]3)([era un passato]3) : un'altra chiusa età   ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1501,7 +1555,7 @@
 										{ 
 											"line" : "30|line 30",
 											"text" : "01 Come la vecchia inascoltata e nera ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1509,7 +1563,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "02 che usciva dalla livida novena ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1517,7 +1571,7 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "03 di incenso e cera e buio, dove la pena ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1525,7 +1579,7 @@
 										{ 
 											"line" : "33|line 33",
 											"text" : "04 dell'agonia si culla nella sera ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1533,7 +1587,7 @@
 										{ 
 											"line" : "34|line 34",
 											"text" : "05 dei sensi e tutto è un vano ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1541,7 +1595,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "06 strazio d'infanzia, cieca verità...   ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1549,7 +1603,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "01 Anch'io so, più di te so, che sia questo ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1557,7 +1611,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "02 orrore della povera speranza ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1565,7 +1619,7 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "03 dei poveri, degli ingannati, senza ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1573,7 +1627,7 @@
 										{ 
 											"line" : "39|line 39",
 											"text" : "04 possibile riscatto; di chi presto ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1581,7 +1635,7 @@
 										{ 
 											"line" : "40|line 40",
 											"text" : "05 sarà vissuto, misera sapienza ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1589,7 +1643,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "06 [spo] orba di verità. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1597,7 +1651,7 @@
 										{ 
 											"line" : "41bis|line 41bis",
 											"text" : "(  ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1605,23 +1659,23 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "Ma tu chi sei che di pietà impietosa ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "43|line 43",
-											"text" : "08 dài grazia ai versi dove [tutti][sono] ciechi, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "08 dài grazia ai versi dove [tutti]1[sono]2 ciechi, ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "44|line 44",
-											"text" : "09 fuor di te, [sono][tutti]? Nei vicoli biechi ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "09 fuor di te, [sono]1[tutti]2? Nei vicoli biechi ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1629,7 +1683,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "10 e teneri ti sciogli dell'afosa ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1637,7 +1691,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "11 notte di Roma e poi torni e ti rechi ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1645,7 +1699,7 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "12  intatto al verso. Quella libertà ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1653,7 +1707,7 @@
 										{ 
 											"line" : "48|line 48",
 											"text" : "13  che ti perdoni, ad altri tu la togli ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_1r|1",
 											"inFront": "false"
 										},
@@ -1661,7 +1715,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "14  e del sonno sei complice e del male ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1669,7 +1723,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "15  del tuo popolo. A corte, poi, ti vale ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1677,7 +1731,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "16 leggere come l'animo disfogli ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1685,15 +1739,15 @@
 										{ 
 											"line" : "4|line 4",
 											"text" : "17 nei tuoi poemi in limpide querele ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "5|line 5",
-											"text" : "18 [a][fra] chi, come te, sa...  3.",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "18 [a]1[fra]2 chi, come te, sa...  3.",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1701,7 +1755,7 @@
 										{ 
 											"line" : "6|line 6",
 											"text" : "01 Mi provo ad un non mio discorso, vedi, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1709,7 +1763,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "02 credendo che anche a me la rima e il verso ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1718,11 +1772,15 @@
 											"line" : "8|line 8",
 <<<<<<< HEAD
 											"text" : "03 (fingano forza ad)(diano la forza) d'esser diverso ",
+<<<<<<< HEAD
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "03 (fingano forza ad)(diano la forza d') esser diverso ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1730,7 +1788,7 @@
 										{ 
 											"line" : "9|line 9",
 											"text" : "04 dai miei vizi. Non credo a quel che credi, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1738,7 +1796,7 @@
 										{ 
 											"line" : "10|line 10",
 											"text" : "05 altre vie dalle tue m'hanno converso ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1746,20 +1804,25 @@
 										{ 
 											"line" : "11|line 11",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "06 a questa [sillabata][faticata] povertà ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "06 a questa [sillabata]1[faticata]2 povertà   ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "06 a questa [sillabata]1[faticata]2 povertà ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "01 La nostra storia[, vedi,] non è [mai] finita. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "01 La nostra storia[, vedi,]1 non è [mai]2 finita. ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1767,7 +1830,7 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "02 Quando tu ne hai parlato, io scrissi in odio ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1775,7 +1838,7 @@
 										{ 
 											"line" : "14|line 14",
 											"text" : "03 alla pietà che ti vinceva, in odio ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1783,7 +1846,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "04 a chi plaudiva nel verso la vita ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1791,7 +1854,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "05 miele dei morti e del peccato, vischio ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1800,11 +1863,15 @@
 											"line" : "17|line 17",
 <<<<<<< HEAD
 											"text" : "06 che fa dolce la nausea e la pietà: ",
+<<<<<<< HEAD
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "06 che fa dolce la nausea e la pietà:   ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1812,7 +1879,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "01 Non la Speranza dico, la cagna ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1820,7 +1887,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "02 affamata che non si sazia mai ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1828,7 +1895,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "03 e vagabonda ai confini. Tu sai ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1836,7 +1903,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "04 quanta con lei si celebra vergogna ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1844,7 +1911,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "05 quanta con lei viltà. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1852,7 +1919,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "06 Una volta sperare era sperare ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1860,7 +1927,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "07 aria (d'amore)(d'ozio) o di campagna, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1868,7 +1935,7 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "08 o d'infanzia risorta o un pianto o un mare ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1876,7 +1943,7 @@
 										{ 
 											"line" : "26|line 26",
 											"text" : "09 dove spunti una vela, una montagna ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1884,7 +1951,7 @@
 										{ 
 											"line" : "27|line 27",
 											"text" : "10 bruna per la distanza, una città ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1892,7 +1959,7 @@
 										{ 
 											"line" : "28|line 28",
 											"text" : "11 dove perdersi in pace. Piano, un passo ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1901,19 +1968,23 @@
 											"line" : "29|line 29",
 <<<<<<< HEAD
 											"text" : "12 dopo l'altro, è mutata, [si sono] spenti i simboli ",
+<<<<<<< HEAD
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "12 dopo l'altro, è mutata, si sono spenti i simboli ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "30|line 30",
-											"text" : "13 ridicoli, quei [dolci][miti] blandi limbi. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "13 ridicoli, quei [dolci]1[miti]2 blandi limbi. ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1921,7 +1992,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "14 E la speranza ora è convulso passo ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1929,13 +2000,14 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "15 di bestia, dentro di noi, che viene e va. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "33|line 33",
+<<<<<<< HEAD
 <<<<<<< HEAD
 											"text" : "[.....] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
@@ -1943,14 +2015,18 @@
 											"text" : " [.....]  ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "[.....]1 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "34|line 34",
-											"text" : "01 [Passi] [Vaghi] [Sogni] fra i corpi e credi al loro sangue ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "01 [Passi]1 [Vaghi]2 [Sogni]3 fra i corpi e credi al loro sangue ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1958,7 +2034,7 @@
 										{ 
 											"line" : "35|line 35",
 											"text" : "02 buono a bere, al calore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1966,7 +2042,7 @@
 										{ 
 											"line" : "36|line 36",
 											"text" : "03 vile e dolce. Cammini giudicando, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1974,7 +2050,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "04 non giudicando, intriso ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1982,7 +2058,7 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "05 d'altri, per umiliarti e, in fondo, vincere. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -1990,15 +2066,15 @@
 										{ 
 											"line" : "39|line 39",
 											"text" : "06 Non è la colpa che insapora questo ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "40|line 40",
-											"text" : "07 [vagabondare][tuo vagare] fra [voluttuose ombre][ombre voluttuose] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "07 [vagabondare]1[tuo vagare]2 fra [voluttuose ombre]1[ombre voluttuose]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -2006,7 +2082,7 @@
 										{ 
 											"line" : "41|line 41",
 											"text" : "08 di parchi, di balconi, d'archivolti, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -2014,7 +2090,7 @@
 										{ 
 											"line" : "42|line 42",
 											"text" : "09 le notti aride; non è più che un ansito ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -2022,7 +2098,7 @@
 										{ 
 											"line" : "43|line 43",
 											"text" : "10 per ricordare. Sei solo, ed è quello ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -2030,7 +2106,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "11 che vuoi... ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_2r|2",
 											"inFront": "false"
 										},
@@ -2038,12 +2114,17 @@
 										{ 
 											"line" : "no line info|no line info",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "[4] ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : " [4]  ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "[4]1 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2051,7 +2132,7 @@
 										{ 
 											"line" : "1|line 1",
 											"text" : "01 (Veramente si fu servi [di stolti] delle ore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2059,7 +2140,7 @@
 										{ 
 											"line" : "2|line 2",
 											"text" : "02 veramente si fu servi di stolti ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2067,7 +2148,7 @@
 										{ 
 											"line" : "3|line 3",
 											"text" : "03 veramente contriti i nostri volti ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2075,12 +2156,17 @@
 										{ 
 											"line" : "4|line 4",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "04 veri, [e ]tradito il nostro vero amore. ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "04 veri,  [e ] tradito il nostro vero amore. ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "04 veri, [e ]1tradito il nostro vero amore. ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2088,15 +2174,15 @@
 										{ 
 											"line" : "5|line 5",
 											"text" : "05 E l'ultima parola che ora ascolti ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "6|line 6",
-											"text" : "06 non [fu][la] detta, compagno, per viltà, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "06 non [fu]1[la]2 detta, compagno, per viltà, ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2104,7 +2190,7 @@
 										{ 
 											"line" : "7|line 7",
 											"text" : "07 e non (fu)(l'ho mai) detta perché era più libera ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2112,15 +2198,15 @@
 										{ 
 											"line" : "8|line 8",
 											"text" : "08 e più felice di questa esistenza, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "9|line 9",
-											"text" : "09 [perché] [comune] [perché] non si poteva dirla senza ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "09 [perché]1 [comune]2 [perché]3 non si poteva dirla senza ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2128,12 +2214,17 @@
 										{ 
 											"line" : "10|line 10",
 <<<<<<< HEAD
+<<<<<<< HEAD
 											"text" : "10 (nostra, né) dire anche il no...)  ",
 											"tags" : "Fms3_text|Ms 3 ter (3)",
 =======
 											"text" : "10  [nostra, né]  dire anche il no...)  ",
 											"tags" : "Fms3_text|Ms blu ter (3)",
 >>>>>>> eb8aa14 (revisione ms 3 ter)
+=======
+											"text" : "10 ( [nostra, né] ) dire anche il no...)  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
+>>>>>>> 0296d09562cd89a62a1f2e5710cab355f841fd6d
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2141,15 +2232,15 @@
 										{ 
 											"line" : "11|line 11",
 											"text" : "07 [l'amore non lo dissi perché]",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "12|line 12",
-											"text" : "08 troppo e più [immensa][grande ] della [mia esistenza][delle mie][ a questa esistenza]",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "08 troppo e più [immensa]1[grande ]2 della [mia esistenza]1[delle mie]2[ a questa esistenza]3",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2157,15 +2248,15 @@
 										{ 
 											"line" : "13|line 13",
 											"text" : "09 nostra ed era menzogna dirla senza",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "14|line 14",
-											"text" : "10 dire anche l'altro, dire anche di no...   [3][5] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "10 dire anche l'altro, dire anche di no...   [3]1[5]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2173,7 +2264,7 @@
 										{ 
 											"line" : "15|line 15",
 											"text" : "01 Ma chi aspetta di leggere domani ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2181,7 +2272,7 @@
 										{ 
 											"line" : "16|line 16",
 											"text" : "02 una consolazione dalle righe ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2189,7 +2280,7 @@
 										{ 
 											"line" : "17|line 17",
 											"text" : "03 di piombo del giornale; e chi le scrive ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2197,7 +2288,7 @@
 										{ 
 											"line" : "18|line 18",
 											"text" : "04 nell'afa delle redazioni, con mani ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2205,7 +2296,7 @@
 										{ 
 											"line" : "19|line 19",
 											"text" : "05 di assassini devoti; e chi le nemiche ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2213,7 +2304,7 @@
 										{ 
 											"line" : "20|line 20",
 											"text" : "06 parole spia per farne scusa a sé, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2221,7 +2312,7 @@
 										{ 
 											"line" : "21|line 21",
 											"text" : "01 sono i nostri compagni! Che non credono ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2229,7 +2320,7 @@
 										{ 
 											"line" : "22|line 22",
 											"text" : "02 a nulla più se non alle parole ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2237,7 +2328,7 @@
 										{ 
 											"line" : "23|line 23",
 											"text" : "03 che hanno insegnate agli operai; parole ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2245,7 +2336,7 @@
 										{ 
 											"line" : "24|line 24",
 											"text" : "04 che ritornano a loro come fede ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2253,55 +2344,55 @@
 										{ 
 											"line" : "25|line 25",
 											"text" : "05 stravolta o rabbia o grido di chi vuole ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "26|line 26",
-											"text" : "06 quel che non ha non [più] quel[lo] che non sa  [4.][6.]",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "06 quel che non ha non [più]2 quel[lo]1 che non sa  [4.]1[6.]2",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "27|line 27",
-											"text" : "01 [Ma][Pure] più forti dei loro brusii, più sottil[e][i] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "01 [Ma]1[Pure]2 più forti dei loro brusii, più sottil[e]1[i]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "28|line 28",
-											"text" : "02 dei nostri ragionamenti, più astut[i][e] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "02 dei nostri ragionamenti, più astut[i]1[e]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "29|line 29",
-											"text" : "03 [del destino][della passione], ritessono [la muta] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "03 [del destino]1[della passione]2, ritessono [la muta]1 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "30|line 30",
-											"text" : "04 [realtà con le sue tenaci file] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "04 [realtà con le sue tenaci file]1 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "05 le forze produtti[ve][ve] e si tramutano ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "05 le forze produtti[ve]1[ve]2  [e]  si tramutano ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2309,7 +2400,7 @@
 										{ 
 											"line" : "31|line 31",
 											"text" : "06 in rapporti di produzione, e sta ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2317,39 +2408,39 @@
 										{ 
 											"line" : "32|line 32",
 											"text" : "01 questa, in ultima analisi, in rapporto ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "33|line 33",
-											"text" : "02 (con [la ansia][ritm] che ti scrivo...)(con [il verso][la parola][quest'ansia] che scrivo... ) Nelle officine ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "02 (con [la ansia]1[ritm]2 che ti scrivo...)(con [il verso]1[la parola]2[quest'ansia]3 che scrivo... ) Nelle officine ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "34|line 34",
-											"text" : "03 di Varsavia, le [rigide][disperate] mattine ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "03 di Varsavia, le [rigide]1[disperate]2 mattine ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "35|line 35",
-											"text" : "04 ([gr] di gelo, abrasivi, binari)(di [ferraglia][di amianto][abrasivi][binari]) e di ruggine, fra smorti ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "04 ([gr] di gelo, abrasivi, binari)(di [ferraglia]1[di amianto]2[abrasivi]3[binari]4) e di ruggine, fra smorti ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "36|line 36",
-											"text" : "05 cortili, odono [forse ora] la fine ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "05 cortili, odono [forse ora]1 la fine ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2357,7 +2448,7 @@
 										{ 
 											"line" : "37|line 37",
 											"text" : "06 dei nostri tempi, nelle cifre che ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2365,47 +2456,47 @@
 										{ 
 											"line" : "38|line 38",
 											"text" : "01 Grodzizk (legge)(infigge) il microfono su folle ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "39|line 39",
-											"text" : "02 grige e decise come [quelle ][altre,]allora , ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "02 grige e decise come [quelle ]1[altre,]2allora  [,]  ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "40|line 40",
-											"text" : "03 sui graniti di Pietrogrado; e chi ora ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "03 sui graniti di Pietrogrado;  [e]  chi ora ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "41|line 41",
-											"text" : "04 va nei parchi di Buda[pest] e le [quieto] zolle ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "04 va nei parchi di Buda[pest]1 e le [quieto]2 zolle ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "42|line 42",
-											"text" : "05 [fissa][guarda][ peste][lerce] di [foglie e cingoli][cingoli e passi], lavora ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "05 [fissa]1[guarda]2[ peste]1[lerce]2 di [foglie e cingoli]1[cingoli e passi]2, lavora ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "43|line 43",
-											"text" : "06 [anche per] in [suo] cuore[,] poeta,anche per te.  [5.][7]",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "06 [anche per] in [suo]1 cuore[,]1  [poeta,] anche per te.  [5.]1[7]2",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2413,7 +2504,7 @@
 										{ 
 											"line" : "44|line 44",
 											"text" : "01 Non ti dico speranza. Ma è speranza. ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2421,7 +2512,7 @@
 										{ 
 											"line" : "45|line 45",
 											"text" : "02 Questa parola che ti porgo è niente, ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2429,7 +2520,7 @@
 										{ 
 											"line" : "46|line 46",
 											"text" : "03 la sperde il giorno e me con essa. E niente ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2437,23 +2528,23 @@
 										{ 
 											"line" : "47|line 47",
 											"text" : "04 ci consola di essere sostanza ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "48|line 48",
-											"text" : "05 delle cose sperate. Su queste [lente][spente][lente] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "05 delle cose sperate. Su queste [lente]1[spente]2[lente]3 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "49|line 49",
-											"text" : "06 sere di [pioggia][bruma] e calce la città ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "06 sere di [pioggia]1[bruma]2 e calce la città ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2461,15 +2552,15 @@
 										{ 
 											"line" : "49|line 49",
 											"text" : "01 che mi porta (si assonna)(inturbata) nei viali ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "50|line 50",
-											"text" : "02 [da][fra] autotreni di [fango][buio] [e buio,][e sempre] muore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "02 [da]1[fra]2 autotreni di [fango]3[buio]4 [e buio,]1[e sempre]2 muore ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2477,47 +2568,47 @@
 										{ 
 											"line" : "50|line 50",
 											"text" : "03 fra ponti di bitume, fari, scorie... ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "51|line 51",
-											"text" : "04 Qui sarò stato[. Dentro i generali] [io e vivo. Ai generali] ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "04 Qui sarò stato[. Dentro i generali]1 [io e vivo. Ai generali]2 ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "1|line 1",
-											"text" : "05 destini che mi struggono, [l'][il mio]errore ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "05 destini che mi struggono, [l']1[il mio]2errore ",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "52|line 52",
-											"text" : "(06 sempre [il][col] vero, che mi[ei][o] fu[rono], sarà )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "(06 sempre [il]1[col]2 vero, che mi[ei]1[o]2 fu[rono]1, sarà )",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "53|line 53",
-											"text" : "( [mio col mio vero per sempre sarà.] )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "( [mio col mio vero per sempre sarà.]1 )",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "54|line 54",
-											"text" : "([mio per sempre col vero mio sarà] )( )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "([mio per sempre col vero mio sarà]2 )( )",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2525,7 +2616,7 @@
 										{ 
 											"line" : "55|line 55",
 											"text" : "(mio, e per sempre, [ma] e più il vero mio, sarà )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2533,7 +2624,7 @@
 										{ 
 											"line" : "56|line 56",
 											"text" : "(mio e più il mio vero, per sempre, sarà. )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2541,15 +2632,15 @@
 										{ 
 											"line" : "57|line 57",
 											"text" : "(per sempre e più il mio vero resterà )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
 									
 										{ 
 											"line" : "58|line 58",
-											"text" : "([sempre e][ma] più il mio vero, [sempre] [che fu mio] resterà )",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"text" : "([sempre e]1[ma]2 più il mio vero, [sempre] [che fu mio]2 resterà )",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},
@@ -2557,7 +2648,7 @@
 										{ 
 											"line" : "59|line 59",
 											"text" : "(che fu mio, e il [più] il mio vero, resterà ) ",
-											"tags" : "Fms3_text|Ms 3 ter (3)",
+											"tags" : "Fms3_text|Ms blu ter (3)",
 											"loc" : "ms3_fol_3r|3",
 											"inFront": "false"
 										},

@@ -22,27 +22,41 @@
             <sourceDesc>
                 <msDesc>
                     <msIdentifier>
+                        <settlement>Siena</settlement>
+                        <repository>Fondo Franco Fortini dell'Università di Siena</repository>
+                        
                         <altIdentifier>
-                            <repository>Fondo Franco Fortini dell'Università di Siena</repository>
                             <idno>Scatola Poesie (3a), Carta 31</idno>
                         </altIdentifier>
-
-                        <msName>Manoscritto blu</msName>
                     </msIdentifier>
+                    
+                    
                     <msContents>
                         <msItem>
-                            <colophon/>
+                            <colophon>Le carte pervenuteci della poesia <emph>Al di là della speranza</emph> sono conservate nella Scatola Poesie (3a), in una cartella azzurra nominata Carta 31. Nella scatola sono conservati gli avantesti di poesie per la maggior parte edite 
+                                da <emph>Poesia e errore </emph>fino a <emph>Composita solvantur</emph>. Le carte sono state ordinate esaminando le varianti e le penne in tre macrostesure, per semplicità denominate ms. rosso, ms blu e ms. blu ter.
+                            <emph>Al di là della speranza</emph> è apparsa la prima volta in "Officina" nel 1956, con il sottotitolo <emph>Risposta a Pasolini</emph>.
+                            </colophon>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc>
-                            <supportDesc>
+                            <supportDesc><p>La cartella 31 contiene 8 fogli di carta (scritti solo sul fronte) e un cartoncino, scritto fronte e retro. 
+                                I fogli sono probabilmente appartenenti a diversi block notes, come dimostra la filigrana: i primi tre fogli del ms. rosso hanno in filigrana "EXTRA STRONG" in verticale, mentre i tre fogli del ms. blu ter presentano la medesima in orizzontale. Assente qualsiasi filigrana dalle carte della seconda stesura (ms. blu).</p>
+                                
+                                
+                               <p> L'uso di fogli diversi è stato di aiuto nell'individuazioni della numerazione dei fogli, non numerati né dall'autore, né in fase di archivio.</p>
+                                <p>Per la descrizione delle stesure e delle penne si rimanda al tasto "info", disponibile per ognuna delle tre stesure.
+                                
+                                </p>
+                                <p>Di seguito proponiamo una <hi rend="bold">LEGENDA</hi> per la consultazione diplomatica:</p>
 
-                                <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
-                                    l'ordine cronologico; sono evidenziate in ocra, delimitate da parentesi quadre e il loro ordine è indicato da una freccia.
-                                    
-                                   </p>
-                             <!--   e sono state rese con colori differenti e     cioè:</p>
+                               
+                                    <p>Le <hi rend="bold">varianti</hi> sono state marcate seguendo
+                                        l'ordine cronologico; sono evidenziate in ocra, delimitate da parentesi quadre e il loro ordine è indicato da una freccia.
+                                        
+                                    </p>
+                                    <!--   e sono state rese con colori differenti e     cioè:</p>
                                 <p>
                                     <hi rend="#93117e">prima variante</hi></p>
                                 <p><hi rend="#006bb3">seconda variante</hi></p>
@@ -53,26 +67,30 @@
                                 <p>L'ultima e definitiva è quella non cassata.</p>-->
                                     
                                     
-                                <p>In <hi rend="#d74643">rosso</hi> invece le <hi rend="bold"
+                                    <p>In <hi rend="#d74643">rosso</hi> invece le <hi rend="bold"
                                         >varianti immediate</hi>, cioè quelle apportate durante la
-                                    stesura. Per le <hi rend="bold">varianti alternative</hi>,
-                                    lasciate a margine o comunque non scelte dall'autore, si è
-                                    pensato di inserirle tra parentesi tonde. Questo tipo di
-                                    varianti sono state marcate con "rdg"; se una delle varianti è
-                                    stata accolta in una successiva stesura si è preferito marcarla
-                                    con "lem"; nel lettore sarà individuabile attraverso il <hi
-                                        rend="#edbf5a">giallo</hi>. </p>
-                                <p>Tra parentesi quadre in corsivo, seguite da un punto interrogativo, sono rappresentate le
-                                    congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied @reason="illegible" ").</p>
-                                <p>Alcuni versi sono rappresentati con un colore più chiaro nel
-                                    reader: sono quelle strofe cassate nella stesura o quei versi che
-                                    sono stati lasciati intatti, senza cancellature, ma considerati come eliminati
-                                    dall'autore, che ha ripreso la scrittura della sestina
-                                    ignorandoli. In entrambi i casi questi versi sono stati marcati con "p".</p>
+                                        stesura. Per le <hi rend="bold">varianti alternative</hi>,
+                                        lasciate a margine o comunque non scelte dall'autore, si è
+                                        pensato di inserirle tra parentesi tonde. Questo tipo di
+                                        varianti sono state marcate con "rdg"; se una delle varianti è
+                                        stata accolta in una successiva stesura si è preferito marcarla
+                                        con "lem"; nel lettore sarà individuabile attraverso il <hi
+                                            rend="#edbf5a">giallo</hi>. </p>
+                                    <p>Tra parentesi graffe in corsivo, seguite da un punto interrogativo, sono rappresentate le
+                                        congetture del filologo, laddove alcune parole risultino illeggibili (in TEI cioè "supplied @reason="illegible" ").</p>
+                                    <p>Alcuni versi sono rappresentati con un colore più chiaro nel
+                                        reader: sono quelle strofe cassate nella stesura o quei versi che
+                                        sono stati lasciati intatti, senza cancellature, ma considerati come eliminati
+                                        dall'autore, che ha ripreso la scrittura della sestina
+                                        ignorandoli. In entrambi i casi questi versi sono stati marcati con "p".</p>
+                                    
+                                
                                 
 
                             </supportDesc>
+                            
                         </objectDesc>
+                        
 
 
                     </physDesc>

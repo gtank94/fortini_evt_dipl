@@ -29,14 +29,14 @@
 	<!-- Page layout -->
 	<!--             -->
 
-	<!--<!-\- P Paragraphs -\->
+	<!-- P Paragraphs -->
 	<xsl:template match="tei:p" mode="dipl">
 		<xsl:element name="p">
 			<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 			<xsl:call-template name="dataAttributesFromAttributes"/>
 			<xsl:apply-templates mode="#current"/>
 		</xsl:element>
-	</xsl:template>-->
+	</xsl:template>
 	
 	
 			
@@ -513,18 +513,84 @@
 	<!-- ADD Addition -->
 	<xsl:template match="tei:add" mode="dipl" priority="2">
 		<xsl:choose>
-			<!--<xsl:when test="@seq > 1">
-				<xsl:element name="span">
-					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
-					
-					<xsl:call-template name="dataAttributesFromAttributes"/>&#160;&#8608;&#160;<xsl:apply-templates mode="#current"/>&#160;</xsl:element>
-			</xsl:when>-->
-			<xsl:when test="@seq">
+				
+	
+				
+				<xsl:when test="@seq='0'">
 				<xsl:element name="span">
 					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 					
 					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				
+				
 			</xsl:when>
+			<xsl:when test="@seq='1'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>1</xsl:element>
+				
+			</xsl:when>	
+			<xsl:when test="@seq='2'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>2</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='3'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>3</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='4'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>4</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='5'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>5</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='6'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>6</xsl:element>
+				
+			</xsl:when>
+			
+			
+				
+				
+					
+	
+			
 			<xsl:when test="ancestor::reg">
 				<xsl:choose>
 					<xsl:when test="@place='sup'">
@@ -550,7 +616,7 @@
 						<xsl:element name="span">
 							<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 							<xsl:call-template name="dataAttributesFromAttributes"/>
-							&#160;<xsl:apply-templates mode="#current"/>&#160;
+							<xsl:apply-templates mode="#current"/>
 						</xsl:element>
 					</xsl:otherwise>
 				</xsl:choose>
@@ -563,39 +629,86 @@
 						select="if(@place) then($ed_name1, concat(name(), ' ', $ed_name1), @place) else($ed_name1, name())"
 						separator="-"/>
 					<xsl:call-template name="dataAttributesFromAttributes"/>
-					<xsl:apply-templates mode="#current"/>
+					[<xsl:apply-templates mode="#current"/>]
 				</xsl:element>
 			</xsl:otherwise>
 		</xsl:choose>
+		
 	</xsl:template>
 	
-	<!--PER SEPARARE LE VARIANTI (GT) -->
 	
-<!--	<xsl:template match="tei:add" mode="dipl" priority="2">
-		<xsl:choose>
-			
-					<xsl:when test="@seq">
-						<xsl:element name="span">
-							<xsl:attribute name="class" select="$ed_name1, name()" separator="-"
-							/> &#160;<xsl:apply-templates mode="#current"/>&#160;</xsl:element>
-					</xsl:when>
-		</xsl:choose>
-	</xsl:template>-->
 	
 	<xsl:template match="tei:del" mode="dipl" priority="2">
 		<xsl:choose>
-			<xsl:when test="@seq">
+			<xsl:when test="@seq='0'">
 				<xsl:element name="span">
 					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 					
 					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				
+				
 			</xsl:when>
-			<!--<xsl:when test="@seq > 1">
+			<xsl:when test="@seq='1'">
 				<xsl:element name="span">
 					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
 					
-					<xsl:call-template name="dataAttributesFromAttributes"/>&#160;&#8608;&#160;<xsl:apply-templates mode="#current"/>&#160;</xsl:element>
-			</xsl:when>-->
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>1</xsl:element>
+				
+			</xsl:when>	
+			<xsl:when test="@seq='2'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>2</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='3'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>3</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='4'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>4</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='5'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>5</xsl:element>
+				
+			</xsl:when>
+			<xsl:when test="@seq='6'">
+				<xsl:element name="span">
+					<xsl:attribute name="class" select="$ed_name1, name()" separator="-"/>
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>[<xsl:apply-templates mode="#current"/>]</xsl:element>
+				<xsl:element name="sup">
+					
+					<xsl:call-template name="dataAttributesFromAttributes"/>6</xsl:element>
+				
+			</xsl:when>
+			
 			
 			<xsl:otherwise>
 				<xsl:element name="span">

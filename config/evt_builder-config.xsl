@@ -37,7 +37,7 @@
 	<!-- EN: Main web site for digital edition -->
 	<!-- IT: Sito web principale dell'edizione -->
 	<!-- default: '' -->
-	<xsl:param name="webSite" select="'https://www.collane.unito.it/oa/items/show/11'"/>
+	<xsl:param name="webSite" select="''"/>
 
 	<!-- EN: Index title -->
 	<!-- IT: Titolo edizione -->
@@ -198,7 +198,7 @@
 		     If false() you need to put your own xslt transformations in modules/elements/evt_builder-generate-text_label.xsl -->
 	<!-- IT: Attiva/Disattiva generazione standard dell'etichetta del selettore testuale in base all'id.
 		     Se false() e' necessario aggiungere le proprie trasformazioni xslt nel file modules/elements/evt_builder-generate-text_label.xsl -->
-	<xsl:param name="defaulTextLabel" select="true()"/>
+	<xsl:param name="defaulTextLabel" select="false()"/>
 
 	<!-- ################# -->
 	<!-- INTERFACE CONTROL -->
@@ -254,12 +254,12 @@
 	<!-- EN: Show/Hide Thumbnails Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Thumbnails nell'interfaccia web -->
 	<!-- default: true() -->
-	<xsl:param name="thumbs_button" select="true()"/>
+	<xsl:param name="thumbs_button" select="false()"/>
 
 	<!-- EN: Show/Hide Viscoll Button in interface -->
 	<!-- IT: Mostra/Nascondi pulsante Viscoll nell'interfaccia web -->
 	<!-- default: false() -->
-	<xsl:param name="viscoll_button" select="true()"/>
+	<xsl:param name="viscoll_button" select="false()"/>
 	
 	<!-- VISCOLL -->
 	<!-- In order to let Viscoll work properly, you need to prepare the collation scheme and the image list, as it is explained in the point 1 and 2 of 
